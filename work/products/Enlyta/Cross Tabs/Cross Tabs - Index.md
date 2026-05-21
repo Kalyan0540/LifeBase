@@ -11,8 +11,8 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 
 - `Concepts/` — Product/UX understanding (features, workflows, behaviours, rules)
 - `Decisions/` — Explicit product/design decisions with reasoning and tradeoffs
-- `Patterns/` — Recurring behaviour emerging across decisions/concepts
 - `Cross Tabs - Tasks` — Open, blocked, and completed tasks
+- [[Patterns Index]] — Cross-product pattern registry
 
 ## Concepts
 
@@ -29,7 +29,10 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 
 ## Patterns
 
-No patterns captured yet.
+This sub-product follows two work-level patterns — see [[Patterns Index]] for detail:
+
+- [[patterns/Session-Based Destructive Confirmation|Session-Based Destructive Confirmation]]
+- [[patterns/Trigger Warnings on Intent, Not Possibility|Trigger Warnings on Intent, Not Possibility]]
 
 ## Source Notes
 
@@ -39,4 +42,4 @@ No patterns captured yet.
 
 ---
 
-*Updated: 2026-05-20*
+*Updated: 2026-05-22*

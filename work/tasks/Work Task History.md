@@ -117,3 +117,53 @@ Resolved triage — 3 Common Components bucketing tasks duplicated into both Cro
 
 - Create loading state for N size in bucketing.
   - ID: TASK-2026-05-20-009 (Cross Tabs) / TASK-2026-05-20-012 (AI Summarisation)
+
+## 2026-05-21
+
+Priority and status updates across Cross Tabs and AI Summarisation per user review.
+
+**Cross Tabs — priority changes:**
+- TASK-2026-05-18-002 (Update filter journeys for the confirmation dialogue): P0 → P2
+- TASK-2026-05-20-003 (Update variable creation flows in UI): no priority → P1
+- TASK-2026-05-20-007 (Confirm with Pradnya on bucketing flow): no priority → P0
+- TASK-2026-05-20-008 (Add validation that bucket names should not be the same): no priority → P0
+
+**Cross Tabs — status changes:**
+- TASK-2026-05-18-001 (Complete the decision making on new variable creation): marked completed 2026-05-21
+- TASK-2026-05-18-003 (Crosstab prototype demo recording): moved to Blocked/On Hold
+- TASK-2026-05-20-009 (Create loading state for N size in bucketing): removed from Cross Tabs (kept in AI Summarisation only)
+
+**AI Summarisation — priority changes:**
+- TASK-2026-05-20-004 (Warning message for deleting bucketing): no priority → P0
+- TASK-2026-05-20-005 (Update button text to "Reset to default"): no priority → P0
+- TASK-2026-05-20-006 (Provide Dominique the links): no priority → P0
+- TASK-2026-05-20-010 (Confirm with Pradnya on bucketing flow): no priority → P0
+- TASK-2026-05-20-011 (Add validation that bucket names should not be the same): no priority → P0
+- TASK-2026-05-20-012 (Create loading state for N size in bucketing): no priority → P0
+
+## 2026-05-22
+
+Processed `raw/work/inbox/2026-05-21 Priority Tasks.md`.
+
+**Cross Tabs — completed:**
+- TASK-2026-05-20-001 (User journey for Run-before-Save flow; add Save button tooltip): completed 2026-05-21
+- TASK-2026-05-20-002 (Design confirmation dialogue for back/reload without running): completed 2026-05-21
+- TASK-2026-05-20-007 (Confirm with Pradnya on bucketing flow difference): completed 2026-05-21
+- TASK-2026-05-20-008 (Add validation that bucket names should not be the same): completed 2026-05-21
+
+**Cross Tabs — priority change:**
+- TASK-2026-05-20-003 (Update variable creation flows in UI): P1 → P2
+
+**Cross Tabs — new task:**
+- Update table designs: update all screenshots and check links in Jira.
+  - ID: TASK-2026-05-21-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+  - Note: Parent task "Update table designs" has two sub-items completed (bucketed indication for column variable; Mean and SD table view); this task covers the remaining open sub-item.
+
+**AI Summarisation — completed:**
+- TASK-2026-05-20-004 (Warning message for deleting bucketing if a summary is already generated): completed 2026-05-21
+- TASK-2026-05-20-005 (Update button text to "Reset to default"): completed 2026-05-21
+- TASK-2026-05-20-010 (Confirm with Pradnya on bucketing flow difference): completed 2026-05-21
+- TASK-2026-05-20-011 (Add validation that bucket names should not be the same): completed 2026-05-21
+- TASK-2026-05-20-012 (Create loading state for N size in bucketing): completed 2026-05-21

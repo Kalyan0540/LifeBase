@@ -11,14 +11,19 @@ Raw work notes live in `raw/work/inbox/`. They can be messy. They do not need fr
 ## Structure
 
 ```text
-raw/work/inbox/                messy source notes
-work/Work Index.md             work map
-work/Work Inbox Index.md       processing tracker
-work/Work Tasks.md             daily task dashboard
-work/Work Task History.md      chronological task history
-work/Work Needs Triage.md      unclear product ownership
-work/Work Log.md               work operation log
-work/products/<Parent>/        parent products
+raw/work/inbox/                    messy source notes
+work/Work Index.md                 master entry point (root level)
+work/patterns/                     cross-product patterns
+  ├── Patterns Index.md            pattern registry table
+  └── [one file per pattern]
+work/tasks/                        task tracking
+  ├── Work Tasks.md                daily task dashboard
+  └── Work Task History.md         chronological task history
+work/tracking/                     processing pipeline & ops
+  ├── Work Inbox Index.md          processing tracker
+  ├── Work Needs Triage.md         unclear product ownership
+  └── Work Log.md                  work operation log
+work/products/<Parent>/            parent products
 ```
 
 Products are organised in a two-level hierarchy: **parent → sub-product**. A parent that has only one product can be flattened (no sub-product folder) until additional sub-products appear.
@@ -30,8 +35,7 @@ work/products/<Parent>/<Sub-Product>/
 ├── <Sub-Product> - Index.md     entry point + short intro
 ├── <Sub-Product> - Tasks.md     open / blocked / completed
 ├── Concepts/                    one file per concept
-├── Decisions/                   one file per decision
-└── Patterns/                    one file per pattern (often empty)
+└── Decisions/                   one file per decision
 ```
 
 Current map:
@@ -47,7 +51,7 @@ Catalyst/
 AI/         (flat: no sub-products yet)
 ```
 
-When a new product note arrives, route it to the correct sub-product folder. If ownership is unclear, use `work/Work Needs Triage.md`.
+When a new product note arrives, route it to the correct sub-product folder. If ownership is unclear, use `work/tracking/Work Needs Triage.md`.
 
 ## Core Principles
 
@@ -62,6 +66,12 @@ Concepts are reusable product/UX/system understanding: features, workflows, beha
 - Multiple concept pages per product. One file per concept.
 - Attach images when they exist in the source.
 - Link to related concepts only when genuinely useful.
+
+### Image Reading Rule
+
+Before marking a raw note as processed, check for embedded images (`![[...png]]`, `![[...jpg]]`). If any exist, read each one using the Read tool — images may contain the primary content of the note (decision tables, annotated UI screenshots, comparison charts). A note is not fully processed until all its images have been read.
+
+**Skip an image only if the user has explicitly said not to read it** (e.g. a comment in the raw note or a direct instruction). Do not skip silently or assume an image is decorative.
 - Human-readable first.
 
 ### Source Fidelity vs. Elaboration
@@ -156,15 +166,44 @@ Patterns are recurring behaviours emerging across repeated decisions or concepts
 
 - Examples: *Filled buttons for primary actions*, *Confirmation dialogs before destructive changes*, *Explicit execution preferred over auto-trigger for expensive operations*.
 - Patterns are **not requirements**. They describe how a product generally behaves.
-- They emerge gradually. It is fine for `Patterns/` to stay empty.
+- They emerge gradually. Do not force a pattern from a single example.
 - Flag conflicts when new evidence contradicts an existing pattern. Note the conflict on the pattern page; do not silently overwrite.
 
-Frontmatter:
+### Pattern Location
+
+Patterns live at the **work level** — `work/patterns/` — not at the product or sub-product level. Products and sub-products do not have their own `Patterns/` folders.
+
+When a pattern applies to multiple products, there is **one canonical file** in `work/patterns/`. Add all applicable products to the frontmatter `tags` and the `Applies to` footer line, and update `work/patterns/Patterns Index.md`.
+
+### Pattern Index
+
+`work/patterns/Patterns Index.md` is the cross-product registry. Every pattern must have a row in this table. Columns: Pattern, Description, and one column per parent product (Catalyst, Enlyta, AI, etc.). The product column shows the sub-product name where the pattern is applied, or `—` if not applicable.
+
+When adding a new pattern:
+1. Create the pattern file in `work/patterns/`.
+2. Add product tags to the frontmatter: `tags: [Catalyst, Enlyta]`.
+3. Add a row to `work/patterns/Patterns Index.md`.
+4. Update the relevant parent product Index pages (Patterns section).
+
+### Frontmatter
 
 ```yaml
 ---
 type: pattern
+tags: [ProductA, ProductB]
 ---
+```
+
+Tags use the parent product name exactly (Catalyst, Enlyta, AI) for Obsidian filtering.
+
+Pattern footer includes an `Applies to` line listing products and sub-products:
+
+```md
+---
+
+*Applies to: Catalyst — AI Summarisation · Enlyta — Cross Tabs*
+*Sources: [[Source Page]]*
+*Updated: YYYY-MM-DD*
 ```
 
 ## Source Traceability
@@ -251,14 +290,14 @@ When the user checks a task in `Work Tasks.md` or a product task page:
 When processing work inbox:
 
 1. Read `work/Work Index.md`.
-2. Read `work/Work Inbox Index.md`.
+2. Read `work/tracking/Work Inbox Index.md`.
 3. Process only unprocessed files from `raw/work/inbox/` or pasted work content.
-4. Identify the parent and sub-product. If unclear, use `work/Work Needs Triage.md`.
-5. **Read the raw note fully before writing anything.** Inventory the distinct sections, examples, tables, and callouts it contains.
+4. Identify the parent and sub-product. If unclear, use `work/tracking/Work Needs Triage.md`.
+5. **Read the raw note fully before writing anything.** Inventory the distinct sections, examples, tables, and callouts it contains. If the note contains embedded images, read each one using the Read tool before proceeding — unless the user has explicitly marked a specific image to skip.
 6. Create or update concept pages. Preserve all distinct content from the raw note. Compress only literal duplicates. Elaborate within the framework when source is sparse. Apply the splitting rule if the page grows long and the sub-concepts are logically parallel.
-7. Create decision/pattern pages only when source material is explicit. Do not invent reasoning.
-8. Update explicit tasks.
-9. Update `Work Inbox Index.md` (Output column lists every artifact produced, tagged by type — concept / decision / pattern / tasks), `Work Index.md`, `Work Tasks.md` when needed, `Work Task History.md` when tasks change, and `Work Log.md`.
+7. Create decision pages at the sub-product level (`<Sub-Product>/Decisions/`). Create pattern pages in `work/patterns/`. Check `work/patterns/Patterns Index.md` first — if the pattern already exists, update the index row and tags rather than creating a duplicate file. Do not invent reasoning.
+8. Update explicit tasks in `work/tasks/Work Tasks.md` and the relevant sub-product Tasks file.
+9. Update `work/tracking/Work Inbox Index.md` (Output column lists every artifact produced, tagged by type — concept / decision / pattern / tasks), `Work Index.md`, `work/tasks/Work Tasks.md` when needed, `work/tasks/Work Task History.md` when tasks change, `work/patterns/Patterns Index.md` when patterns change, and `work/tracking/Work Log.md`.
 
 ## Conflict Rules
 
