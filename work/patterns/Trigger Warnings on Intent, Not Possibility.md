@@ -1,5 +1,6 @@
 ---
 type: pattern
+tags: [Catalyst, Enlyta]
 ---
 
 # Trigger Warnings on Intent, Not Possibility
@@ -30,9 +31,8 @@ In AI Summarisation bucketing:
 - Renaming a bucket: no warning shown.
 - Deleting a bucket that is already used in a generated summary: confirmation dialog shown.
 
-The decision to apply this pattern was made in AI Summarisation — see [[Trigger Warnings on Intent, Not Possibility (AI Summarisation Decision)]].
-
 ---
 
+*Applies to: Catalyst — AI Summarisation · Enlyta — Cross Tabs*
 *Sources: [[raw/work/inbox/Trigger warnings on intent, not possibility.md]] · [[raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md]]*
 *Updated: 2026-05-22*

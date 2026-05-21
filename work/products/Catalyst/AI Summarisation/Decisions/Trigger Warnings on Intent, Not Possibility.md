@@ -37,7 +37,7 @@ A passive banner would have made sense if simply entering edit mode itself affec
 - No passive warning banner in the bucketing screen.
 - Show confirmation only for destructive actions that affect existing AI summaries (e.g. deleting a bucket used in summarisation).
 
-See [[Trigger Warnings on Intent, Not Possibility]] (pattern) for the generalised form of this behaviour.
+See [[patterns/Trigger Warnings on Intent, Not Possibility|Trigger Warnings on Intent, Not Possibility]] (pattern) for the generalised form of this behaviour.
 
 ---
 

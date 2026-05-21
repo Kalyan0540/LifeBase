@@ -2,7 +2,7 @@
 
 Append-only chronological record of work-memory operations.
 
-Parse entries with: `grep "^## \[" "work/Work Log.md"`
+Parse entries with: `grep "^## \[" "work/tracking/Work Log.md"`
 
 ---
 
@@ -153,10 +153,63 @@ Updated: `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `Work Tasks.md`
 
 **`raw/work/inbox/Session-Based Destructive Confirmation Pattern.md`** — show destructive confirmation once per session, then suppress. Decision and pattern for AI Summarisation; pattern for Cross Tabs.
 
-Created: `AI Summarisation/Decisions/Session-Based Destructive Confirmation.md`, `AI Summarisation/Patterns/Session-Based Destructive Confirmation.md`, `Cross Tabs/Patterns/Session-Based Destructive Confirmation.md`.
+Created: `AI Summarisation/Decisions/Session-Based Destructive Confirmation.md`, `work/patterns/Session-Based Destructive Confirmation.md`.
 
 **`raw/work/inbox/Trigger warnings on intent, not possibility.md`** and **`raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md`** — same source material (text identical). Show warnings only on destructive intent, not on entering edit mode. Decision and pattern for AI Summarisation; pattern for Cross Tabs. Note: Tabs file contains two embedded images that were not processed in this pass.
 
-Created: `AI Summarisation/Decisions/Trigger Warnings on Intent, Not Possibility.md`, `AI Summarisation/Patterns/Trigger Warnings on Intent, Not Possibility.md`, `Cross Tabs/Patterns/Trigger Warnings on Intent, Not Possibility.md`.
+Created: `AI Summarisation/Decisions/Trigger Warnings on Intent, Not Possibility.md`, `work/patterns/Trigger Warnings on Intent, Not Possibility.md`.
 
 Updated: `Work Inbox Index.md`.
+
+---
+
+## [2026-05-22] restructure | Patterns to work level + work folder reorganisation
+
+Moved patterns from product level to work level per user instruction. Reorganised `work/` into four groups.
+
+**Pattern changes:**
+- Moved pattern files from `work/products/Catalyst/Patterns/` → `work/patterns/`
+- Added `tags: [Catalyst, Enlyta]` frontmatter to each pattern file for Obsidian filtering
+- Deleted old product-level pattern files; feature-level `Patterns/` stubs updated to redirect
+- `Work Patterns Index.md` moved into `work/patterns/Patterns Index.md`
+
+**Folder reorganisation:**
+
+| Before | After |
+|---|---|
+| `work/Work Tasks.md` | `work/tasks/Work Tasks.md` |
+| `work/Work Task History.md` | `work/tasks/Work Task History.md` |
+| `work/Work Inbox Index.md` | `work/tracking/Work Inbox Index.md` |
+| `work/Work Needs Triage.md` | `work/tracking/Work Needs Triage.md` |
+| `work/Work Log.md` | `work/tracking/Work Log.md` |
+| `work/Work Patterns Index.md` | `work/patterns/Patterns Index.md` |
+
+`work/Work Index.md` stays at root as the master entry point.
+
+Updated: `Work Index.md`, `AGENTS.md`, `AGENTS - Work.md`, `Catalyst - Index.md`, `Enlyta - Index.md`, `AI Summarisation - Index.md`, `Cross Tabs - Index.md`, product-level Patterns stubs.
+
+---
+
+## [2026-05-22] fix | Ambiguous pattern links + fix agents stale lines
+
+Fixed all Obsidian link collisions caused by decision files and pattern files sharing identical filenames.
+
+- Decision files: both `Session-Based Destructive Confirmation` and `Trigger Warnings on Intent, Not Possibility` decision pages now use path-qualified links to their canonical pattern pages → `[[patterns/…|…]]`
+- Feature index Patterns sections (AI Summarisation, Cross Tabs): pattern links path-qualified to `[[patterns/…|…]]`; decision links path-qualified to `[[Decisions/…|…]]`
+- Parent index Patterns sections (Catalyst): pattern links path-qualified
+- `[[Patterns Index]]` added to Folders sections in AI Summarisation - Index and Cross Tabs - Index
+- `AGENTS - Work.md`: removed two stale lines ("It is fine for `Patterns/` to stay empty" and "All sub-product and product `Patterns/` folders contain redirect stubs only")
+
+---
+
+## [2026-05-22] process | Tabs vs Custom Tabs (image pass)
+
+Processed the two embedded images in `raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md` that were skipped on the initial pass.
+
+Image 1 — Bucketing & Custom Logic: Pattern Comparison. A 6-criteria comparison (Mental Model, Content Change, Scalability, Discoverability, Industry Convention, User Confidence) between Segmented Controls and Tabs, concluding Tabs are the right choice for Bucketing / Custom Logic in AI Summarisation.
+
+Image 2 — Tabs vs Custom Tabs. Defines the distinction and design rule: Tabs for mode/workflow switching; Custom Tabs for context/breakdown selection.
+
+Created: `AI Summarisation/Concepts/Tabs vs Custom Tabs.md`, `AI Summarisation/Decisions/Tabs over Segmented Controls.md`.
+
+Updated: `AI Summarisation - Index.md` (concept + decision added), `Work Inbox Index.md` (entry corrected).

@@ -11,7 +11,6 @@ Sub-product of [[Enlyta - Index|Enlyta]]. Shared components, colour tokens, and 
 
 - `Concepts/` — Product/UX understanding (components, tokens, foundations)
 - `Decisions/` — Explicit design system decisions
-- `Patterns/` — Recurring design system patterns
 - `Design System - Tasks` — Open, blocked, and completed tasks
 
 ## Concepts
@@ -24,8 +23,8 @@ No explicit decisions captured yet.
 
 ## Patterns
 
-No patterns captured yet.
+No patterns yet. See [[Patterns Index]] for work-level patterns.
 
 ---
 
-*Updated: 2026-05-20*
+*Updated: 2026-05-22*

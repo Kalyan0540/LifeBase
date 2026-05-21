@@ -11,21 +11,26 @@ Sub-product of [[Catalyst - Index|Catalyst]]. AI-powered summarisation feature, 
 
 - `Concepts/` — Product/UX understanding (summarisation behaviour, flag model, member-side flow)
 - `Decisions/` — Explicit product/design decisions
-- `Patterns/` — Recurring behaviour
 - `AI Summarisation - Tasks` — Open, blocked, and completed tasks
+- [[Patterns Index]] — Cross-product pattern registry
 
 ## Concepts
 
-No concepts captured yet.
+- [[Tabs vs Custom Tabs]] — When to use Tabs (mode/workflow switching) vs Custom Tabs (context/breakdown selection)
 
 ## Decisions
 
-No explicit decisions captured yet.
+- [[Decisions/Session-Based Destructive Confirmation|Session-Based Destructive Confirmation]] — Show confirmation once per session for destructive actions, then suppress
+- [[Decisions/Trigger Warnings on Intent, Not Possibility|Trigger Warnings on Intent, Not Possibility]] — Show warnings on destructive action, not on entering edit mode
+- [[Decisions/Tabs over Segmented Controls|Tabs over Segmented Controls]] — Use Tabs (not Segmented Controls) for Bucketing and Custom Logic
 
 ## Patterns
 
-No patterns captured yet.
+This sub-product applies two work-level patterns — see [[Patterns Index]] for detail:
+
+- [[patterns/Session-Based Destructive Confirmation|Session-Based Destructive Confirmation]]
+- [[patterns/Trigger Warnings on Intent, Not Possibility|Trigger Warnings on Intent, Not Possibility]]
 
 ---
 
-*Updated: 2026-05-20*
+*Updated: 2026-05-22*

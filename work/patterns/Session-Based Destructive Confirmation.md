@@ -1,5 +1,6 @@
 ---
 type: pattern
+tags: [Catalyst, Enlyta]
 ---
 
 # Session-Based Destructive Confirmation
@@ -44,5 +45,6 @@ This pattern works better when:
 
 ---
 
-*Sources: [[Session-Based Destructive Confirmation (AI Summarisation Decision)]]*
+*Applies to: Catalyst — AI Summarisation · Enlyta — Cross Tabs*
+*Sources: [[raw/work/inbox/Session-Based Destructive Confirmation Pattern.md]]*
 *Updated: 2026-05-22*

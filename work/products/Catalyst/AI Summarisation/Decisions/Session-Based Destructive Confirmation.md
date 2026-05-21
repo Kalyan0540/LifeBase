@@ -22,7 +22,7 @@ When a user performs a destructive action (e.g. deleting a bucket that is alread
 
 This pattern applies when the destructive action is recoverable or the cost of repeating it is moderate. It is not appropriate when actions are irreversible, affect multiple users simultaneously, or could cause significant data loss.
 
-See [[Session-Based Destructive Confirmation]] (pattern) for full behaviour and usage guidance.
+See [[patterns/Session-Based Destructive Confirmation|Session-Based Destructive Confirmation]] (pattern) for full behaviour and usage guidance.
 
 ---
 

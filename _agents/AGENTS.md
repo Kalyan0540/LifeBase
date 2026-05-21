@@ -31,12 +31,17 @@ LifeBase/
 │   └── assets/
 ├── wiki/
 ├── work/
-│   ├── Work Index.md
-│   ├── Work Tasks.md
-│   ├── Work Task History.md
-│   ├── Work Inbox Index.md
-│   ├── Work Needs Triage.md
-│   ├── Work Log.md
+│   ├── Work Index.md              ← master entry point (stays at root)
+│   ├── patterns/                  ← work-level patterns (cross-product)
+│   │   ├── Patterns Index.md
+│   │   └── [one file per pattern]
+│   ├── tasks/                     ← task tracking
+│   │   ├── Work Tasks.md
+│   │   └── Work Task History.md
+│   ├── tracking/                  ← processing pipeline & ops
+│   │   ├── Work Inbox Index.md
+│   │   ├── Work Needs Triage.md
+│   │   └── Work Log.md
 │   └── products/
 │       ├── Enlyta/
 │       │   ├── Enlyta - Index.md
@@ -44,28 +49,24 @@ LifeBase/
 │       │   │   ├── Cross Tabs - Index.md
 │       │   │   ├── Cross Tabs - Tasks.md
 │       │   │   ├── Concepts/
-│       │   │   ├── Decisions/
-│       │   │   └── Patterns/
+│       │   │   └── Decisions/
 │       │   └── Design System/
 │       │       ├── Design System - Index.md
 │       │       ├── Design System - Tasks.md
 │       │       ├── Concepts/
-│       │       ├── Decisions/
-│       │       └── Patterns/
+│       │       └── Decisions/
 │       ├── Catalyst/
 │       │   ├── Catalyst - Index.md
 │       │   └── AI Summarisation/
 │       │       ├── AI Summarisation - Index.md
 │       │       ├── AI Summarisation - Tasks.md
 │       │       ├── Concepts/
-│       │       ├── Decisions/
-│       │       └── Patterns/
+│       │       └── Decisions/
 │       └── AI/
 │           ├── AI - Index.md
 │           ├── AI - Tasks.md
 │           ├── Concepts/
-│           ├── Decisions/
-│           └── Patterns/
+│           └── Decisions/
 └── thoughts/
 ```
 

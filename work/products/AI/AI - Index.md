@@ -10,7 +10,6 @@ AI product work. Includes Claude skills, AI-related features, and demos. Treated
 
 - `Concepts/` — Product/UX understanding (features, workflows, behaviours)
 - `Decisions/` — Explicit product/design decisions
-- `Patterns/` — Recurring behaviour
 - `AI - Tasks` — Open, blocked, and completed tasks
 
 ## Concepts
@@ -23,8 +22,8 @@ No explicit decisions captured yet.
 
 ## Patterns
 
-No patterns captured yet.
+No patterns yet. See [[Patterns Index]] for work-level patterns.
 
 ---
 
-*Updated: 2026-05-20*
+*Updated: 2026-05-22*
