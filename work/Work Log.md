@@ -136,3 +136,27 @@ Expanded the Concepts section of `_agents/AGENTS - Work.md` with four named subs
 - **Deduplication** — consolidate literal duplicates (within a source, or across sources for shared behaviour). Never drop content for "seeming" similar.
 
 Also expanded the **Work Inbox Processing** checklist with new steps: read the raw note fully and inventory its sections first; preserve distinct content; apply the splitting rule when warranted; tag every artifact in the Output column of `Work Inbox Index.md` by type.
+
+---
+
+## [2026-05-22] process | Priority tasks + 3 pattern/decision notes
+
+Processed 4 unprocessed raw work inbox files.
+
+**`raw/work/inbox/2026-05-21 Priority Tasks.md`** — task status update file.
+
+Cross Tabs completions (2026-05-21): TASK-2026-05-20-001, -002, -007, -008. Priority change: TASK-2026-05-20-003 P1 → P2. New task: TASK-2026-05-21-001 — Update table designs: update all screenshots and check links in Jira. `P0`
+
+AI Summarisation completions (2026-05-21): TASK-2026-05-20-004, -005, -010, -011, -012.
+
+Updated: `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Task History.md`.
+
+**`raw/work/inbox/Session-Based Destructive Confirmation Pattern.md`** — show destructive confirmation once per session, then suppress. Decision and pattern for AI Summarisation; pattern for Cross Tabs.
+
+Created: `AI Summarisation/Decisions/Session-Based Destructive Confirmation.md`, `AI Summarisation/Patterns/Session-Based Destructive Confirmation.md`, `Cross Tabs/Patterns/Session-Based Destructive Confirmation.md`.
+
+**`raw/work/inbox/Trigger warnings on intent, not possibility.md`** and **`raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md`** — same source material (text identical). Show warnings only on destructive intent, not on entering edit mode. Decision and pattern for AI Summarisation; pattern for Cross Tabs. Note: Tabs file contains two embedded images that were not processed in this pass.
+
+Created: `AI Summarisation/Decisions/Trigger Warnings on Intent, Not Possibility.md`, `AI Summarisation/Patterns/Trigger Warnings on Intent, Not Possibility.md`, `Cross Tabs/Patterns/Trigger Warnings on Intent, Not Possibility.md`.
+
+Updated: `Work Inbox Index.md`.
