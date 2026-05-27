@@ -10,6 +10,8 @@ Read the raw note fully before writing anything. Preserve distinct sections, exa
 
 If the note contains embedded images (`![[...png]]`, `![[...jpg]]`, etc.), read each image before marking the note processed unless the user explicitly says to skip it.
 
+Work attachments should live in `raw/work/assets/`. If an inbox note refers to files in `raw/work/inbox/assets/` or another note-local assets folder, move or de-duplicate those attachments into `raw/work/assets/`, update the markdown links to the canonical asset path, and remove stale duplicate asset folders after verifying no active note references them.
+
 PDFs are valid work sources. Read or extract the PDF before processing, and preserve important tables, screenshots, decisions, and tasks.
 
 ## Processing Steps
@@ -73,4 +75,3 @@ Checked tasks in a source or task page should be treated as completed during the
 - Decisions preserve history. Mark old decisions as `superseded` instead of deleting them.
 - Patterns flag conflicts when new behaviour contradicts an existing pattern.
 - Task history is append-only.
-
