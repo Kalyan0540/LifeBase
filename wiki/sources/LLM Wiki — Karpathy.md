@@ -2,9 +2,9 @@
 type: source
 source_title: "LLM Wiki"
 source_url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
-raw_path: "raw/llm-wiki.md"
+raw_path: "raw/knowledge/technology/ai/llm-wiki.md"
 created: 2026-05-07
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # LLM Wiki — Karpathy

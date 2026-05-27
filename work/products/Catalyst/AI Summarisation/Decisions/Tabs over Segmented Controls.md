@@ -31,7 +31,7 @@ A full criteria comparison was evaluated:
 
 Bucketing and Custom Logic are two distinct workflows with different tools and intentions. Segmented Controls imply a lightweight toggle within a single context; Tabs set the correct expectation that the user is moving between separate editors. Tabs also scale better if additional workflow modes are introduced later.
 
-![[Pasted image 20260522001218.png]]
+![[raw/work/assets/Pasted image 20260522001218.png]]
 
 ## Final Behaviour
 
@@ -43,5 +43,5 @@ See [[Tabs vs Custom Tabs]] (concept) for the broader Tabs vs Custom Tabs distin
 
 ---
 
-*Sources: [[raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md]]*
+*Sources: [[raw/work/processed/Tabs vs Segemented controls vs Custom tabs.md]]*
 *Updated: 2026-05-22*

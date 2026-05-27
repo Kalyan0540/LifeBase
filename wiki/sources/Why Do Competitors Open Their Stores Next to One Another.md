@@ -6,9 +6,9 @@ channel_name: "TED-Ed"
 channel_url: "https://www.youtube.com/@TED-Ed"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Why do competitors open their stores next to one another? - Jac de Haan.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/Why do competitors open their stores next to one another? - Jac de Haan.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Why Do Competitors Open Their Stores Next to One Another?

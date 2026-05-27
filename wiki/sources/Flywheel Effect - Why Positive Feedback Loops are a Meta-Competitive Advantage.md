@@ -2,9 +2,9 @@
 type: source
 source_title: "Flywheel Effect: Why Positive Feedback Loops are a Meta-Competitive Advantage"
 source_url: "https://medium.com/evergreen-business-weekly/flywheel-effect-why-positive-feedback-loops-are-a-meta-competitive-advantage-6d0ed55b67c5"
-raw_path: "raw/Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage.md"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-27
 ---
 
 # Flywheel Effect — Why Positive Feedback Loops are a Meta-Competitive Advantage

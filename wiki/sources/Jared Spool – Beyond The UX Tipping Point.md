@@ -6,9 +6,9 @@ channel_name: "From Business to Buttons"
 channel_url: "https://www.youtube.com/@frombusinesstobuttons"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Jared Spool – Beyond The UX Tipping Point.md"
+raw_path: "raw/knowledge/product-and-design/design/Jared Spool – Beyond The UX Tipping Point.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Jared Spool — Beyond The UX Tipping Point

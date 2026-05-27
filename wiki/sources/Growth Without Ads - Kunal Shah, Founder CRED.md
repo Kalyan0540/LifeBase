@@ -6,9 +6,9 @@ channel_name: "YourStory"
 channel_url: "https://www.youtube.com/@YourStory"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Growth Without Ads — Kunal Shah, Founder CRED

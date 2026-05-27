@@ -52,9 +52,9 @@ Used for **selecting different contexts or breakdowns** of the same data.
 
 Bucketing and Custom Logic use **Tabs** (not Segmented Controls, not Custom Tabs). They are two distinct workflows with different tools and intentions. See [[Decisions/Tabs over Segmented Controls|Tabs over Segmented Controls]] for the decision and full comparison.
 
-![[Pasted image 20260522001227.png]]
+![[raw/work/assets/Pasted image 20260522001227.png]]
 
 ---
 
-*Sources: [[raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md]]*
+*Sources: [[raw/work/processed/Tabs vs Segemented controls vs Custom tabs.md]]*
 *Updated: 2026-05-22*

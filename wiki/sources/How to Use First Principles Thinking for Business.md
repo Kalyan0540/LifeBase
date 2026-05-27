@@ -6,9 +6,9 @@ channel_name: ""
 channel_url: ""
 published: ""
 duration_seconds: ""
-raw_path: "raw/How to Use First Principles Thinking for Business.md"
+raw_path: "raw/knowledge/mental-models/How to Use First Principles Thinking for Business.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # How to Use First Principles Thinking for Business

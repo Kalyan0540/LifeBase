@@ -34,5 +34,5 @@ In AI Summarisation bucketing:
 ---
 
 *Applies to: Catalyst — AI Summarisation · Enlyta — Cross Tabs*
-*Sources: [[raw/work/inbox/Trigger warnings on intent, not possibility.md]] · [[raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md]]*
+*Sources: [[raw/work/processed/Trigger warnings on intent, not possibility.md]] · [[raw/work/processed/Tabs vs Segemented controls vs Custom tabs.md]]*
 *Updated: 2026-05-22*

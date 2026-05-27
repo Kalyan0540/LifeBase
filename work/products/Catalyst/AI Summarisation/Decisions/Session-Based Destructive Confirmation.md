@@ -26,5 +26,5 @@ See [[patterns/Session-Based Destructive Confirmation|Session-Based Destructive 
 
 ---
 
-*Sources: [[raw/work/inbox/Session-Based Destructive Confirmation Pattern.md]]*
+*Sources: [[raw/work/processed/Session-Based Destructive Confirmation Pattern.md]]*
 *Updated: 2026-05-22*

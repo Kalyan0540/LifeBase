@@ -6,9 +6,9 @@ channel_name: "TD Sunshine"
 channel_url: ""
 published: ""
 duration_seconds: ""
-raw_path: "raw/Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors.md"
+raw_path: "raw/knowledge/product-and-design/design/Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors.md"
 created: 2026-05-07
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Figma Design System 2025 - Colour Tokens Ep 1

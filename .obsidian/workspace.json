@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf24f2be286f297c",
+            "id": "053e4b92405c7d2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/patterns/Session-Based Destructive Confirmation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session-Based Destructive Confirmation"
-            }
-          },
-          {
-            "id": "028488e19ea6e1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Work Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,47 +204,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "028488e19ea6e1dd",
+  "active": "053e4b92405c7d2b",
   "lastOpenFiles": [
-    "work/tracking/Work Log.md",
-    "work/Work Index.md",
-    "work/tasks/Work Tasks.md",
-    "work/patterns/Patterns Index.md",
-    "_agents/AGENTS - Work.md",
-    "_agents/AGENTS - Wiki.md",
-    "_agents/AGENTS - Thoughts.md",
-    "raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md",
-    "work/products/Catalyst/AI Summarisation/Decisions/Tabs over Segmented Controls.md",
-    "work/products/Catalyst/AI Summarisation/Concepts/Tabs vs Custom Tabs.md",
-    "raw/work/inbox/Today's meeting notes.md",
-    "work/products/Catalyst/AI Summarisation/AI Summarisation - Tasks.md",
-    "work/products/Catalyst/AI Summarisation/AI Summarisation - Index.md",
-    "work/products/Catalyst/AI Summarisation/Decisions/Trigger Warnings on Intent, Not Possibility.md",
-    "work/products/Catalyst/AI Summarisation/Decisions/Session-Based Destructive Confirmation.md",
-    "raw/work/inbox/Trigger warnings on intent, not possibility.md",
-    "raw/work/inbox/Session-Based Destructive Confirmation Pattern.md",
-    "raw/work/inbox/Enlyta Discussion.md",
-    "raw/work/inbox/Custom Variable Creation - Variable Output.md",
-    "raw/work/inbox/Custom Variable Creation - Text Output.md",
-    "raw/work/inbox/Custom Variable Creation - Number Output.md",
-    "work/products/Enlyta/Enlyta - Index.md",
-    "work/tasks/Work Task History.md",
-    "work/patterns/Session-Based Destructive Confirmation.md",
-    "work/patterns/Trigger Warnings on Intent, Not Possibility.md",
-    "work/products/Enlyta/Cross Tabs/Concepts/Run and Save Flow.md",
-    "work/tracking",
-    "work/tasks",
-    "work/patterns",
-    "work/products/Enlyta/Patterns",
-    "work/products/Catalyst/Patterns",
     "raw/work/inbox/assets/Pasted image 20260522001227.png",
     "raw/work/inbox/assets/Pasted image 20260522001218.png",
     "raw/work/inbox/assets/Catalyst Summary Generated for the selected bucketing.png",
     "raw/work/inbox/assets/Catalyst Summary Bucketing.png",
     "raw/work/inbox/assets",
-    "work/products/AI/Patterns",
-    "work/products/AI/Decisions",
-    "work/products/AI/Concepts",
-    "work/products/Catalyst/AI Summarisation/Patterns"
+    "raw/work/inbox/Trigger warnings on intent, not possibility.md",
+    "raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md",
+    "raw/work/inbox/Session-Based Destructive Confirmation Pattern.md",
+    "raw/work/inbox/2026-05-21 Priority Tasks.md",
+    "_agents/AGENTS.md",
+    "_agents/AGENTS - Work.md",
+    "_agents",
+    "wiki/concepts/Colour Token Architecture.md",
+    "AGENTS.md",
+    "work/tracking/Work Needs Triage.md",
+    "work/tracking/Work Log.md",
+    "work/tracking/Work Inbox Index.md",
+    "index.md",
+    "work/Work Index.md",
+    "wiki/Wiki Index.md",
+    "wiki/Wiki Log.md",
+    "thoughts/Thoughts Log.md",
+    "thoughts/Thoughts Index.md",
+    "rules/Wiki.md",
+    "rules/Thoughts.md",
+    "rules/README - How to Use LifeBase.md",
+    "rules/work/Work Formats.md",
+    "rules/work/Work.md",
+    "rules/work/Process Work.md",
+    "log.md",
+    "raw/work/assets/Pasted image 20260522001227.png",
+    "raw/work/assets/Pasted image 20260522001218.png",
+    "raw/work/assets/Catalyst Summary Generated for the selected bucketing.png",
+    "raw/work/assets/Catalyst Summary Bucketing.png",
+    "thoughts/topics",
+    "raw/thoughts/inbox",
+    "raw/thoughts/assets",
+    "raw/thoughts",
+    "raw/work/assets",
+    "raw/knowledge/assets",
+    "rules/work",
+    "rules",
+    "work/products/Catalyst/Activity Feed/Activity Feed - Index.md",
+    "raw/work/processed/assets/Pasted image 20260522001227.png",
+    "raw/work/processed/assets/Pasted image 20260522001218.png",
+    "raw/work/processed/assets/Catalyst Summary Generated for the selected bucketing.png"
   ]
 }
