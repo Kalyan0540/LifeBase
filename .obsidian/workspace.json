@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc13740049cfc65",
+        "id": "791ee3e273c8187d",
         "type": "tabs",
         "children": [
           {
-            "id": "053e4b92405c7d2b",
+            "id": "65c3ebad28560bf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "raw/work/processed/Trigger warnings on intent, not possibility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trigger warnings on intent, not possibility"
             }
           }
         ]
@@ -204,22 +208,32 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "053e4b92405c7d2b",
+  "active": "65c3ebad28560bf1",
   "lastOpenFiles": [
-    "raw/work/inbox/assets/Pasted image 20260522001227.png",
-    "raw/work/inbox/assets/Pasted image 20260522001218.png",
-    "raw/work/inbox/assets/Catalyst Summary Generated for the selected bucketing.png",
-    "raw/work/inbox/assets/Catalyst Summary Bucketing.png",
-    "raw/work/inbox/assets",
-    "raw/work/inbox/Trigger warnings on intent, not possibility.md",
+    "raw/work/assets/Catalyst Summary Generated for the selected bucketing.png",
+    "raw/work/processed/Trigger warnings on intent, not possibility.md",
+    "raw/work/processed/Today's meeting notes.md",
+    "raw/work/processed/Session-Based Destructive Confirmation Pattern.md",
+    "raw/work/processed/2026-05-21 Priority Tasks.md",
+    "rules/work/Process Work.md",
+    "rules/work/Work.md",
+    "rules/Wiki.md",
+    "rules/Thoughts.md",
+    "AGENTS.md",
+    "work/patterns/Session-Based Destructive Confirmation.md",
     "raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md",
+    "raw/work/inbox/Trigger warnings on intent, not possibility.md",
+    "raw/work/inbox/assets/Catalyst Summary Generated for the selected bucketing.png",
     "raw/work/inbox/Session-Based Destructive Confirmation Pattern.md",
+    "raw/work/inbox/assets/Pasted image 20260522001218.png",
+    "raw/work/inbox/assets/Catalyst Summary Bucketing.png",
+    "raw/work/inbox/assets/Pasted image 20260522001227.png",
+    "raw/work/inbox/assets",
     "raw/work/inbox/2026-05-21 Priority Tasks.md",
     "_agents/AGENTS.md",
     "_agents/AGENTS - Work.md",
     "_agents",
     "wiki/concepts/Colour Token Architecture.md",
-    "AGENTS.md",
     "work/tracking/Work Needs Triage.md",
     "work/tracking/Work Log.md",
     "work/tracking/Work Inbox Index.md",
@@ -228,17 +242,8 @@
     "wiki/Wiki Index.md",
     "wiki/Wiki Log.md",
     "thoughts/Thoughts Log.md",
-    "thoughts/Thoughts Index.md",
-    "rules/Wiki.md",
-    "rules/Thoughts.md",
-    "rules/README - How to Use LifeBase.md",
-    "rules/work/Work Formats.md",
-    "rules/work/Work.md",
-    "rules/work/Process Work.md",
-    "log.md",
     "raw/work/assets/Pasted image 20260522001227.png",
     "raw/work/assets/Pasted image 20260522001218.png",
-    "raw/work/assets/Catalyst Summary Generated for the selected bucketing.png",
     "raw/work/assets/Catalyst Summary Bucketing.png",
     "thoughts/topics",
     "raw/thoughts/inbox",
@@ -248,9 +253,7 @@
     "raw/knowledge/assets",
     "rules/work",
     "rules",
-    "work/products/Catalyst/Activity Feed/Activity Feed - Index.md",
     "raw/work/processed/assets/Pasted image 20260522001227.png",
-    "raw/work/processed/assets/Pasted image 20260522001218.png",
-    "raw/work/processed/assets/Catalyst Summary Generated for the selected bucketing.png"
+    "raw/work/processed/assets/Pasted image 20260522001218.png"
   ]
 }
