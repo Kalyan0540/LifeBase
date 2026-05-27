@@ -4,7 +4,11 @@ This file is for you, not for the LLM processing workflow.
 
 ## What Goes Where
 
-Use `raw/knowledge/` for articles, videos, essays, research, and learning material that should become part of the durable knowledge wiki.
+Use `raw/knowledge/inbox/` for new articles, videos, essays, research, and learning material that should become part of the durable knowledge wiki.
+
+After processing, the LLM moves each knowledge source from `raw/knowledge/inbox/` into the right topic folder under `raw/knowledge/`, then creates or updates the matching wiki pages. Moving the raw file is not enough by itself; it must still be processed into `wiki/`.
+
+Keep the first level under `raw/knowledge/` broad and easy to scan: examples are `product-and-design/`, `technology/`, `health-and-wellness/`, `finance/`, and `mental-models/`. More specific folders should live inside those broad shelves only when there are enough files to justify them.
 
 Use `raw/work/inbox/` for messy work capture: meeting notes, todos, PRD snippets, requirements, research notes, Slack summaries, and pasted work notes.
 
@@ -47,7 +51,7 @@ What did I complete on Cross Tabs last week?
 
 ## Mental Model
 
-`raw/` is where messy source material lands.
+`raw/` is where messy source material lands. New knowledge starts in `raw/knowledge/inbox/`; processed knowledge sources live in broad topic folders under `raw/knowledge/`, with optional subfolders only when a folder becomes crowded.
 
 `wiki/` is durable knowledge.
 

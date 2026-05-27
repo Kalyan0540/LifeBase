@@ -31,17 +31,17 @@ Added 6 tasks from unchecked items on the user's work task board screenshot. Thr
 - Design system colour tokens.
   - ID: TASK-2026-05-18-004
   - Priority: P2
-  - Product: [[Enlyta Design System - Index]]
+  - Product: [[Design System - Index]]
 
 - Summarisation backend flag turn on/off for member side.
   - ID: TASK-2026-05-18-005
   - Priority: P2
-  - Product: [[Catalyst AI Summarisation - Index]]
+  - Product: [[AI Summarisation - Index]]
 
 - Claude skills quick demo recording.
   - ID: TASK-2026-05-18-006
   - Priority: P3
-  - Product: [[AI Product - Index]]
+  - Product: [[AI - Index]]
 
 - Render Table designs.
   - ID: TASK-2026-05-18-007
@@ -143,7 +143,7 @@ Priority and status updates across Cross Tabs and AI Summarisation per user revi
 
 ## 2026-05-22
 
-Processed `raw/work/inbox/2026-05-21 Priority Tasks.md`.
+Processed `raw/work/processed/2026-05-21 Priority Tasks.md`.
 
 **Cross Tabs — completed:**
 - TASK-2026-05-20-001 (User journey for Run-before-Save flow; add Save button tooltip): completed 2026-05-21
@@ -167,3 +167,26 @@ Processed `raw/work/inbox/2026-05-21 Priority Tasks.md`.
 - TASK-2026-05-20-010 (Confirm with Pradnya on bucketing flow difference): completed 2026-05-21
 - TASK-2026-05-20-011 (Add validation that bucket names should not be the same): completed 2026-05-21
 - TASK-2026-05-20-012 (Create loading state for N size in bucketing): completed 2026-05-21
+
+## 2026-05-27
+
+Processed `raw/work/processed/2026-05-26 Notes.md`.
+
+**Cross Tabs — new task:**
+- For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs.
+  - ID: TASK-2026-05-26-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+
+**Cross Tabs — completed:**
+- TASK-2026-05-21-001 (Update table designs: update all screenshots and check links in Jira): completed 2026-05-25
+
+**AI Summarisation — completed:**
+- TASK-2026-05-20-006 (Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields): completed 2026-05-25
+
+**Activity Feed — completed:**
+- Peer review new activity feed in Catalyst for both member side and facilitator side.
+  - ID: TASK-2026-05-26-002
+  - Priority: P0
+  - Product: [[Activity Feed - Index]]
+  - Completed: 2026-05-25

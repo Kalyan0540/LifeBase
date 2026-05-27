@@ -11,7 +11,9 @@ Do not put work notes, todos, or personal thoughts into the wiki unless the user
 ## Structure
 
 ```text
-raw/knowledge/       future knowledge source captures
+raw/knowledge/inbox/ new unprocessed knowledge source captures
+raw/knowledge/<broad-topic>/ processed raw knowledge sources, grouped by broad domain
+raw/knowledge/<broad-topic>/<subtopic>/ optional subfolders when a broad topic gets crowded
 wiki/sources/        one processed source page per raw source
 wiki/concepts/       reusable ideas and themes
 wiki/entities/       people, products, companies, places, events
@@ -21,6 +23,10 @@ log.md               knowledge/wiki operation log
 ```
 
 Legacy knowledge sources may still exist directly under `raw/`.
+
+New knowledge files should be added to `raw/knowledge/inbox/`. During ingest, classify each inbox file first and move it to its final topic folder before creating generated wiki pages. Moving a file out of inbox is not a completed ingest; the source page, concept/entity pages, indexes, and log must still be updated in the same processing pass.
+
+Keep `raw/knowledge/` top-level folders broad and few. Prefer names such as `product-and-design`, `technology`, `health-and-wellness`, `finance`, and `mental-models`. Use subfolders inside those broad folders only when the file count or retrieval need justifies it. For example: AI and cryptography belong under `technology/`, not as separate top-level folders.
 
 ## Source Page Frontmatter
 
@@ -72,13 +78,17 @@ Use `type: entity` for entity pages.
 
 When the user asks to process knowledge sources:
 
-1. Identify new knowledge files by comparing raw files against `raw_path` in `wiki/sources/`.
-2. Read the source fully.
-3. Create or update one source page in `wiki/sources/`.
-4. Create or update concept/entity pages only when there is enough content.
-5. Update `wiki/overview.md` when the synthesis changes.
-6. Update root `index.md`.
-7. Append a knowledge entry to root `log.md`.
+1. Identify new knowledge files in `raw/knowledge/inbox/`. Also check for legacy unprocessed files by comparing raw files against `raw_path` in `wiki/sources/`.
+2. Read each source enough to classify it into a stable broad topic folder under `raw/knowledge/`, and only choose/create a subfolder if the broad folder is already becoming crowded.
+3. Move the raw file from `raw/knowledge/inbox/` to the chosen topic folder before generating pages.
+4. Read the source fully from its final location.
+5. Create or update one source page in `wiki/sources/` with `raw_path` pointing to the final raw location.
+6. Create or update concept/entity pages only when there is enough content.
+7. Update `wiki/overview.md` when the synthesis changes.
+8. Update root `index.md`.
+9. Append a knowledge entry to root `log.md`.
+
+Do not leave a file merely moved into a topic folder without a corresponding wiki processing update.
 
 ## Link Rules
 

@@ -6,9 +6,9 @@ channel_name: "Entrepreneurs' Organization"
 channel_url: "https://www.youtube.com/@EONetwork"
 published: ""
 duration_seconds: ""
-raw_path: "raw/How to Build Habit-Forming Products - Nir Eyal.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/How to Build Habit-Forming Products - Nir Eyal.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # How to Build Habit-Forming Products — Nir Eyal (Short)

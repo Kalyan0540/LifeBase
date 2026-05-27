@@ -2,9 +2,9 @@
 type: source
 source_title: "Where teams and agents work together"
 source_url: "https://www.notion.so/bhanukalyan/Airplane-and-rocket-analogy-13517e3d56d741b3826f6f58fed69319"
-raw_path: "raw/Where teams and agents work together.md"
+raw_path: "raw/knowledge/technology/ai/Where teams and agents work together.md"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-27
 ---
 
 # Where Teams and Agents Work Together

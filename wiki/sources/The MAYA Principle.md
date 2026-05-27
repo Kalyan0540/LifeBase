@@ -2,9 +2,9 @@
 type: source
 source_title: "The MAYA Principle: Design for the Future, but Balance it with Your Users’ Present"
 source_url: "https://ixdf.org/literature/article/design-for-the-future-but-balance-it-with-your-users-present"
-raw_path: "raw/The MAYA Principle Design for the Future, but Balance it with Your Users’ Present.md"
+raw_path: "raw/knowledge/product-and-design/design/The MAYA Principle Design for the Future, but Balance it with Your Users’ Present.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # The MAYA Principle

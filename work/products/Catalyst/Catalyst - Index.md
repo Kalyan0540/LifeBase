@@ -9,6 +9,7 @@ Parent product. Sub-products live under `work/products/Catalyst/`.
 ## Sub-Products
 
 - [[AI Summarisation - Index|AI Summarisation]] — AI-powered summarisation feature with backend flag controls
+- [[Activity Feed - Index|Activity Feed]] — Catalyst activity feed work across member and facilitator sides
 
 ## Patterns
 

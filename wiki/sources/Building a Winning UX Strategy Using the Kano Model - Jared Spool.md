@@ -6,9 +6,9 @@ channel_name: "USI Events"
 channel_url: "https://www.youtube.com/@USIEvents"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI.md"
+raw_path: "raw/knowledge/product-and-design/design/Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Building a Winning UX Strategy Using the Kano Model — Jared Spool

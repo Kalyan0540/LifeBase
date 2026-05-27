@@ -109,13 +109,13 @@ Rule reinforced: when raw material is detailed, the concept page should preserve
 
 Processed two new raw work inbox files.
 
-`raw/work/inbox/Enlyta Discussion.md` — Cross Tabs meeting notes. Created two concept/decision artifacts:
+`raw/work/processed/Enlyta Discussion.md` — Cross Tabs meeting notes. Created two concept/decision artifacts:
 - `Cross Tabs/Concepts/Run and Save Flow.md` — Run-before-Save rule, tooltip behaviour, two distinct confirmation dialogues (not-run-then-back vs. run-then-back)
 - `Cross Tabs/Decisions/Run Before Save.md` — explicit decision: no auto-run on save; run is mandatory before save
 - `Cross Tabs/Decisions/Variable Creation Scope.md` — two decisions: (1) output type set at variable level not value level; (2) variable output deferred to post-release
 - Updated `Custom Variable Creation.md` to reflect the scope decisions and add output-type-switching edge case to open threads
 
-`raw/work/inbox/Today's meeting notes.md` — checkbox tasks across three sections:
+`raw/work/processed/Today's meeting notes.md` — checkbox tasks across three sections:
 - Enlyta / Cross Tabs: 3 new tasks (TASK-2026-05-20-001–003)
 - Common Components: 3 tasks routed to `Work Needs Triage` — product ownership unclear; source note itself flagged this for triage
 - Catalyst: 3 new tasks routed to AI Summarisation (TASK-2026-05-20-004–006)
@@ -143,7 +143,7 @@ Also expanded the **Work Inbox Processing** checklist with new steps: read the r
 
 Processed 4 unprocessed raw work inbox files.
 
-**`raw/work/inbox/2026-05-21 Priority Tasks.md`** — task status update file.
+**`raw/work/processed/2026-05-21 Priority Tasks.md`** — task status update file.
 
 Cross Tabs completions (2026-05-21): TASK-2026-05-20-001, -002, -007, -008. Priority change: TASK-2026-05-20-003 P1 → P2. New task: TASK-2026-05-21-001 — Update table designs: update all screenshots and check links in Jira. `P0`
 
@@ -151,11 +151,11 @@ AI Summarisation completions (2026-05-21): TASK-2026-05-20-004, -005, -010, -011
 
 Updated: `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Task History.md`.
 
-**`raw/work/inbox/Session-Based Destructive Confirmation Pattern.md`** — show destructive confirmation once per session, then suppress. Decision and pattern for AI Summarisation; pattern for Cross Tabs.
+**`raw/work/processed/Session-Based Destructive Confirmation Pattern.md`** — show destructive confirmation once per session, then suppress. Decision and pattern for AI Summarisation; pattern for Cross Tabs.
 
 Created: `AI Summarisation/Decisions/Session-Based Destructive Confirmation.md`, `work/patterns/Session-Based Destructive Confirmation.md`.
 
-**`raw/work/inbox/Trigger warnings on intent, not possibility.md`** and **`raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md`** — same source material (text identical). Show warnings only on destructive intent, not on entering edit mode. Decision and pattern for AI Summarisation; pattern for Cross Tabs. Note: Tabs file contains two embedded images that were not processed in this pass.
+**`raw/work/processed/Trigger warnings on intent, not possibility.md`** and **`raw/work/processed/Tabs vs Segemented controls vs Custom tabs.md`** — same source material (text identical). Show warnings only on destructive intent, not on entering edit mode. Decision and pattern for AI Summarisation; pattern for Cross Tabs. Note: Tabs file contains two embedded images that were not processed in this pass.
 
 Created: `AI Summarisation/Decisions/Trigger Warnings on Intent, Not Possibility.md`, `work/patterns/Trigger Warnings on Intent, Not Possibility.md`.
 
@@ -204,7 +204,7 @@ Fixed all Obsidian link collisions caused by decision files and pattern files sh
 
 ## [2026-05-22] process | Tabs vs Custom Tabs (image pass)
 
-Processed the two embedded images in `raw/work/inbox/Tabs vs Segemented controls vs Custom tabs.md` that were skipped on the initial pass.
+Processed the two embedded images in `raw/work/processed/Tabs vs Segemented controls vs Custom tabs.md` that were skipped on the initial pass.
 
 Image 1 — Bucketing & Custom Logic: Pattern Comparison. A 6-criteria comparison (Mental Model, Content Change, Scalability, Discoverability, Industry Convention, User Confidence) between Segmented Controls and Tabs, concluding Tabs are the right choice for Bucketing / Custom Logic in AI Summarisation.
 
@@ -213,3 +213,22 @@ Image 2 — Tabs vs Custom Tabs. Defines the distinction and design rule: Tabs f
 Created: `AI Summarisation/Concepts/Tabs vs Custom Tabs.md`, `AI Summarisation/Decisions/Tabs over Segmented Controls.md`.
 
 Updated: `AI Summarisation - Index.md` (concept + decision added), `Work Inbox Index.md` (entry corrected).
+
+---
+
+## [2026-05-27] process | 2026-05-26 work notes
+
+Processed `raw/work/processed/2026-05-26 Notes.md`.
+
+Cross Tabs:
+- Added TASK-2026-05-26-001 — For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0`
+- Completed TASK-2026-05-21-001 — Update table designs: update all screenshots and check links in Jira. `completed 2026-05-25`
+
+AI Summarisation:
+- Completed TASK-2026-05-20-006 — Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `completed 2026-05-25`
+
+Activity Feed:
+- Created `work/products/Catalyst/Activity Feed/` for Catalyst activity feed work.
+- Added completed TASK-2026-05-26-002 — Peer review new activity feed in Catalyst for both member side and facilitator side. `P0` `completed 2026-05-25`
+
+Updated: `Work Tasks.md`, `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `Activity Feed - Tasks.md`, `Work Index.md`, `Catalyst - Index.md`, `Work Inbox Index.md`, `Work Task History.md`.

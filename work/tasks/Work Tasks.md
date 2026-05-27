@@ -10,9 +10,9 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [ ] For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0` `TASK-2026-05-26-001`
 - [ ] Update filter journeys for the confirmation dialogue. `P2` `TASK-2026-05-18-002`
 - [ ] Update variable creation flows in UI per new scope decisions ([[Variable Creation Scope]]); cover edge cases when switching output type after setup. `P2` `TASK-2026-05-20-003`
-- [ ] Update table designs: update all screenshots and check links in Jira. `P0` `TASK-2026-05-21-001`
 
 ### [[Design System - Index|Design System]]
 
@@ -21,7 +21,6 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### [[AI Summarisation - Index|AI Summarisation]]
 
 - [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
-- [x] Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `P0` `TASK-2026-05-20-006`
 
 ### [[AI - Index|AI]]
 
@@ -47,11 +46,17 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 - [x] Design confirmation dialogue for when user clicks back/reload without running. `P0` `TASK-2026-05-20-002` `completed 2026-05-21`
 - [x] Confirm with Pradnya on bucketing flow difference between Catalyst and Enlyta (Catalyst carries only bucketed data, not values data). `P0` `TASK-2026-05-20-007` `completed 2026-05-21`
 - [x] Add validation that bucket names should not be the same. `P0` `TASK-2026-05-20-008` `completed 2026-05-21`
+- [x] Update table designs: update all screenshots and check links in Jira. `P0` `TASK-2026-05-21-001` `completed 2026-05-25`
 
 ### [[AI Summarisation - Index|AI Summarisation]]
 
+- [x] Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `P0` `TASK-2026-05-20-006` `completed 2026-05-25`
 - [x] Warning message for deleting bucketing if a summary is already generated. `P0` `TASK-2026-05-20-004` `completed 2026-05-21`
 - [x] Update button text to "Reset to default" instead of "Reset". `P0` `TASK-2026-05-20-005` `completed 2026-05-21`
 - [x] Confirm with Pradnya on bucketing flow difference between Catalyst and Enlyta (Catalyst carries only bucketed data, not values data). `P0` `TASK-2026-05-20-010` `completed 2026-05-21`
 - [x] Add validation that bucket names should not be the same. `P0` `TASK-2026-05-20-011` `completed 2026-05-21`
 - [x] Create loading state for N size in bucketing. `P0` `TASK-2026-05-20-012` `completed 2026-05-21`
+
+### [[Activity Feed - Index|Activity Feed]]
+
+- [x] Peer review new activity feed in Catalyst for both member side and facilitator side. `P0` `TASK-2026-05-26-002` `completed 2026-05-25`

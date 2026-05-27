@@ -1,12 +1,12 @@
 ---
 type: overview
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-05-27
 ---
 
 # Overview
 
-This wiki currently covers five interconnected domains sourced from 15 ingested documents.
+This wiki currently covers seven interconnected domains sourced from 17 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
@@ -43,8 +43,15 @@ Four interconnected frameworks:
 
 - **[[First Principles Thinking]]**: identify assumptions → break to fundamentals → create new solutions. Contrasted with reasoning by analogy. Illustrated via Tesla/SpaceX ([[How to Use First Principles Thinking for Business]]), the airplane/rocket analogy ([[Where Teams and Agents Work Together]]), and Douglas Adams's epistemology of mental models ([[PDC 1996 Keynote with Douglas Adams]]).
 
+## Domain 7 — Health, Wellness & Longevity
+
+- **[[Diabetes and Metabolic Health]]**: blood glucose regulation, insulin signalling, type 1 vs. type 2 diabetes, insulin resistance, long-term complications, and type 2 remission. Source: [[The REAL Reason Diabetes Is So Dangerous]].
+- **[[Longevity Exercise Pillars]]**: a balanced training model across strength, low-intensity cardio, high-intensity cardio, mobility, and balance. Source: [[You're Exercising Wrong]].
+
 ## Cross-domain connections
 
 All six domains share a deeper pattern: **compounding systems beat re-derivation**. The LLM wiki compounds knowledge. Delta 4 products compound growth via UBP. The Flywheel compounds competitive advantages. The Hook Model compounds habit strength through investment. UX maturity compounds organisational design capability. First principles unlock step-changes that analogy-based thinking cannot reach.
 
 The MAYA Principle sits as a constraint across domains: it sets the acceptance ceiling for how quickly any of these compounding systems can advance user expectations in a single step.
+
+The health and wellness sources add a biological version of the same compounding pattern: small repeated inputs such as training, glucose control, and mobility work accumulate into metabolic resilience and long-term independence.

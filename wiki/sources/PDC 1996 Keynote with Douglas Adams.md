@@ -6,9 +6,9 @@ channel_name: "Microsoft"
 channel_url: "https://www.youtube.com/@Microsoft"
 published: ""
 duration_seconds: ""
-raw_path: "raw/PDC 1996 Keynote with Douglas Adams.md"
+raw_path: "raw/knowledge/mental-models/PDC 1996 Keynote with Douglas Adams.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # PDC 1996 Keynote with Douglas Adams

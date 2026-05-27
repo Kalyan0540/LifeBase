@@ -6,9 +6,9 @@ channel_name: "ProductTank"
 channel_url: "https://www.youtube.com/@ProductTank"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Hooked How to Build Habit-Forming Products with Nir Eyal.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/Hooked How to Build Habit-Forming Products with Nir Eyal.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Hooked: How to Build Habit-Forming Products with Nir Eyal (Long)

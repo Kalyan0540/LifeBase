@@ -6,9 +6,9 @@ channel_name: "YourStory"
 channel_url: "https://www.youtube.com/@YourStory"
 published: ""
 duration_seconds: ""
-raw_path: "raw/Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault.md"
+raw_path: "raw/knowledge/product-and-design/product-growth/Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # Kunal Shah at Tech Sparks 2016

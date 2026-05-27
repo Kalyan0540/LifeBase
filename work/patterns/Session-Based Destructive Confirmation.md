@@ -46,5 +46,5 @@ This pattern works better when:
 ---
 
 *Applies to: Catalyst — AI Summarisation · Enlyta — Cross Tabs*
-*Sources: [[raw/work/inbox/Session-Based Destructive Confirmation Pattern.md]]*
+*Sources: [[raw/work/processed/Session-Based Destructive Confirmation Pattern.md]]*
 *Updated: 2026-05-22*

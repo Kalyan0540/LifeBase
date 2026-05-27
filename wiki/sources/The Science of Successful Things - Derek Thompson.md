@@ -6,9 +6,9 @@ channel_name: "Big Think"
 channel_url: "https://www.youtube.com/@bigthink"
 published: ""
 duration_seconds: ""
-raw_path: "raw/The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson.md"
+raw_path: "raw/knowledge/mental-models/The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson.md"
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # The Science of Successful Things — Derek Thompson

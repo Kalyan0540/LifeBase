@@ -41,3 +41,11 @@ Processed 13 raw files added to `raw/`. Created 13 source pages, 10 new concept 
 ## [2026-05-18] setup | Work and thoughts memory scaffold
 
 Created backups for `AGENTS.md`, `index.md`, and `log.md` before modifying them. Added the work memory structure (`work/Work Index.md`, `work/Work Inbox Index.md`, `work/Work Tasks.md`, `work/Work Task History.md`, `work/Work Log.md`, `work/products/`) and thoughts memory structure (`thoughts/Thoughts Index.md`, `thoughts/Thoughts Log.md`, `thoughts/topics/`). Added future raw capture folders under `raw/knowledge/`, `raw/work/inbox/`, and `raw/thoughts/inbox/`. Updated `AGENTS.md` and `index.md` to keep durable knowledge, work memory, and thoughts memory separate.
+
+---
+
+## [2026-05-27] ingest | Health and wellness sources
+
+Processed 2 raw health/wellness source files. Created source pages `wiki/sources/The REAL Reason Diabetes Is So Dangerous.md` and `wiki/sources/You're Exercising Wrong.md`. Created concept pages `Diabetes and Metabolic Health.md` and `Longevity Exercise Pillars.md`. Updated `index.md`, `overview.md`, and `log.md`.
+
+Organised legacy top-level raw knowledge captures into broad topical folders under `raw/knowledge/`: `product-and-design/`, `technology/`, `mental-models/`, and `health-and-wellness/`. Product and design material uses subfolders under `product-and-design/`; AI material lives under `technology/ai/`. Updated source-page `raw_path` frontmatter to point to the new locations. Moved processed work captures from `raw/work/inbox/` to `raw/work/processed/` and updated current source links.
