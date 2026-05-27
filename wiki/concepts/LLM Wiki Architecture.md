@@ -3,7 +3,7 @@ type: concept
 sources:
   - "[[LLM Wiki — Karpathy]]"
 created: 2026-05-07
-updated: 2026-05-14
+updated: 2026-05-27
 ---
 
 # LLM Wiki Architecture
@@ -14,7 +14,7 @@ The three-layer architecture behind the [[Persistent Knowledge Base]] pattern de
 
 Immutable source documents. Articles, papers, transcripts, images, data files. The LLM reads from them but never modifies them. Source of truth.
 
-Location: `raw/`, attachments in `raw/assets/`.
+Location: `raw/`, with domain-specific attachments in `raw/knowledge/assets/`, `raw/work/assets/`, and `raw/thoughts/assets/`.
 
 ## Layer 2 — The wiki
 
@@ -28,13 +28,14 @@ A config document (here: `AGENTS.md`) that tells the LLM how the wiki is structu
 
 ## Navigation files
 
-- **index.md** — content-oriented catalog. LLM reads first on every query to locate relevant pages. Scales to ~100s of sources without vector RAG.
-- **log.md** — append-only chronological record. Parseable with grep. Helps the LLM understand recent history.
+- **index.md** — small top-level map for the whole LifeBase vault.
+- **Wiki Index.md** — content-oriented catalog for durable knowledge. LLM reads it first for wiki queries.
+- **Wiki Log.md** — append-only chronological record for wiki operations.
 
 ## Operations
 
-- **Ingest** — read source → create/update pages → update index → append log entry
-- **Query** — read index → read relevant pages → synthesise → optionally file result
+- **Ingest** — read source → create/update pages → update wiki index → append wiki log entry
+- **Query** — read the relevant index → read relevant pages → synthesise → optionally file result
 - **Lint** — scan for orphans, contradictions, stale content, missing cross-refs
 
 ## Related pages

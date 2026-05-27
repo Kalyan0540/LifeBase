@@ -1,7 +1,7 @@
 For catalyst AI summarisation it was a decision making and pattern, for enlyta crosstabs it is a pattern as the decision making is only done in catalyst product
 
-![[raw/work/processed/assets/Catalyst Summary Generated for the selected bucketing.png|517]]
-![[raw/work/processed/assets/Catalyst Summary Bucketing.png|518]]
+![[raw/work/assets/Catalyst Summary Generated for the selected bucketing.png|517]]
+![[raw/work/assets/Catalyst Summary Bucketing.png|518]]
 So the image, one which you are seeing is the first page where user sees the list of all the variables which are created by him or created by anyone else, and clicking on custom variable shows the image too, where user can modify the custom variables which are created by user or variables that user wants to create as new custom variables.
 
  so the pattern which we have found out is, like, let's say, if user is editing a custom variable for which a summer is already generated, so we want to show a confirmation if user is doing any delete. Which will completely remove the summary.

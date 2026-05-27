@@ -232,3 +232,16 @@ Activity Feed:
 - Added completed TASK-2026-05-26-002 — Peer review new activity feed in Catalyst for both member side and facilitator side. `P0` `completed 2026-05-25`
 
 Updated: `Work Tasks.md`, `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `Activity Feed - Tasks.md`, `Work Index.md`, `Catalyst - Index.md`, `Work Inbox Index.md`, `Work Task History.md`.
+
+---
+
+## [2026-05-27] rules | Agent rules simplified and split
+
+Replaced the `_agents/` rule folder with a root `AGENTS.md` router and focused rule files under `rules/`.
+
+Work rules are now split by use case:
+- `rules/work/Work.md` for lightweight work queries and routing.
+- `rules/work/Process Work.md` for inbox processing.
+- `rules/work/Work Formats.md` for exact page and task formats.
+
+Also standardised raw asset folders under each domain and moved existing work screenshots from `raw/work/processed/assets/` to `raw/work/assets/`.
