@@ -21,7 +21,7 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### [[AI Summarisation - Index|AI Summarisation]]
 
 - [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
-- [ ] Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `P0` `TASK-2026-05-20-006`
+- [x] Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `P0` `TASK-2026-05-20-006`
 
 ### [[AI - Index|AI]]
 
