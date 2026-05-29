@@ -1,16 +1,18 @@
 ---
 type: overview
 created: 2026-05-07
-updated: 2026-05-27
+updated: 2026-05-28
 ---
 
 # Overview
 
-This wiki currently covers seven interconnected domains sourced from 17 ingested documents.
+This wiki currently covers seven interconnected domains sourced from 20 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
 The [[LLM Wiki — Karpathy]] pattern: using an LLM to incrementally build and maintain a [[Persistent Knowledge Base]] rather than re-deriving answers via RAG. The three-layer [[LLM Wiki Architecture]] (raw sources → wiki → schema) powers this wiki itself. [[Obsidian]] is the browsing interface; `AGENTS.md` is the schema.
+
+This domain also covers the practical side of **building and shipping AI applications**: [[Deploying AI-Generated Websites]] documents the build/ship pipeline (Claude → GitHub → Hostinger → Supabase). Source: [[The RIGHT Way to Deploy a Claude AI Website + Free Database]]. (How AI experiences should *behave* and be *designed* is covered in Domain 5.)
 
 ## Domain 2 — Figma Design Systems
 
@@ -38,10 +40,11 @@ Four interconnected frameworks:
 - **[[UX Design Maturity Model]]** (Spool): five organisational stages from Dark Ages to Infused UX. Maturity is set by the least mature influencer. Source: [[Jared Spool – Beyond The UX Tipping Point]].
 - **[[User Journey Mapping]]**: mapping all touchpoints on frustration-to-delight scale as the foundational tool for both frameworks above.
 - **[[MAYA Principle]]** (Raymond Loewy): Most Advanced Yet Acceptable — the design sweet spot balancing neophilia and neophobia. Applied via the iPod→iPhone progression, Star Wars structure, and the failure of Google Glass. Sources: [[The MAYA Principle]], [[The Science of Successful Things - Derek Thompson]].
+- **Designing for AI**: [[Generative AI UX Design]] and the [[Human-AI Interaction Guidelines]] (18 research-validated guidelines across four interaction phases) cover how AI experiences should behave — focus frameworks (immersive/assistive/embedded), the human-in-control principle, avoiding anthropomorphization, and collaborative input/output design with *appropriate friction* as a deliberate counter to frictionless-design dogma. Sources: [[Creating a Dynamic UX - Guidance for Generative AI Applications]], [[Guidelines for Human-AI Interaction]].
 
 ## Domain 6 — First Principles & Mental Models
 
-- **[[First Principles Thinking]]**: identify assumptions → break to fundamentals → create new solutions. Contrasted with reasoning by analogy. Illustrated via Tesla/SpaceX ([[How to Use First Principles Thinking for Business]]), the airplane/rocket analogy ([[Where Teams and Agents Work Together]]), and Douglas Adams's epistemology of mental models ([[PDC 1996 Keynote with Douglas Adams]]).
+- **[[First Principles Thinking]]**: identify assumptions → break to fundamentals → create new solutions. Contrasted with reasoning by analogy. Illustrated via Tesla/SpaceX ([[How to Use First Principles Thinking for Business]]), the airplane/rocket analogy ([[Airplane and Rocket Analogy]]), and Douglas Adams's epistemology of mental models ([[PDC 1996 Keynote with Douglas Adams]]).
 
 ## Domain 7 — Health, Wellness & Longevity
 

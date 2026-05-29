@@ -3,7 +3,7 @@ type: concept
 sources:
   - "[[How to Use First Principles Thinking for Business]]"
   - "[[PDC 1996 Keynote with Douglas Adams]]"
-  - "[[Where Teams and Agents Work Together]]"
+  - "[[Airplane and Rocket Analogy]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -20,7 +20,7 @@ Most people reason by analogy: look at how a problem has been solved before → 
 
 First principles reasoning: identify the assumptions embedded in the current framing → break them down to fundamental truths → create new solutions unconstrained by the prior paradigm.
 
-The [[Where Teams and Agents Work Together|airplane/rocket analogy]] captures this: if your goal is the moon, optimising an airplane eventually reveals that the physics are wrong. You need a different vehicle.
+The [[Airplane and Rocket Analogy]] captures this: if your goal is the moon, optimising an airplane eventually reveals that the physics are wrong. You need a different vehicle.
 
 ## Three steps
 
@@ -48,5 +48,5 @@ The [[Where Teams and Agents Work Together|airplane/rocket analogy]] captures th
 
 - [[How to Use First Principles Thinking for Business]] — primary source with three-step framework
 - [[PDC 1996 Keynote with Douglas Adams]] — perceptual / mental model angle
-- [[Where Teams and Agents Work Together]] — airplane/rocket analogy
+- [[Airplane and Rocket Analogy]] — airplane/rocket analogy
 - [[LLM Wiki Architecture]] — an application: questioning RAG, reasoning from first principles of knowledge compounding

@@ -1,13 +1,13 @@
 ---
 type: source
-source_title: "Where teams and agents work together"
+source_title: "Airplane and rocket analogy"
 source_url: "https://www.notion.so/bhanukalyan/Airplane-and-rocket-analogy-13517e3d56d741b3826f6f58fed69319"
-raw_path: "raw/knowledge/technology/ai/Where teams and agents work together.md"
+raw_path: "raw/knowledge/mental-models/Airplane and Rocket Analogy.md"
 created: 2026-05-09
-updated: 2026-05-27
+updated: 2026-05-29
 ---
 
-# Where Teams and Agents Work Together
+# Airplane and Rocket Analogy
 
 A short Notion note containing the **airplane and rocket analogy** — a mental model for understanding why incremental improvement within an existing paradigm cannot solve problems that require a fundamentally different approach.
 

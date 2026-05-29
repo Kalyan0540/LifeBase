@@ -57,3 +57,21 @@ Organised legacy top-level raw knowledge captures into broad topical folders und
 Moved the detailed knowledge catalog from root `index.md` to `wiki/Wiki Index.md`, and moved the wiki operation history from root `log.md` to `wiki/Wiki Log.md`.
 
 Root `index.md` is now only the top-level LifeBase map. Updated the wiki rules to use `wiki/Wiki Index.md`, `wiki/Wiki Log.md`, and domain-specific raw assets folders.
+
+---
+
+## [2026-05-28] ingest | 3 AI design & build sources
+
+Processed 3 files from `raw/knowledge/inbox/`. The two AI design/UX sources were classified as design material and moved to `raw/knowledge/product-and-design/design/`; the deployment tutorial was classified as AI/technology material and moved to `raw/knowledge/technology/ai/`. Added `raw_path` frontmatter to each.
+
+**Source pages created:** `Creating a Dynamic UX - Guidance for Generative AI Applications.md`, `Guidelines for Human-AI Interaction.md`, `The RIGHT Way to Deploy a Claude AI Website + Free Database.md`.
+
+**Concept pages created:** `Generative AI UX Design.md`, `Human-AI Interaction Guidelines.md` (enumerates the 18 published guidelines; the raw clip only contained the summary poster), `Deploying AI-Generated Websites.md`.
+
+Extended Domain 1 of `overview.md` from "LLM knowledge management" to also cover designing and building AI applications. Updated `Wiki Index.md` (sources + concepts) and `overview.md` (source count 17 → 20). `raw/knowledge/inbox/` is now empty.
+
+---
+
+## [2026-05-29] rename | "Where Teams and Agents Work Together" → "Airplane and Rocket Analogy"
+
+Corrected a misleading title. The note's content is purely the airplane/rocket mental model about paradigm change (its Notion source URL is even titled "Airplane and rocket analogy") and has nothing to do with AI agents. Renamed the raw file and wiki source page to `Airplane and Rocket Analogy`, updated `source_title` and the page heading, and reclassified the raw file from `raw/knowledge/technology/ai/` to `raw/knowledge/mental-models/` (it sits with First Principles Thinking and Douglas Adams). Updated all backlinks in `Wiki Index.md`, `overview.md`, and `First Principles Thinking.md`. Removed the now-inaccurate "human-as-pilot" cross-links to it from `Generative AI UX Design.md` and the two generative-AI source pages, since the analogy is not AI material.

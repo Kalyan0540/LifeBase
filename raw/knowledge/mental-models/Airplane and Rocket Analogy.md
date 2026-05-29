@@ -1,6 +1,7 @@
 ---
-source_title: "Where teams and agents work together"
+source_title: "Airplane and rocket analogy"
 source_url: "https://www.notion.so/bhanukalyan/Airplane-and-rocket-analogy-13517e3d56d741b3826f6f58fed69319"
+raw_path: "raw/knowledge/mental-models/Airplane and Rocket Analogy.md"
 created: 2026-05-09
 tags:
   - "clippings"
