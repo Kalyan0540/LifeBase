@@ -245,3 +245,23 @@ Work rules are now split by use case:
 - `rules/work/Work Formats.md` for exact page and task formats.
 
 Also standardised raw asset folders under each domain and moved existing work screenshots from `raw/work/processed/assets/` to `raw/work/assets/`.
+
+---
+
+## [2026-06-01] process | Cross Tabs decision clarification + 29 May tasks
+
+Processed two unprocessed work inbox files.
+
+`raw/work/processed/Crosstabs Decision Making.md` — Cross Tabs clarification from Pradnya that custom variable output is determined as the column name. Created `Cross Tabs/Decisions/Custom Variable Output as Column Name.md` and updated `Custom Variable Creation.md` plus `Custom Variable - Number Output.md` to clarify that numeric output behaves as a column label in the current Cross Tabs flow, not as calculation support.
+
+`raw/work/processed/29th May '26 - Tasks.md` — task board update. Completed TASK-2026-05-26-001 on 2026-05-27, updated TASK-2026-05-20-003 from P2 to P0 with remaining scope, added TASK-2026-05-29-001 for crosstabs dev design review, and updated Design System colour tokens from P2 to P1.
+
+Moved the referenced screenshot attachment into `raw/work/assets/`.
+
+---
+
+## [2026-06-01] correction | Preserve subtasks under parent task
+
+Corrected TASK-2026-05-20-003 after user feedback: restored the parent task wording and kept the 29 May checklist items as indented subtasks in both `Cross Tabs - Tasks.md` and `Work Tasks.md`.
+
+Added a simple rule to `rules/work/Work Formats.md`: explicit source subtasks should stay as indented checklist items, not be merged into the parent task.

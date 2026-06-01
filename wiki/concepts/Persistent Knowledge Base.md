@@ -2,13 +2,16 @@
 type: concept
 sources:
   - "[[LLM Wiki — Karpathy]]"
+  - "[[Karpathy's LLM Wiki Goes Further Than Everyone Realised]]"
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-01
 ---
 
 # Persistent Knowledge Base
 
 A knowledge system where an LLM incrementally builds and maintains structured content over time, rather than re-deriving answers from raw documents on every query. The core idea behind [[LLM Wiki — Karpathy]] and this wiki itself.
+
+Later business-system examples extend this beyond personal knowledge. The persistent knowledge base can become the memory layer for agents that run audits, video production, delivery workflows, or other repeatable operations.
 
 ## Contrast with RAG
 

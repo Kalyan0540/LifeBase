@@ -75,3 +75,15 @@ Extended Domain 1 of `overview.md` from "LLM knowledge management" to also cover
 ## [2026-05-29] rename | "Where Teams and Agents Work Together" → "Airplane and Rocket Analogy"
 
 Corrected a misleading title. The note's content is purely the airplane/rocket mental model about paradigm change (its Notion source URL is even titled "Airplane and rocket analogy") and has nothing to do with AI agents. Renamed the raw file and wiki source page to `Airplane and Rocket Analogy`, updated `source_title` and the page heading, and reclassified the raw file from `raw/knowledge/technology/ai/` to `raw/knowledge/mental-models/` (it sits with First Principles Thinking and Douglas Adams). Updated all backlinks in `Wiki Index.md`, `overview.md`, and `First Principles Thinking.md`. Removed the now-inaccurate "human-as-pilot" cross-links to it from `Generative AI UX Design.md` and the two generative-AI source pages, since the analogy is not AI material.
+
+---
+
+## [2026-06-01] ingest | 2 AI build and operating-system sources
+
+Processed two files from `raw/knowledge/inbox/` and moved them to `raw/knowledge/technology/ai/`.
+
+**Source pages created:** `Karpathy's LLM Wiki Goes Further Than Everyone Realised.md`, `How I Vibe Coded a Recipe App using Claude Code.md`.
+
+**Concept pages created:** `AI-First Business Systems.md`, `AI-Assisted App Building.md`.
+
+Updated `LLM Wiki Architecture.md`, `Persistent Knowledge Base.md`, `Wiki Index.md`, and `overview.md`.

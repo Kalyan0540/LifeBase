@@ -1,4 +1,4 @@
-# Tasks
+	# Tasks
 
 Current global task dashboard across products.
 
@@ -10,13 +10,20 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
-- [ ] For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0` `TASK-2026-05-26-001`
 - [ ] Update filter journeys for the confirmation dialogue. `P2` `TASK-2026-05-18-002`
-- [ ] Update variable creation flows in UI per new scope decisions ([[Variable Creation Scope]]); cover edge cases when switching output type after setup. `P2` `TASK-2026-05-20-003`
+- [ ] Update variable creation flows in UI per new scope decisions ([[Variable Creation Scope]]); cover edge cases when switching output type after setup. `P0` `TASK-2026-05-20-003`
+  - [x] Create variable - Set output as number flow. `completed 2026-06-01`
+  - [x] Create variable - Set output as text flow. `completed 2026-06-01`
+  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
+  - [ ] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected.
+  - [ ] Table output flows designs.
+  - [ ] Confirm on the functionality similar to filters for editing and others.
+  - [ ] Confirm if a custom variable can be further bucketed.
+- [ ] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001`
 
 ### [[Design System - Index|Design System]]
 
-- [ ] Design system colour tokens. `P2` `TASK-2026-05-18-004`
+- [ ] Design system colour tokens. `P1` `TASK-2026-05-18-004`
 
 ### [[AI Summarisation - Index|AI Summarisation]]
 
@@ -40,6 +47,7 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0` `TASK-2026-05-26-001` `completed 2026-05-27`
 - [x] Render Table designs. `P0` `TASK-2026-05-18-007` `completed 2026-05-19`
 - [x] Complete the decision making on new variable creation: [[Custom Variable Creation - Text Output#Creating New Variable|text output]], [[Custom Variable Creation - Number Output#Creating New Variable|number output]], and [[Custom Variable Creation - Variable Output#Creating New Variable|variable output]]. `TASK-2026-05-18-001` `completed 2026-05-21`
 - [x] User journey for Run-before-Save flow; add Save button tooltip. `P0` `TASK-2026-05-20-001` `completed 2026-05-21`

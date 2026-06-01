@@ -8,7 +8,7 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 
 ## Open
 
-- [ ] Design system colour tokens. `P2` `TASK-2026-05-18-004`
+- [ ] Design system colour tokens. `P1` `TASK-2026-05-18-004`
 
 ## Blocked
 

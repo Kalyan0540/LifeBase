@@ -10,7 +10,9 @@ Number output custom variables are used to:
 
 - assign numeric codes / scores
 - create numeric categories
-- support scoring-based analysis
+- create numeric-looking column labels in Cross Tabs
+
+In the current Cross Tabs flow, number output does not mean the crosstab will calculate averages, sums, or other metric outputs. The output is treated as the column name / column label. See [[Custom Variable Output as Column Name]].
 
 The system works like:
 
@@ -72,14 +74,14 @@ Important:
 
 ## Expected Behaviour
 
-Since the output is numeric, the variable should ideally support:
+Earlier expectation: since the output is numeric, the variable could ideally support:
 
 - Mean
 - Average
 - Sum
 - Score calculations
 
-### Eg: Expected Analytical Output
+### Example: Analytical Output Not Currently Supported by This Flow
 
 `Rows = Brand`, `Metric = Mean NPS Score`
 
@@ -109,6 +111,7 @@ In this crosstab UI, number outputs mostly behave like:
 
 - coded categories
 - grouped buckets
+- column labels
 
 NOT automatically like:
 
@@ -188,7 +191,7 @@ But usually:
 |---|---|
 | Creates groups | Creates scores |
 | Example: `Promoter` | Example: `100` |
-| Used for segmentation | Used for calculations |
+| Used for segmentation | Used for numeric-coded labels |
 
 ## Final Understanding
 
@@ -199,7 +202,9 @@ Number output custom variables are mainly used for:
 - standardized scoring
 - distribution analysis
 
+For Cross Tabs right now, they should be explained as labels/categories first, not as calculation fields.
+
 ---
 
-*Sources: [[Custom Variable Creation - Number Output]]*
-*Updated: 2026-05-20*
+*Sources: [[Custom Variable Creation - Number Output]] · [[Crosstabs Decision Making]]*
+*Updated: 2026-06-01*

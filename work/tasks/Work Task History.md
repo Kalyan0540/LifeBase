@@ -190,3 +190,22 @@ Processed `raw/work/processed/2026-05-26 Notes.md`.
   - Priority: P0
   - Product: [[Activity Feed - Index]]
   - Completed: 2026-05-25
+
+## 2026-06-01
+
+Processed `raw/work/processed/29th May '26 - Tasks.md`.
+
+**Cross Tabs — completed:**
+- TASK-2026-05-26-001 (For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs): completed 2026-05-27.
+
+**Cross Tabs — priority and scope update:**
+- TASK-2026-05-20-003 (Update variable creation flows in UI): P2 → P0. Source subtasks preserved under the parent task in [[Cross Tabs - Tasks]] and [[Work Tasks]].
+
+**Cross Tabs — new task:**
+- Review designs for crosstabs dev.
+  - ID: TASK-2026-05-29-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+
+**Design System — priority change:**
+- TASK-2026-05-18-004 (Design system colour tokens): P2 → P1.

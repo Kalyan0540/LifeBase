@@ -6,7 +6,7 @@ Operational index for personal thoughts and loose ideas.
 
 ## Topics
 
-*No thought topics yet. Topics are created when thought inbox material clusters around a recurring theme.*
+- [[App Ideas]] — Lightweight backlog of app concepts: one-tap expense tracking, WhatsApp learning archive, and Tany implementation idea
 
 ---
 

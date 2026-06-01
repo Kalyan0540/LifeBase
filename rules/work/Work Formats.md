@@ -76,6 +76,8 @@ Inline tokens:
 
 Use a `<details>` block only when a task needs longer notes that would clutter the line.
 
+If a source task has explicit subtasks, keep them as indented checklist items below the parent task. Do not merge subtask text into the parent task.
+
 ## Task Dashboard
 
 In `work/tasks/Work Tasks.md`, group tasks under headings that link directly to the sub-product index.
@@ -86,5 +88,4 @@ In `work/tasks/Work Tasks.md`, group tasks under headings that link directly to 
 - [ ] Render Table designs. `P0` `TASK-2026-05-18-007`
 ```
 
-Do not repeat the product name in every task line when the heading already provides context.
-
+Task wording should not repeat the product name when the heading already provides the product context.
