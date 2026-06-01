@@ -58,5 +58,5 @@ The video warns that AI-built apps can fail review if they lack reliability, sec
 
 ---
 
-*Concepts: [[AI-Assisted App Building]] · [[Deploying AI-Generated Websites]]*
+*Concepts: [[AI-Assisted App Building]]*
 *Updated: 2026-06-01*

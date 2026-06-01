@@ -87,3 +87,13 @@ Processed two files from `raw/knowledge/inbox/` and moved them to `raw/knowledge
 **Concept pages created:** `AI-First Business Systems.md`, `AI-Assisted App Building.md`.
 
 Updated `LLM Wiki Architecture.md`, `Persistent Knowledge Base.md`, `Wiki Index.md`, and `overview.md`.
+
+---
+
+## [2026-06-01] correction | Tightened wiki relevance links
+
+Removed overly broad AI-topic links between deployment material and generative AI UX material. `Deploying AI-Generated Websites` now links only to its source page, and `The RIGHT Way to Deploy a Claude AI Website + Free Database` no longer frames itself as a counterpart to `Generative AI UX Design`.
+
+Also removed `Deploying AI-Generated Websites` from the recipe app source footer because that source is about mobile app build/launch workflow, not website deployment.
+
+Updated `rules/Wiki.md` with a link-quality rule: related links need a meaningful shared problem, workflow, concept, source lineage, or explicit contrast; shared broad labels like "AI" are not enough.

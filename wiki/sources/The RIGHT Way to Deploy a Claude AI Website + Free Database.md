@@ -4,7 +4,7 @@ source_title: "The RIGHT Way to Deploy A Claude AI Website + FREE Database (Nobo
 source_url: "https://www.youtube.com/watch?v=MQk8xyZEKYg&list=WL&index=17"
 raw_path: "raw/knowledge/technology/ai/The RIGHT Way to Deploy A Claude AI Website + FREE Database (Nobody Explains This).md"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-01
 ---
 
 # The RIGHT Way to Deploy a Claude AI Website + Free Database
@@ -37,10 +37,6 @@ A YouTube tutorial (Darrel Wilson) walking through how to take a website built w
 - Verify locally via Supabase's table editor (test leads appear), then commit and push to the main branch.
 - **Production:** adjust `.gitignore` to allow the production environment file, add the two production variables from Supabase, commit and push so Hostinger can talk to Supabase. Hostinger acts as the middle layer keeping Claude, GitHub, and Supabase in sync.
 - Debugging: if a deployment fails, open it in Hostinger to read the error, paste the error back to Claude to self-correct, and force a merge to the main branch if changes landed on a side branch.
-
-## Connections
-
-A hands-on counterpart to the conceptual AI material in this wiki — where [[Generative AI UX Design]] covers *how* an AI app should behave, this covers the practical deployment pipeline (Claude → GitHub → Hostinger → Supabase).
 
 ## Links
 

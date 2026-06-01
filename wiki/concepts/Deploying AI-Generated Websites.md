@@ -3,7 +3,7 @@ type: concept
 sources:
   - "[[The RIGHT Way to Deploy a Claude AI Website + Free Database]]"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-01
 ---
 
 # Deploying AI-Generated Websites
@@ -39,4 +39,3 @@ If a Hostinger deployment fails, open it to read the error, paste the error back
 ## Related pages
 
 - [[The RIGHT Way to Deploy a Claude AI Website + Free Database]]
-- [[Generative AI UX Design]] — the behaviour/UX layer over apps built this way

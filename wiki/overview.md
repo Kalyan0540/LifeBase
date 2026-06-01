@@ -12,7 +12,12 @@ This wiki currently covers seven interconnected domains sourced from 22 ingested
 
 The [[LLM Wiki — Karpathy]] pattern: using an LLM to incrementally build and maintain a [[Persistent Knowledge Base]] rather than re-deriving answers via RAG. The three-layer [[LLM Wiki Architecture]] (raw sources → wiki → schema) powers this wiki itself. [[Obsidian]] is the browsing interface; `AGENTS.md` is the schema.
 
-This domain also covers the practical side of **building and shipping AI applications**: [[Deploying AI-Generated Websites]] documents the build/ship pipeline (Claude → GitHub → Hostinger → Supabase), while [[AI-Assisted App Building]] covers a staged mobile app workflow using design generation, Expo React Native, protected AI API calls, storage, subscriptions, real-device testing, and launch readiness. Sources: [[The RIGHT Way to Deploy a Claude AI Website + Free Database]], [[How I Vibe Coded a Recipe App using Claude Code]]. (How AI experiences should *behave* and be *designed* is covered in Domain 5.)
+This domain also covers two separate practical lanes for AI-assisted software work:
+
+- [[Deploying AI-Generated Websites]] documents a website deployment pipeline: Claude → GitHub → Hostinger → Supabase. Source: [[The RIGHT Way to Deploy a Claude AI Website + Free Database]].
+- [[AI-Assisted App Building]] documents a mobile app build workflow: reference research → design generation → Expo React Native implementation → backend/API/storage/subscriptions → real-device testing and launch readiness. Source: [[How I Vibe Coded a Recipe App using Claude Code]].
+
+These are implementation and delivery workflows. How AI experiences should *behave* and be *designed* is covered separately in Domain 5.
 
 The newer [[AI-First Business Systems]] material extends the same LLM Wiki architecture from personal knowledge management into agency/business operations. The pattern is raw work inputs → structured wiki/JSON memory → schema and skills that tell agents where to retrieve controlled context. Source: [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]].
 

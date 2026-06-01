@@ -82,4 +82,5 @@ Do not leave a file merely moved into a topic folder without a corresponding wik
 - Use Obsidian links for wiki pages.
 - Page filenames must match visible link text.
 - Do not use slugified filenames for generated wiki pages.
-
+- Link pages only when they share a meaningful problem, workflow, concept, source lineage, or explicit contrast. A broad shared label such as "AI", "design", "health", "finance", or "product" is not enough.
+- Before adding a related link, check the whole page meaning, not just keywords. If the relationship cannot be explained in one concrete sentence, do not add the link.
