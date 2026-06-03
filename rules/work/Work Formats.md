@@ -39,6 +39,8 @@ Footer:
 *Updated: YYYY-MM-DD*
 ```
 
+If a decision comes from pasted user input and no source file exists yet, first create a processed source note in `raw/work/processed/` containing the input. Link the decision footer to that processed source page, not to a generic source label.
+
 ## Pattern Page
 
 ```yaml

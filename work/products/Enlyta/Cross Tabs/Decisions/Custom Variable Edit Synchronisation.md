@@ -23,5 +23,5 @@ For custom variables, the decision is different: edits are synchronised automati
 
 ---
 
-*Sources: User update, 2026-06-03*
-*Updated: 2026-06-03*
+*Sources: [[2026-06-03 Cross Tabs Task and Decision Updates]]*
+*Updated: 2026-06-04*

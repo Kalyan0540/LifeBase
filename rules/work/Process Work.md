@@ -6,6 +6,8 @@ Use this file only when processing `raw/work/inbox/` or pasted work material.
 
 A single inbox note may contain multiple unrelated items. Split it into distinct items first, then route each item to the correct product, task, decision, concept, pattern, or triage destination.
 
+If the user gives pasted input that creates a decision and there is no existing source file, first create a source note from that input in `raw/work/processed/`. Then create or update the decision page and link its Sources footer to that processed source file. Do not use vague source labels like "User update" when a decision is created.
+
 Read the raw note fully before writing anything. Preserve distinct sections, examples, tables, callouts, and explicit reasoning. Compress only literal duplicates.
 
 If the note contains embedded images (`![[...png]]`, `![[...jpg]]`, etc.), read each image before marking the note processed unless the user explicitly says to skip it.

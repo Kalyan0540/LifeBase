@@ -273,3 +273,11 @@ Added a simple rule to `rules/work/Work Formats.md`: explicit source subtasks sh
 Updated Cross Tabs task status from user notes: completed three existing subtasks under TASK-2026-05-20-003, added the completed "view mode for custom variable" subtask, and added completed task TASK-2026-06-03-001 for the crosstab demo call with new QA.
 
 Created `Cross Tabs/Decisions/Custom Variable Edit Synchronisation.md` to record that custom variable edits sync automatically rather than creating a previous-state duplicate like public saved filters. Also recorded that duplicate and use at custom variable level is post-MVP, and any custom variable can be further bucketed.
+
+---
+
+## [2026-06-04] rules | Capture source files before source-less decisions
+
+Added a rule that when pasted user input creates a decision and no source file exists yet, the input must first be captured as a processed source note in `raw/work/processed/`. Decision pages should then link to that processed source file instead of a generic source label.
+
+Backfilled the source note for the 2026-06-03 Cross Tabs task and decision update, linked [[Custom Variable Edit Synchronisation]] to it, and recorded it in [[Work Inbox Index]].

@@ -22,6 +22,7 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 | `raw/work/processed/2026-05-26 Notes.md` | 2026-05-27 | [[Cross Tabs - Index]], [[AI Summarisation - Index]], [[Activity Feed - Index]] | [[Cross Tabs - Tasks]] (1 new task TASK-2026-05-26-001, 1 completion), [[AI Summarisation - Tasks]] (1 completion), [[Activity Feed - Tasks]] (1 completed task TASK-2026-05-26-002), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 | `raw/work/processed/Crosstabs Decision Making.md` | 2026-06-01 | [[Cross Tabs - Index]] | [[Custom Variable Output as Column Name]] (decision), [[Custom Variable Creation]] (concept update), [[Custom Variable - Number Output]] (concept update) |
 | `raw/work/processed/29th May '26 - Tasks.md` | 2026-06-01 | [[Cross Tabs - Index]], [[Design System - Index]], [[AI Summarisation - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (1 completion, 1 priority/scope update, 1 new task TASK-2026-05-29-001), [[Design System - Tasks]] (1 priority update), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/2026-06-03 Cross Tabs Task and Decision Updates.md` | 2026-06-04 | [[Cross Tabs - Index]] | [[Cross Tabs - Tasks]] (4 subtask completions, 1 new completed task TASK-2026-06-03-001), [[Custom Variable Edit Synchronisation]] (decision), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 
 ---
 
