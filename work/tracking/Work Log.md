@@ -265,3 +265,11 @@ Moved the referenced screenshot attachment into `raw/work/assets/`.
 Corrected TASK-2026-05-20-003 after user feedback: restored the parent task wording and kept the 29 May checklist items as indented subtasks in both `Cross Tabs - Tasks.md` and `Work Tasks.md`.
 
 Added a simple rule to `rules/work/Work Formats.md`: explicit source subtasks should stay as indented checklist items, not be merged into the parent task.
+
+---
+
+## [2026-06-03] update | Cross Tabs task completions and variable edit decision
+
+Updated Cross Tabs task status from user notes: completed three existing subtasks under TASK-2026-05-20-003, added the completed "view mode for custom variable" subtask, and added completed task TASK-2026-06-03-001 for the crosstab demo call with new QA.
+
+Created `Cross Tabs/Decisions/Custom Variable Edit Synchronisation.md` to record that custom variable edits sync automatically rather than creating a previous-state duplicate like public saved filters. Also recorded that duplicate and use at custom variable level is post-MVP, and any custom variable can be further bucketed.

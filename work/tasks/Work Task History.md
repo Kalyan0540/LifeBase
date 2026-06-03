@@ -209,3 +209,26 @@ Processed `raw/work/processed/29th May '26 - Tasks.md`.
 
 **Design System — priority change:**
 - TASK-2026-05-18-004 (Design system colour tokens): P2 → P1.
+
+## 2026-06-03
+
+Updated Cross Tabs tasks from user status notes.
+
+**Cross Tabs — completed subtasks under TASK-2026-05-20-003:**
+- Handle edge cases: switch variable type, disabled output text box if no variable type selected. Completed 2026-06-02.
+- Confirm functionality similar to filters for editing and others. Completed 2026-06-02.
+- Confirm if a custom variable can be further bucketed. Completed 2026-06-02.
+- Added view mode for custom variable. Completed 2026-06-02.
+
+**Cross Tabs — new completed task:**
+- Demo call for crosstab with new QA.
+  - ID: TASK-2026-06-03-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+  - Completed: 2026-06-03
+
+**Cross Tabs — decision captured:**
+- Created [[Custom Variable Edit Synchronisation]].
+- Custom variable edits sync automatically instead of creating a previous-state duplicate like public saved filters.
+- Duplicate and use at custom variable level is deferred until after MVP.
+- Any custom variable can be further bucketed.

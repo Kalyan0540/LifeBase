@@ -27,6 +27,7 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 - [[Run Before Save]] — Do not auto-run on save; run is mandatory before save
 - [[Variable Creation Scope]] — Output type at variable level; variable output deferred to post-release
 - [[Custom Variable Output as Column Name]] — Custom variable outputs are column labels in Cross Tabs; numeric output does not imply calculations
+- [[Custom Variable Edit Synchronisation]] — Custom variable edits sync automatically instead of preserving a previous-state duplicate
 
 ## Patterns
 
@@ -43,4 +44,4 @@ This sub-product follows two work-level patterns — see [[Patterns Index]] for 
 
 ---
 
-*Updated: 2026-06-01*
+*Updated: 2026-06-03*

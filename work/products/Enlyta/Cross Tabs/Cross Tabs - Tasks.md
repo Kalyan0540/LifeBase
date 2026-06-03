@@ -13,10 +13,11 @@ Sub-product of [[Enlyta - Index|Enlyta]].
   - [x] Create variable - Set output as number flow. `completed 2026-06-01`
   - [x] Create variable - Set output as text flow. `completed 2026-06-01`
   - [x] Update delete & Edit custom variable. `completed 2026-06-01`
-  - [ ] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected.
+  - [x] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected. `completed 2026-06-02`
   - [ ] Table output flows designs.
-  - [ ] Confirm on the functionality similar to filters for editing and others.
-  - [ ] Confirm if a custom variable can be further bucketed.
+  - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
+  - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
+  - [x] Added view mode for custom variable. `completed 2026-06-02`
 - [ ] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001`
 
 ## Blocked
@@ -26,6 +27,7 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 ## Completed
 
 - [x] For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0` `TASK-2026-05-26-001` `completed 2026-05-27`
+- [x] Demo call for crosstab with new QA. `P0` `TASK-2026-06-03-001` `completed 2026-06-03`
 - [x] Render Table designs. `P0` `TASK-2026-05-18-007` `completed 2026-05-19`
 - [x] Complete the decision making on new variable creation: [[Custom Variable Creation - Text Output#Creating New Variable|text output]], [[Custom Variable Creation - Number Output#Creating New Variable|number output]], and [[Custom Variable Creation - Variable Output#Creating New Variable|variable output]]. `TASK-2026-05-18-001` `completed 2026-05-21`
 - [x] User journey for Run-before-Save flow; add Save button tooltip. `P0` `TASK-2026-05-20-001` `completed 2026-05-21`
