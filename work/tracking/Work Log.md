@@ -281,3 +281,37 @@ Created `Cross Tabs/Decisions/Custom Variable Edit Synchronisation.md` to record
 Added a rule that when pasted user input creates a decision and no source file exists yet, the input must first be captured as a processed source note in `raw/work/processed/`. Decision pages should then link to that processed source file instead of a generic source label.
 
 Backfilled the source note for the 2026-06-03 Cross Tabs task and decision update, linked [[Custom Variable Edit Synchronisation]] to it, and recorded it in [[Work Inbox Index]].
+
+---
+
+## [2026-06-04] update | Task status updates
+
+Processed `raw/work/processed/2026-06-04 Task Status Updates.md`.
+
+Cross Tabs: moved TASK-2026-05-20-003 to On Hold with the note that number output type needs confirmation from Kristina based on the crosstabs weekly call. Added TASK-2026-06-04-001 for design changes to Saved crosstab page views. Completed TASK-2026-05-29-001 and TASK-2026-06-04-003.
+
+Tracking only: recorded completed TASK-2026-06-04-002 for closing a peer review for Filter my thread replies functionality in Catalyst, without creating a product.
+
+---
+
+## [2026-06-04] update | Design System colour token subtasks
+
+Processed `raw/work/processed/2026-06-04 Design System Colour Token Subtasks.md`.
+
+Added seven subtasks under TASK-2026-05-18-004 for Design System colour tokens. Marked the first two completed without dates per user instruction, marked color primitives completed 2026-06-03, marked semantic tokens completed 2026-06-04, and left the remaining three subtasks open.
+
+---
+
+## [2026-06-05] process | Today's note task status + string-only output decision
+
+Processed `raw/work/processed/2026-06-05 Today's Note.md`.
+
+Cross Tabs:
+- Completed TASK-2026-06-04-001 — Design changes to Saved crosstab page views.
+- Moved TASK-2026-05-20-003 from blocked/on hold back to open because the weekly PM sync resolved the pending output-type confirmation.
+- Captured [[String-Only Custom Variable Output]]: Kristina and the team confirmed custom variable creation should use one output type, string.
+- Updated [[Variable Creation Scope]], [[Custom Variable Creation]], and [[Custom Variable - Number Output]] to reflect that the previous text + numeric scope is superseded.
+
+Other tasks listed in the source note were already current in the task dashboard.
+
+Follow-up update: added the stated rationale to the processed raw source and decision page. Number and string outputs are not used directly in the table; they are mostly used as column or row labels, so separate number/text output types do not add value.

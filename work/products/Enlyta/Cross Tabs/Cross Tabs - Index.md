@@ -19,8 +19,8 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 - [[Run and Save Flow]] — Run is mandatory before Save; two distinct confirmation dialogues
 - [[Custom Variable Creation]] — Parent overview: rule-based derived variables, shared behaviour, output type comparison
   - [[Custom Variable - Text Output]] — Fixed text labels for segmentation and readable groups
-  - [[Custom Variable - Number Output]] — Fixed numeric values; current buckets vs. expected metric behaviour
-  - [[Custom Variable - Variable Output]] — Values copied dynamically from other variables (deferred to post-release)
+  - [[Custom Variable - Number Output]] — Earlier numeric-output exploration; superseded for current release scope
+  - [[Custom Variable - Variable Output]] — Earlier variable-output exploration; deferred to post-release
 
 ## Decisions
 
@@ -28,6 +28,7 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 - [[Variable Creation Scope]] — Output type at variable level; variable output deferred to post-release
 - [[Custom Variable Output as Column Name]] — Custom variable outputs are column labels in Cross Tabs; numeric output does not imply calculations
 - [[Custom Variable Edit Synchronisation]] — Custom variable edits sync automatically instead of preserving a previous-state duplicate
+- [[String-Only Custom Variable Output]] — Custom variable creation uses one string output type for the current scope
 
 ## Patterns
 
@@ -44,4 +45,4 @@ This sub-product follows two work-level patterns — see [[Patterns Index]] for 
 
 ---
 
-*Updated: 2026-06-03*
+*Updated: 2026-06-05*

@@ -12,6 +12,8 @@ Number output custom variables are used to:
 - create numeric categories
 - create numeric-looking column labels in Cross Tabs
 
+**Current status:** number output is superseded for the initial Cross Tabs release scope. The confirmed scope is one string output type. See [[String-Only Custom Variable Output]].
+
 In the current Cross Tabs flow, number output does not mean the crosstab will calculate averages, sums, or other metric outputs. The output is treated as the column name / column label. See [[Custom Variable Output as Column Name]].
 
 The system works like:
@@ -206,5 +208,5 @@ For Cross Tabs right now, they should be explained as labels/categories first, n
 
 ---
 
-*Sources: [[Custom Variable Creation - Number Output]] · [[Crosstabs Decision Making]]*
-*Updated: 2026-06-01*
+*Sources: [[Custom Variable Creation - Number Output]] · [[Crosstabs Decision Making]] · [[2026-06-05 Today's Note]]*
+*Updated: 2026-06-05*

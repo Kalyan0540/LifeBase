@@ -5,7 +5,7 @@ status: accepted
 
 # Variable Creation Scope
 
-Two related decisions that narrow the scope and change the structure of custom variable creation for the initial release.
+Decisions that narrow the scope and change the structure of custom variable creation for the initial release.
 
 ## Decision 1 — Output Type Is Set at Variable Level
 
@@ -21,7 +21,9 @@ Only numeric and text are supported as output types in the initial release. Vari
 
 **Reasoning:** Variable output is a separable capability. Shipping text and numeric first keeps the initial scope manageable without blocking the core use cases.
 
+**Status:** Superseded on 2026-06-05 by [[String-Only Custom Variable Output]]. The current confirmed scope uses one output type: string.
+
 ---
 
-*Sources: [[Enlyta Discussion]]*
-*Updated: 2026-05-20*
+*Sources: [[Enlyta Discussion]] · [[2026-06-05 Today's Note]]*
+*Updated: 2026-06-05*

@@ -73,6 +73,7 @@ Checked tasks in a source or task page should be treated as completed during the
 
 ## Conflict Rules
 
+- A conflict is not triage by itself. If ownership is clear, briefly inform the user of the old vs new information and how it will be resolved, then continue processing.
 - Concepts show current understanding. Update in place; flag inferred reasoning explicitly.
 - Decisions preserve history. Mark old decisions as `superseded` instead of deleting them.
 - Patterns flag conflicts when new behaviour contradicts an existing pattern.

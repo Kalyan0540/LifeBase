@@ -232,3 +232,54 @@ Updated Cross Tabs tasks from user status notes.
 - Custom variable edits sync automatically instead of creating a previous-state duplicate like public saved filters.
 - Duplicate and use at custom variable level is deferred until after MVP.
 - Any custom variable can be further bucketed.
+
+## 2026-06-04
+
+Processed `raw/work/processed/2026-06-04 Task Status Updates.md`.
+
+**Cross Tabs — moved to on hold:**
+- TASK-2026-05-20-003 (Update variable creation flows in UI): moved to Blocked/On Hold.
+  - Pending subtask: Table output flows designs.
+  - Reason: Need confirmation on the number output type from Kristina based on the crosstabs weekly call.
+
+**Cross Tabs — new open task:**
+- Design changes to Saved crosstab page views.
+  - ID: TASK-2026-06-04-001
+  - Product: [[Cross Tabs - Index]]
+
+**Cross Tabs — completed:**
+- TASK-2026-05-29-001 (Review designs for crosstabs dev): completed 2026-06-04.
+- Connected with Aniruddh on the crosstabs table views and functionality.
+  - ID: TASK-2026-06-04-003
+  - Product: [[Cross Tabs - Index]]
+  - Completed: 2026-06-04
+
+**Tracking only — completed:**
+- Closed a peer review for Filter my thread replies functionality in Catalyst.
+  - ID: TASK-2026-06-04-002
+  - Product: tracking only; no product created per user instruction.
+
+## 2026-06-05
+
+Processed `raw/work/processed/2026-06-05 Today's Note.md`.
+
+**Cross Tabs — completed:**
+- TASK-2026-06-04-001 (Design changes to Saved crosstab page views): completed 2026-06-05.
+
+**Cross Tabs — moved back to open with updated scope:**
+- TASK-2026-05-20-003 (Update variable creation flows in UI): moved from blocked/on hold to open after Kristina and the team confirmed the string-only output scope.
+- Added remaining subtask: update all designs to use only one string output type.
+
+**Cross Tabs — decision captured:**
+- Created [[String-Only Custom Variable Output]].
+- Earlier text + numeric initial-release scope is superseded by one string output type.
+  - Completed: 2026-06-04
+
+**Design System — subtasks added under TASK-2026-05-18-004:**
+- Research on the best practises for color system. Completed.
+- Analyse and setup framework for migrating to new scalable system. Completed.
+- Create color primitives and map existing colors to the color scale. Completed 2026-06-03.
+- Derive semantics tokens from created primitives. Completed 2026-06-04.
+- Map and test with few components to check the structure and mapping hierarchy. Open.
+- Create styles and tokens in Figma. Open.
+- Create dev handoff for the latest tokens. Open.

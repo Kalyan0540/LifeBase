@@ -9,16 +9,16 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 ## Open
 
 - [ ] Update filter journeys for the confirmation dialogue. `P2` `TASK-2026-05-18-002`
-- [ ] Update variable creation flows in UI per new scope decisions ([[Variable Creation Scope]]); cover edge cases when switching output type after setup. `P0` `TASK-2026-05-20-003`
+- [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
   - [x] Create variable - Set output as number flow. `completed 2026-06-01`
   - [x] Create variable - Set output as text flow. `completed 2026-06-01`
   - [x] Update delete & Edit custom variable. `completed 2026-06-01`
   - [x] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected. `completed 2026-06-02`
-  - [ ] Table output flows designs.
+  - [ ] Update all designs to use only one string output type.
+  - [ ] Table output flows designs. *(Review against string-only scope.)*
   - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
   - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
   - [x] Added view mode for custom variable. `completed 2026-06-02`
-- [ ] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001`
 
 ## Blocked
 
@@ -26,6 +26,9 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 
 ## Completed
 
+- [x] Design changes to Saved crosstab page views. `TASK-2026-06-04-001` `completed 2026-06-05`
+- [x] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001` `completed 2026-06-04`
+- [x] Connected with Aniruddh on the crosstabs table views and functionality. `TASK-2026-06-04-003` `completed 2026-06-04`
 - [x] For Run in Cross Tabs, add the recommendation flow and reasoning in the design along with the last discussed designs. `P0` `TASK-2026-05-26-001` `completed 2026-05-27`
 - [x] Demo call for crosstab with new QA. `P0` `TASK-2026-06-03-001` `completed 2026-06-03`
 - [x] Render Table designs. `P0` `TASK-2026-05-18-007` `completed 2026-05-19`

@@ -13,13 +13,15 @@ THEN assign output
 
 Each rule defines a condition and a value to assign. The system adds a new column alongside the original variable; both remain available for analysis.
 
-There are three output modes — text, number, and variable. The rule model is shared; only the kind of output assigned differs.
+The current confirmed scope uses one output type: string. Earlier exploration covered text, number, and variable output modes; those pages remain useful for history and examples, but the active design scope should follow the string-only decision.
 
 In Cross Tabs, the output value is used as a column name / column label. This was clarified for the difference between text and number output: both can appear as table labels, and number output does not by itself enable numeric calculations. See [[Custom Variable Output as Column Name]].
 
-**Scope for initial release:** only text and numeric output are in scope. Variable output is deferred to a post-release milestone. See [[Variable Creation Scope]].
+**Scope for initial release:** only string output is in scope. See [[String-Only Custom Variable Output]].
 
-**Output type is set at variable level:** the "Set Output To" selector applies to the whole variable, not to individual values. A variable cannot mix output types across its values. See [[Variable Creation Scope]].
+**Reason for one output type:** custom variable outputs are mostly used as column or row labels in the table. Since number and text output do not create different table behaviours, separate output types do not add value.
+
+**Output type history:** the earlier decision set output type at the variable level, not at the individual value level. The latest scope removes the need to choose between text and numeric output for the initial design. See [[Variable Creation Scope]].
 
 ## Shared Behaviour
 
@@ -38,13 +40,13 @@ These behaviours apply across all three output modes.
 
 Final no-match behaviour is open.
 
-## Output Modes
+## Historical Output Modes
 
-Each mode has its own detail page.
+Earlier output-mode exploration has its own detail page.
 
 - [[Custom Variable - Text Output]] — Fixed text labels; behaves as a categorical variable. Used for segmentation and readable groups.
-- [[Custom Variable - Number Output]] — Fixed numeric-looking labels; behaves as numeric-coded categories in count crosstabs. Metric aggregation (mean / sum / average / score) is not part of the current Cross Tabs flow.
-- [[Custom Variable - Variable Output]] — Copies values dynamically from another variable. Used to combine values split across multiple source variables into one analysis variable.
+- [[Custom Variable - Number Output]] — Superseded for the current release scope. Earlier notes explored fixed numeric-looking labels as numeric-coded categories in count crosstabs.
+- [[Custom Variable - Variable Output]] — Deferred. Earlier notes explored copying values dynamically from another variable.
 
 ## Output Type Comparison
 
@@ -58,9 +60,8 @@ Each mode has its own detail page.
 
 - Confirm rule precedence (first-match-wins) explicitly across all three output modes.
 - Confirm no-match behaviour (blank vs. missing vs. "Uncategorized" vs. null).
-- Edge cases when user switches output type between text and numeric after partial setup.
 
 ---
 
-*Sources: [[Custom Variable Creation - Text Output]] · [[Custom Variable Creation - Number Output]] · [[Custom Variable Creation - Variable Output]] · [[Crosstabs Decision Making]]*
-*Updated: 2026-06-01*
+*Sources: [[Custom Variable Creation - Text Output]] · [[Custom Variable Creation - Number Output]] · [[Custom Variable Creation - Variable Output]] · [[Crosstabs Decision Making]] · [[2026-06-05 Today's Note]]*
+*Updated: 2026-06-05*
