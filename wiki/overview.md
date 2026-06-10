@@ -1,12 +1,12 @@
 ---
 type: overview
 created: 2026-05-07
-updated: 2026-06-01
+updated: 2026-06-09
 ---
 
 # Overview
 
-This wiki currently covers seven interconnected domains sourced from 22 ingested documents.
+This wiki currently covers seven interconnected domains sourced from 23 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
@@ -57,10 +57,11 @@ Four interconnected frameworks:
 
 - **[[Diabetes and Metabolic Health]]**: blood glucose regulation, insulin signalling, type 1 vs. type 2 diabetes, insulin resistance, long-term complications, and type 2 remission. Source: [[The REAL Reason Diabetes Is So Dangerous]].
 - **[[Longevity Exercise Pillars]]**: a balanced training model across strength, low-intensity cardio, high-intensity cardio, mobility, and balance. Source: [[You're Exercising Wrong]].
+- **[[Vitamin D and Bone Health]]**: vitamin D3 synthesis through UVB exposure, liver and kidney activation, calcium absorption, deficiency risks, bone consequences, and supplementation/testing tradeoffs. Source: [[What Vitamin D REALLY Does to the Body]].
 
 ## Cross-domain connections
 
-All six domains share a deeper pattern: **compounding systems beat re-derivation**. The LLM wiki compounds knowledge. Delta 4 products compound growth via UBP. The Flywheel compounds competitive advantages. The Hook Model compounds habit strength through investment. UX maturity compounds organisational design capability. First principles unlock step-changes that analogy-based thinking cannot reach.
+All seven domains share a deeper pattern: **compounding systems beat re-derivation**. The LLM wiki compounds knowledge. Delta 4 products compound growth via UBP. The Flywheel compounds competitive advantages. The Hook Model compounds habit strength through investment. UX maturity compounds organisational design capability. First principles unlock step-changes that analogy-based thinking cannot reach.
 
 The MAYA Principle sits as a constraint across domains: it sets the acceptance ceiling for how quickly any of these compounding systems can advance user expectations in a single step.
 

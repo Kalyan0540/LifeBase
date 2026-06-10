@@ -315,3 +315,21 @@ Cross Tabs:
 Other tasks listed in the source note were already current in the task dashboard.
 
 Follow-up update: added the stated rationale to the processed raw source and decision page. Number and string outputs are not used directly in the table; they are mostly used as column or row labels, so separate number/text output types do not add value.
+
+---
+
+## [2026-06-08] correction | Separate superseded Cross Tabs subtasks
+
+Cleaned up TASK-2026-05-20-003 after user review. The active task now reflects the current [[String-Only Custom Variable Output]] scope, while earlier text/numeric output subtasks are preserved in a Superseded section with the previous parent-scope wording.
+
+Updated `Work Tasks.md`, `Cross Tabs - Tasks.md`, `Work Task History.md`, and `rules/work/Work Formats.md`. Generic completed subtasks that still apply to variable creation remain under the active task.
+
+---
+
+## [2026-06-09] process | Pending tasks from 2026-06-08
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-08.md`.
+
+The source contained a current task dashboard snapshot plus two new explicit tasks. Added TASK-2026-06-08-001 as a standalone task for independent design brief/Jira template research, and TASK-2026-06-08-002 to Catalyst AI Summarisation for updating Discussion, Conversation, and OE Summary designs with latest design options.
+
+Updated `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`.

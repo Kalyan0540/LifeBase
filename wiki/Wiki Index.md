@@ -28,6 +28,7 @@ Content catalog for the durable knowledge wiki.
 - [[The MAYA Principle]] - Raymond Loewy's Most Advanced Yet Acceptable design philosophy; iPod to iPhone progression
 - [[The RIGHT Way to Deploy a Claude AI Website + Free Database]] - End-to-end pipeline for deploying an AI-built Next.js site: Claude → GitHub → Hostinger → Supabase
 - [[The REAL Reason Diabetes Is So Dangerous]] - Anatomy and physiology explainer on blood glucose, insulin, insulin resistance, diabetes complications, and remission
+- [[What Vitamin D REALLY Does to the Body]] - Institute of Human Anatomy explainer on vitamin D3 synthesis, liver/kidney activation, calcium absorption, deficiency, and supplementation
 - [[The Science of Successful Things - Derek Thompson]] - Derek Thompson on MAYA applied to Star Wars, iPhone, and Google Glass's failure
 - [[Airplane and Rocket Analogy]] - Mental model: incremental improvement within a paradigm has a ceiling; reaching beyond it needs a different vehicle, not a better airplane
 - [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] - Business/agency application of the LLM Wiki pattern: raw inputs, structured wiki/JSON, schema, skills, and per-agent memory
@@ -65,6 +66,7 @@ Content catalog for the durable knowledge wiki.
 - [[Kano Model]] - Three investment-to-satisfaction curves: basic expectations, performance payoff, and excitement generators
 - [[LLM Wiki Architecture]] - Three-layer architecture: raw sources, wiki, schema; plus wiki index/log navigation files
 - [[Longevity Exercise Pillars]] - Five-pillar exercise model for healthspan: strength, Zone 2, high intensity, mobility, balance
+- [[Vitamin D and Bone Health]] - Vitamin D3 synthesis and activation, calcium absorption, bone consequences of deficiency, testing, and supplementation stance
 - [[MAYA Principle]] - Most Advanced Yet Acceptable; the design sweet spot between too familiar and too alien
 - [[Obsidian]] - Markdown app used as wiki browser; relevant features: graph view, web clipper, Dataview, Marp
 - [[Persistent Knowledge Base]] - Core concept: LLM-maintained wiki that compounds over time vs. RAG re-derivation on every query

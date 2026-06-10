@@ -75,10 +75,13 @@ Inline tokens:
 - `P0` / `P1` / `P2` / `P3` - priority
 - `TASK-YYYY-MM-DD-NNN` - task ID
 - `completed YYYY-MM-DD` - completion date for checked items
+- `superseded YYYY-MM-DD` - scope was replaced by a later decision
 
 Use a `<details>` block only when a task needs longer notes that would clutter the line.
 
 If a source task has explicit subtasks, keep them as indented checklist items below the parent task. Do not merge subtask text into the parent task.
+
+If a task or subtask is superseded by a later decision, keep it for history instead of deleting it. Move superseded items out of the active checklist into a `Superseded` section, preserve the previous parent-scope wording, and add `superseded YYYY-MM-DD`. Checked items stay checked only if the work was actually completed.
 
 ## Task Dashboard
 
@@ -91,3 +94,11 @@ In `work/tasks/Work Tasks.md`, group tasks under headings that link directly to 
 ```
 
 Task wording should not repeat the product name when the heading already provides the product context.
+
+Tasks explicitly marked independent of product should stay only in `work/tasks/Work Tasks.md` under:
+
+```md
+### Standalone
+```
+
+Do not add standalone tasks to any file under `work/products/`.

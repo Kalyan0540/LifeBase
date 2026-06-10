@@ -45,4 +45,4 @@ This sub-product follows two work-level patterns — see [[Patterns Index]] for 
 
 ---
 
-*Updated: 2026-06-05*
+*Updated: 2026-06-08*

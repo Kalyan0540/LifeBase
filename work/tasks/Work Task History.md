@@ -283,3 +283,36 @@ Processed `raw/work/processed/2026-06-05 Today's Note.md`.
 - Map and test with few components to check the structure and mapping hierarchy. Open.
 - Create styles and tokens in Figma. Open.
 - Create dev handoff for the latest tokens. Open.
+
+## 2026-06-08
+
+Cleaned up `TASK-2026-05-20-003` after user review of the string-only scope change.
+
+**Cross Tabs — superseded subtasks moved out of active scope:**
+- Create variable - Set output as number flow. Completed 2026-06-01; superseded 2026-06-05.
+- Create variable - Set output as text flow. Completed 2026-06-01; superseded 2026-06-05.
+- Handle edge cases: switch variable type, disabled output text box if no variable type selected. Completed 2026-06-02; superseded 2026-06-05.
+
+**Cross Tabs — active scope clarified:**
+- Current active parent remains: update variable creation flows in UI per [[String-Only Custom Variable Output]].
+- Previous parent scope preserved for history: update variable creation flows in UI per new scope decisions; cover edge cases when switching output type after setup.
+- Generic completed subtasks that still apply to variable creation remain under the active task.
+
+## 2026-06-09
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-08.md`.
+
+The source included a snapshot from [[Work Tasks]] plus two new explicit tasks.
+
+**Standalone — new task:**
+- Research the design brief and provide templates and best practises to add it to the Jira board.
+  - ID: TASK-2026-06-08-001
+  - Priority: P1
+  - Product: standalone
+  - Note: Kept independent of product per source instruction.
+
+**AI Summarisation — new task:**
+- Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst.
+  - ID: TASK-2026-06-08-002
+  - Priority: P0
+  - Product: [[AI Summarisation - Index]]

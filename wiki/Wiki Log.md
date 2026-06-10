@@ -97,3 +97,11 @@ Removed overly broad AI-topic links between deployment material and generative A
 Also removed `Deploying AI-Generated Websites` from the recipe app source footer because that source is about mobile app build/launch workflow, not website deployment.
 
 Updated `rules/Wiki.md` with a link-quality rule: related links need a meaningful shared problem, workflow, concept, source lineage, or explicit contrast; shared broad labels like "AI" are not enough.
+
+---
+
+## [2026-06-09] ingest | Vitamin D physiology source
+
+Processed `raw/knowledge/inbox/What Vitamin D REALLY Does to the Body.md` and moved it to `raw/knowledge/health-and-wellness/What Vitamin D REALLY Does to the Body.md`.
+
+Created source page [[What Vitamin D REALLY Does to the Body]] and concept page [[Vitamin D and Bone Health]]. Updated [[Wiki Index]] and [[overview]] to include the new health/wellness source and concept.

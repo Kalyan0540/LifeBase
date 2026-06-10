@@ -10,12 +10,9 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 
 - [ ] Update filter journeys for the confirmation dialogue. `P2` `TASK-2026-05-18-002`
 - [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
-  - [x] Create variable - Set output as number flow. `completed 2026-06-01`
-  - [x] Create variable - Set output as text flow. `completed 2026-06-01`
-  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
-  - [x] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected. `completed 2026-06-02`
   - [ ] Update all designs to use only one string output type.
   - [ ] Table output flows designs. *(Review against string-only scope.)*
+  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
   - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
   - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
   - [x] Added view mode for custom variable. `completed 2026-06-02`
@@ -23,6 +20,14 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 ## Blocked
 
 - [ ] Crosstab prototype demo recording. `P2` `TASK-2026-05-18-003` *(On Hold)*
+
+## Superseded
+
+Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows in UI per new scope decisions; cover edge cases when switching output type after setup.
+
+- [x] Create variable - Set output as number flow. `completed 2026-06-01` `superseded 2026-06-05`
+- [x] Create variable - Set output as text flow. `completed 2026-06-01` `superseded 2026-06-05`
+- [x] Handle edge cases - switch variable type, disabled state for the output text box if no variable type selected. `completed 2026-06-02` `superseded 2026-06-05`
 
 ## Completed
 
