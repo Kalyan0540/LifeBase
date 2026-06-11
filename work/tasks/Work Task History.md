@@ -316,3 +316,32 @@ The source included a snapshot from [[Work Tasks]] plus two new explicit tasks.
   - ID: TASK-2026-06-08-002
   - Priority: P0
   - Product: [[AI Summarisation - Index]]
+
+## 2026-06-10
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-09.md`.
+
+The source contained a current task dashboard snapshot plus four new explicit task items.
+
+**Cross Tabs — new open tasks:**
+- Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket).
+  - ID: TASK-2026-06-09-001
+  - Priority: P2
+  - Product: [[Cross Tabs - Index]]
+- Mobile view for crosstabs.
+  - ID: TASK-2026-06-09-003
+  - Priority: P1
+  - Product: [[Cross Tabs - Index]]
+
+**Cross Tabs — completed task:**
+- Update the saved crosstabs view changes in the Final UJ's.
+  - ID: TASK-2026-06-09-002
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+  - Completed: 2026-06-09
+
+**AI — new task:**
+- Persona Bot's UX/UI design.
+  - ID: TASK-2026-06-09-004
+  - Product: [[AI - Index]]
+  - Subtasks: Research & Documentation; Ideation; First Draft + Review; Final Draft + Review; Dev Handoff.

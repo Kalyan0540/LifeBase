@@ -29,7 +29,7 @@ Snapshot from [[Work Tasks]].
 ### AI
 
 - [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
-- [ ] Persona Bot's UX/UI design. Connect with Tish/Vinod for priority.
+- [ ] Persona Bot's UX/UI design.
 	- [ ] Research & Documentation
 	- [ ] Ideation
 	- [ ] First Draft + Review

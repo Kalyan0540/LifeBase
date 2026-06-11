@@ -333,3 +333,13 @@ Processed `raw/work/processed/Pending Tasks - 2026-06-08.md`.
 The source contained a current task dashboard snapshot plus two new explicit tasks. Added TASK-2026-06-08-001 as a standalone task for independent design brief/Jira template research, and TASK-2026-06-08-002 to Catalyst AI Summarisation for updating Discussion, Conversation, and OE Summary designs with latest design options.
 
 Updated `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`.
+
+---
+
+## [2026-06-10] process | Pending tasks from 2026-06-09
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-09.md`.
+
+Added two new open Cross Tabs tasks for design QA on crosstabs table layouts without data and mobile view work. Added one completed Cross Tabs task for updating saved crosstabs view changes in the Final UJ's. Added one new AI task for Persona Bot's UX/UI design with five subtasks.
+
+Updated `Cross Tabs - Tasks.md`, `AI - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created `raw/work/Pending Tasks - 2026-06-10.md` as the latest pending-task snapshot after processing.

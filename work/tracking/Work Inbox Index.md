@@ -27,6 +27,7 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 | `raw/work/processed/2026-06-04 Design System Colour Token Subtasks.md` | 2026-06-04 | [[Design System - Index]] | [[Design System - Tasks]] (7 subtasks added to TASK-2026-05-18-004), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 | `raw/work/processed/2026-06-05 Today's Note.md` | 2026-06-05 | [[Cross Tabs - Index]], [[Design System - Index]], [[AI Summarisation - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (1 completion, 1 task moved from blocked to open with string-only scope), [[String-Only Custom Variable Output]] (decision), [[Custom Variable Creation]] (concept update), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended). Other listed open tasks were already current. |
 | `raw/work/processed/Pending Tasks - 2026-06-08.md` | 2026-06-09 | standalone, [[AI Summarisation - Index]] | [[Work Tasks]] (1 standalone task TASK-2026-06-08-001), [[AI Summarisation - Tasks]] (1 new task TASK-2026-06-08-002), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Pending Tasks - 2026-06-09.md` | 2026-06-10 | [[Cross Tabs - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (2 new open tasks TASK-2026-06-09-001 and TASK-2026-06-09-003, 1 completed task TASK-2026-06-09-002), [[AI - Tasks]] (1 new task TASK-2026-06-09-004 with subtasks), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 
 ---
 
