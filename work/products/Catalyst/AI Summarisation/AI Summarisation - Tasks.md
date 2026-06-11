@@ -9,7 +9,10 @@ Sub-product of [[Catalyst - Index|Catalyst]].
 ## Open
 
 - [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
-- [ ] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P0` `TASK-2026-06-08-002`
+- [/] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002`
+  - [x] Update OE Summarisation Flows. `completed 2026-06-10`
+  - [ ] Update Discussion Summarisation Flows.
+  - [ ] Update Conversation Summarisation Flows.
 
 ## Blocked
 

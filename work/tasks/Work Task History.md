@@ -345,3 +345,22 @@ The source contained a current task dashboard snapshot plus four new explicit ta
   - ID: TASK-2026-06-09-004
   - Product: [[AI - Index]]
   - Subtasks: Research & Documentation; Ideation; First Draft + Review; Final Draft + Review; Dev Handoff.
+
+## 2026-06-11
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-10.md`.
+
+**Cross Tabs — progress and completion:**
+- TASK-2026-06-09-003 (Mobile view for crosstabs): Draft 1 & Review completed 2026-06-10; Finalise & Handover remains open.
+- Added completed TASK-2026-06-10-001 (Support tickets for crosstabs), P0, completed 2026-06-10.
+
+**Design System — priority and scope update:**
+- TASK-2026-05-18-004 (Design system colour tokens): P1 → P2.
+- Added open subtask: Review the draft & work on the feedback.
+
+**AI Summarisation — priority and progress update:**
+- TASK-2026-06-08-002 (Update Discussion, Conversation & OE Summary designs): P0 → P1.
+- OE Summarisation flows completed 2026-06-10; Discussion and Conversation flows remain open.
+
+**AI — progress update:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): parent task and Research & Documentation marked in progress.

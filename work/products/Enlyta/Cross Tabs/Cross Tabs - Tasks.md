@@ -17,7 +17,9 @@ Sub-product of [[Enlyta - Index|Enlyta]].
   - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
   - [x] Added view mode for custom variable. `completed 2026-06-02`
 - [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2` `TASK-2026-06-09-001`
-- [ ] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003`
+- [/] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003`
+  - [x] Draft 1 & Review. `completed 2026-06-10`
+  - [ ] Finalise & Handover.
 
 ## Blocked
 
@@ -33,6 +35,7 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ## Completed
 
+- [x] Support tickets for crosstabs. `P0` `TASK-2026-06-10-001` `completed 2026-06-10`
 - [x] Update the saved crosstabs view changes in the Final UJ's. `P0` `TASK-2026-06-09-002` `completed 2026-06-09`
 - [x] Design changes to Saved crosstab page views. `TASK-2026-06-04-001` `completed 2026-06-05`
 - [x] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001` `completed 2026-06-04`

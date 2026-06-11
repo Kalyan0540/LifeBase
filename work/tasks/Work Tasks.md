@@ -19,15 +19,18 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
   - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
   - [x] Added view mode for custom variable. `completed 2026-06-02`
 - [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2` `TASK-2026-06-09-001`
-- [ ] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003`
+- [/] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003`
+  - [x] Draft 1 & Review. `completed 2026-06-10`
+  - [ ] Finalise & Handover.
 
 ### [[Design System - Index|Design System]]
 
-- [ ] Design system colour tokens. `P1` `TASK-2026-05-18-004`
+- [ ] Design system colour tokens. `P2` `TASK-2026-05-18-004`
   - [x] Research on the best practises for color system.
   - [x] Analyse and setup framework for migrating to new scalable system.
   - [x] Create color primitives and map existing colors to the color scale. `completed 2026-06-03`
   - [x] Derive semantics tokens from created primitives. `completed 2026-06-04`
+  - [ ] Review the draft & work on the feedback.
   - [ ] Map and test with few components to check the structure and mapping hierarchy.
   - [ ] Create styles and tokens in Figma.
   - [ ] Create dev handoff for the latest tokens.
@@ -35,13 +38,16 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### [[AI Summarisation - Index|AI Summarisation]]
 
 - [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
-- [ ] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P0` `TASK-2026-06-08-002`
+- [/] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002`
+  - [x] Update OE Summarisation Flows. `completed 2026-06-10`
+  - [ ] Update Discussion Summarisation Flows.
+  - [ ] Update Conversation Summarisation Flows.
 
 ### [[AI - Index|AI]]
 
 - [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
-- [ ] Persona Bot's UX/UI design. `TASK-2026-06-09-004`
-  - [ ] Research & Documentation
+- [/] Persona Bot's UX/UI design. `TASK-2026-06-09-004`
+  - [/] Research & Documentation
   - [ ] Ideation
   - [ ] First Draft + Review
   - [ ] Final Draft + Review
@@ -76,6 +82,7 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] Support tickets for crosstabs. `P0` `TASK-2026-06-10-001` `completed 2026-06-10`
 - [x] Update the saved crosstabs view changes in the Final UJ's. `P0` `TASK-2026-06-09-002` `completed 2026-06-09`
 - [x] Design changes to Saved crosstab page views. `TASK-2026-06-04-001` `completed 2026-06-05`
 - [x] Review designs for crosstabs dev. `P0` `TASK-2026-05-29-001` `completed 2026-06-04`

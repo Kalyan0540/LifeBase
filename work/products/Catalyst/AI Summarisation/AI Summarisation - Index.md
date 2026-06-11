@@ -33,4 +33,4 @@ This sub-product applies two work-level patterns — see [[Patterns Index]] for 
 
 ---
 
-*Updated: 2026-06-08*
+*Updated: 2026-06-11*
