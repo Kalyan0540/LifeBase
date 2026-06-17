@@ -14,7 +14,8 @@ AI product work. Includes Claude skills, AI-related features, and demos. Treated
 
 ## Concepts
 
-No concepts captured yet.
+- [[Persona Bots Overview]] — Product purpose, data model, scope, and platform shape
+- [[Persona Bots Interaction Model]] — Persona selection, conversation behavior, and design constraints
 
 ## Decisions
 
@@ -26,4 +27,4 @@ No patterns yet. See [[Patterns Index]] for work-level patterns.
 
 ---
 
-*Updated: 2026-06-11*
+*Updated: 2026-06-17*

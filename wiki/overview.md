@@ -1,12 +1,12 @@
 ---
 type: overview
 created: 2026-05-07
-updated: 2026-06-09
+updated: 2026-06-16
 ---
 
 # Overview
 
-This wiki currently covers seven interconnected domains sourced from 23 ingested documents.
+This wiki currently covers seven interconnected domains sourced from 24 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
@@ -15,7 +15,7 @@ The [[LLM Wiki — Karpathy]] pattern: using an LLM to incrementally build and m
 This domain also covers two separate practical lanes for AI-assisted software work:
 
 - [[Deploying AI-Generated Websites]] documents a website deployment pipeline: Claude → GitHub → Hostinger → Supabase. Source: [[The RIGHT Way to Deploy a Claude AI Website + Free Database]].
-- [[AI-Assisted App Building]] documents a mobile app build workflow: reference research → design generation → Expo React Native implementation → backend/API/storage/subscriptions → real-device testing and launch readiness. Source: [[How I Vibe Coded a Recipe App using Claude Code]].
+- [[AI-Assisted App Building]] documents a mobile app build workflow: reference research → design generation → Expo React Native implementation → backend/API/storage/subscriptions → real-device testing and launch readiness. [[App Store Review Readiness for AI-Built Apps]] expands the launch-readiness layer for AI-built iOS apps: secrets, dynamic code execution, stability, AI privacy, payments, SDK compliance, and reviewer support. Sources: [[How I Vibe Coded a Recipe App using Claude Code]], [[App Store Approval Checklist]].
 
 These are implementation and delivery workflows. How AI experiences should *behave* and be *designed* is covered separately in Domain 5.
 

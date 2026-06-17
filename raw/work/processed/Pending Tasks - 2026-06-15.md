@@ -1,14 +1,14 @@
-# Pending Tasks - 2026-06-12
+# Pending Tasks - 2026-06-15
 
 ## Cross Tabs
 
 - [ ] Update filter journeys for the confirmation dialogue. `P2`
+- [ ] Work on Comments & Update Run Button functionality in final UJ's page in Figma. `P1`
+- [ ] Work on the crosstabs new comments by Pradnya. `P1`
 - [ ] Update variable creation flows in UI per string-only output decision. `P0`
-  - [ ] Update all designs to use only one string output type.
+  - [x] Update all designs to use only one string output type.
   - [ ] Table output flows designs.
-- [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2`
-- [/] Mobile view for crosstabs. `P1`
-  - [ ] Finalise & Handover.
+- [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P0`
 
 ## Design System
 
@@ -24,6 +24,7 @@
 - [/] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1`
   - [ ] Update Discussion Summarisation Flows.
   - [ ] Update Conversation Summarisation Flows.
+- [x] Update the OE Summary flows with - Show Confirmation for Modifiying Bucketing after Summary Generated. `P0`
 
 ## AI
 
@@ -38,9 +39,10 @@
 ## Standalone
 
 - [ ] Research the design brief and provide templates and best practises to add it to the Jira board. `P1`
+- [/] User Groups Enhancement - Historical Change Visibility & Activity Indicators. `P1`
 
 ## Blocked
 
 ### Cross Tabs
 
-- [ ] Crosstab prototype demo recording. `P2` *(On Hold)*
+- [ ] Crosstab prototype demo recording. `P2`

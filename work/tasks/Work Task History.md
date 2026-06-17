@@ -364,3 +364,77 @@ Processed `raw/work/processed/Pending Tasks - 2026-06-10.md`.
 
 **AI — progress update:**
 - TASK-2026-06-09-004 (Persona Bot's UX/UI design): parent task and Research & Documentation marked in progress.
+
+## 2026-06-15
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-12.md`.
+
+**Cross Tabs — new open tasks:**
+- Update Run Button functionality in final UJ's page in Figma.
+  - ID: TASK-2026-06-12-001
+  - Priority: P1
+  - Product: [[Cross Tabs - Index]]
+- Work on the crosstabs new comments by Pradnya.
+  - ID: TASK-2026-06-12-002
+  - Priority: P2
+  - Product: [[Cross Tabs - Index]]
+
+**Cross Tabs — progress and completion:**
+- TASK-2026-05-20-003: Update all designs to use only one string output type is now in progress.
+- TASK-2026-06-09-003 (Mobile view for crosstabs): Finalise & Handover completed; parent task completed 2026-06-12.
+
+**Standalone — new task in progress:**
+- User Groups Enhancement - Historical Change Visibility & Activity Indicators.
+  - ID: TASK-2026-06-12-003
+  - Priority: P1
+  - Product: standalone
+
+## 2026-06-16
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-15.md`.
+
+**Cross Tabs — priority and progress updates:**
+- TASK-2026-06-12-002 (Work on the crosstabs new comments by Pradnya): P2 -> P1.
+- TASK-2026-06-09-001 (Design QA: Crosstabs table layouts testing without data): P2 -> P0.
+- TASK-2026-05-20-003: Update all designs to use only one string output type completed 2026-06-15.
+
+**AI Summarisation — completed task:**
+- Update the OE Summary flows with - Show Confirmation for Modifiying Bucketing after Summary Generated.
+  - ID: TASK-2026-06-15-001
+  - Priority: P0
+  - Product: [[AI Summarisation - Index]]
+  - Completed: 2026-06-15
+
+## 2026-06-17
+
+Processed `Pending Tasks - 2026-06-16.md`, `Notes - 2026-06-16.md`, and two Persona Bots meeting transcripts.
+
+**Cross Tabs — priority updates:**
+- TASK-2026-05-18-002 (Update filter journeys for the confirmation dialogue): P2 -> P0.
+- TASK-2026-06-09-001 (Design QA: Crosstabs table layouts testing without data): P0 -> P2.
+
+**Cross Tabs — subtasks added:**
+- TASK-2026-05-18-002: Recheck the filter reset and filter details patterns.
+- TASK-2026-06-12-002: Display variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
+- TASK-2026-06-12-002: Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
+- TASK-2026-06-12-002: Create sections in Figma for the crosstabs design QA testing file.
+
+**AI Summarisation — new task:**
+- Experiment on UX improvements for AI summaries.
+  - ID: TASK-2026-06-16-001
+  - Priority: P3
+  - Product: [[AI Summarisation - Index]]
+  - Subtasks: loading/generated indication at tab level; collapsible header metadata; clarify response-size difference; index-like navigation; scroll indication; typewriter-style generation; explore page view instead of dialog view.
+
+**AI — Persona Bots updates:**
+- Created [[Persona Bots Overview]] and [[Persona Bots Interaction Model]] from the June 8 and June 16 Persona Bots transcripts.
+- Added Persona Bot subtasks for two mock-up options, checking prioritization with Tish, and coordinating a UX board ticket with Suveer.
+
+## 2026-06-17 Update
+
+Updated AI Summarisation from the user completion note and screenshot.
+
+**AI Summarisation — completed task:**
+- TASK-2026-06-08-002 (Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst): completed 2026-06-16.
+  - Update Discussion Summarisation Flows: completed 2026-06-16.
+  - Update Conversation Summarisation Flows: completed 2026-06-16.

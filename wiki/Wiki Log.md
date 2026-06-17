@@ -105,3 +105,13 @@ Updated `rules/Wiki.md` with a link-quality rule: related links need a meaningfu
 Processed `raw/knowledge/inbox/What Vitamin D REALLY Does to the Body.md` and moved it to `raw/knowledge/health-and-wellness/What Vitamin D REALLY Does to the Body.md`.
 
 Created source page [[What Vitamin D REALLY Does to the Body]] and concept page [[Vitamin D and Bone Health]]. Updated [[Wiki Index]] and [[overview]] to include the new health/wellness source and concept.
+
+---
+
+## [2026-06-16] ingest | App Store Approval Checklist
+
+Processed `raw/knowledge/inbox/App Store Approval Checklist.md` and moved it intact to `raw/knowledge/technology/ai/App Store Approval Checklist.md`.
+
+Created source page [[App Store Approval Checklist]] as an exact-format copy of the source content, without adding frontmatter or changing the body. Linked it from [[Wiki Index]], [[overview]], and [[AI-Assisted App Building]].
+
+Follow-up mapping: created concept page [[App Store Review Readiness for AI-Built Apps]] and connected it to [[AI-Assisted App Building]], [[Wiki Index]], and [[overview]].

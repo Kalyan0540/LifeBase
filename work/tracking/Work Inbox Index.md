@@ -29,6 +29,14 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 | `raw/work/processed/Pending Tasks - 2026-06-08.md` | 2026-06-09 | standalone, [[AI Summarisation - Index]] | [[Work Tasks]] (1 standalone task TASK-2026-06-08-001), [[AI Summarisation - Tasks]] (1 new task TASK-2026-06-08-002), [[Work Task History]] (entry appended) |
 | `raw/work/processed/Pending Tasks - 2026-06-09.md` | 2026-06-10 | [[Cross Tabs - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (2 new open tasks TASK-2026-06-09-001 and TASK-2026-06-09-003, 1 completed task TASK-2026-06-09-002), [[AI - Tasks]] (1 new task TASK-2026-06-09-004 with subtasks), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 | `raw/work/processed/Pending Tasks - 2026-06-10.md` | 2026-06-11 | [[Cross Tabs - Index]], [[Design System - Index]], [[AI Summarisation - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (mobile progress, completed support-ticket task TASK-2026-06-10-001), [[Design System - Tasks]] (priority and subtask update), [[AI Summarisation - Tasks]] (priority and progress update), [[AI - Tasks]] (Persona Bot progress), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Pending Tasks - 2026-06-12.md` | 2026-06-15 | [[Cross Tabs - Index]], standalone | [[Cross Tabs - Tasks]] (2 new tasks TASK-2026-06-12-001 and TASK-2026-06-12-002, 1 progress update, mobile task completed), [[Work Tasks]] (standalone task TASK-2026-06-12-003 and dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Meeting Notes - 2026-06-12.md` | 2026-06-15 | none | No output; empty meeting-note capture. |
+| `raw/work/processed/Pending Tasks - 2026-06-15.md` | 2026-06-16 | [[Cross Tabs - Index]], [[AI Summarisation - Index]] | [[Cross Tabs - Tasks]] (2 priority updates, 1 subtask completion), [[AI Summarisation - Tasks]] (1 completed task TASK-2026-06-15-001), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Pending Tasks - 2026-06-16.md` | 2026-06-17 | [[Cross Tabs - Index]] | [[Cross Tabs - Tasks]] (2 priority updates), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Notes - 2026-06-16.md` | 2026-06-17 | [[AI Summarisation - Index]], [[Cross Tabs - Index]] | [[AI Summarisation - Tasks]] (1 new task TASK-2026-06-16-001), [[Cross Tabs - Tasks]] (4 subtasks added), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording.md` | 2026-06-17 | [[AI - Index]] | [[Persona Bots Overview]] (concept), [[Persona Bots Interaction Model]] (concept), [[AI - Tasks]] (task context updated) |
+| `raw/work/processed/Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording.md` | 2026-06-17 | [[AI - Index]] | [[Persona Bots Overview]] (concept update), [[Persona Bots Interaction Model]] (concept update), [[AI - Tasks]] (3 subtasks added) |
+| `raw/work/processed/Meeting Notes - 2026-06-15.md` | 2026-06-15 | none | No output; empty meeting-note capture. |
 
 ---
 
@@ -36,8 +44,8 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 
 | Raw File | Added | Type | Product Guess | Status | Notes |
 |---|---:|---|---|---|---|
-| `raw/work/inbox/Pending Tasks - 2026-06-12.md` | 2026-06-11 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
-| `raw/work/inbox/Meeting Notes - 2026-06-12.md` | 2026-06-11 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
+| `raw/work/inbox/Pending Tasks - 2026-06-17.md` | 2026-06-17 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
+| `raw/work/inbox/Meeting Notes - 2026-06-17.md` | 2026-06-17 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
 
 ---
 

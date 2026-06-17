@@ -10,18 +10,21 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
-- [ ] Update filter journeys for the confirmation dialogue. `P2` `TASK-2026-05-18-002`
+- [ ] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002`
+  - [ ] Recheck the filter reset and filter details patterns.
+- [ ] Update Run Button functionality in final UJ's page in Figma. `P1` `TASK-2026-06-12-001`
+- [ ] Work on the crosstabs new comments by Pradnya. `P1` `TASK-2026-06-12-002`
+  - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
+  - [ ] Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
+  - [ ] Create sections in Figma for the crosstabs design QA testing file.
 - [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
-  - [ ] Update all designs to use only one string output type.
+  - [x] Update all designs to use only one string output type. `completed 2026-06-15`
   - [ ] Table output flows designs. *(Review against string-only scope.)*
   - [x] Update delete & Edit custom variable. `completed 2026-06-01`
   - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
   - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
   - [x] Added view mode for custom variable. `completed 2026-06-02`
 - [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2` `TASK-2026-06-09-001`
-- [/] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003`
-  - [x] Draft 1 & Review. `completed 2026-06-10`
-  - [ ] Finalise & Handover.
 
 ### [[Design System - Index|Design System]]
 
@@ -38,10 +41,14 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### [[AI Summarisation - Index|AI Summarisation]]
 
 - [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
-- [/] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002`
-  - [x] Update OE Summarisation Flows. `completed 2026-06-10`
-  - [ ] Update Discussion Summarisation Flows.
-  - [ ] Update Conversation Summarisation Flows.
+- [ ] Experiment on UX improvements for AI summaries. `P3` `TASK-2026-06-16-001`
+  - [ ] Loading indication and generated indication at tab level.
+  - [ ] Collapsible or see-more option for header metadata.
+  - [ ] Clarify the difference between response size at summary level and header level in discussion/conversation.
+  - [ ] Index-like option to navigate within tab between each value output.
+  - [ ] Scroll indication after a response is generated.
+  - [ ] Show generated summary progressively like a typewriter instead of populating it all at once.
+  - [ ] Explore moving away from dialog view to page view.
 
 ### [[AI - Index|AI]]
 
@@ -49,13 +56,17 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 - [/] Persona Bot's UX/UI design. `TASK-2026-06-09-004`
   - [/] Research & Documentation
   - [ ] Ideation
+    - [ ] Create two substantively different first-page/core app mock-up options.
   - [ ] First Draft + Review
   - [ ] Final Draft + Review
   - [ ] Dev Handoff
+  - [ ] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work.
+  - [ ] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking.
 
 ### Standalone
 
 - [ ] Research the design brief and provide templates and best practises to add it to the Jira board. `P1` `TASK-2026-06-08-001`
+- [/] User Groups Enhancement - Historical Change Visibility & Activity Indicators. `P1` `TASK-2026-06-12-003`
 
 ---
 
@@ -82,6 +93,9 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003` `completed 2026-06-12`
+  - [x] Draft 1 & Review. `completed 2026-06-10`
+  - [x] Finalise & Handover. `completed 2026-06-12`
 - [x] Support tickets for crosstabs. `P0` `TASK-2026-06-10-001` `completed 2026-06-10`
 - [x] Update the saved crosstabs view changes in the Final UJ's. `P0` `TASK-2026-06-09-002` `completed 2026-06-09`
 - [x] Design changes to Saved crosstab page views. `TASK-2026-06-04-001` `completed 2026-06-05`
@@ -99,6 +113,11 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[AI Summarisation - Index|AI Summarisation]]
 
+- [x] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002` `completed 2026-06-16`
+  - [x] Update OE Summarisation Flows. `completed 2026-06-10`
+  - [x] Update Discussion Summarisation Flows. `completed 2026-06-16`
+  - [x] Update Conversation Summarisation Flows. `completed 2026-06-16`
+- [x] Update the OE Summary flows with - Show Confirmation for Modifiying Bucketing after Summary Generated. `P0` `TASK-2026-06-15-001` `completed 2026-06-15`
 - [x] Provide Dominique the links to updated copy design, dialogue layout, and selection interaction in profile fields. `P0` `TASK-2026-05-20-006` `completed 2026-05-25`
 - [x] Warning message for deleting bucketing if a summary is already generated. `P0` `TASK-2026-05-20-004` `completed 2026-05-21`
 - [x] Update button text to "Reset to default" instead of "Reset". `P0` `TASK-2026-05-20-005` `completed 2026-05-21`

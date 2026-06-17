@@ -353,3 +353,61 @@ Processed `raw/work/processed/Pending Tasks - 2026-06-10.md`.
 Recorded Mobile crosstabs progress and a completed P0 support-ticket task, updated Design System colour tokens to P2 with a new review subtask, recorded AI Summarisation flow progress and P1 priority, and marked Persona Bot research in progress.
 
 Updated product task pages and indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created the next pending-task and empty meeting-note inbox files dated 2026-06-12.
+
+---
+
+## [2026-06-15] process | Pending tasks and empty meeting notes from 2026-06-12
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-12.md` and the empty `raw/work/processed/Meeting Notes - 2026-06-12.md` capture.
+
+Added two Cross Tabs tasks for the Run Button final UJ update and Pradnya's new comments. Marked the string-only design update subtask in progress and completed Mobile view for crosstabs. Added the standalone User Groups Enhancement task in progress.
+
+Updated `Cross Tabs - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Cross Tabs - Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created the next pending-task and empty meeting-note inbox files dated 2026-06-15.
+
+---
+
+## [2026-06-15] process | Pending tasks and empty meeting notes from 2026-06-15
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-15.md` and the empty `raw/work/processed/Meeting Notes - 2026-06-15.md` capture.
+
+All listed tasks, progress states, subtasks, and priorities already matched the current task dashboard, so no task records changed. Recreated the pending-task snapshot and empty meeting-note capture in `raw/work/inbox/` for the next update.
+
+---
+
+## [2026-06-16] process | Pending tasks from 2026-06-15
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-15.md`.
+
+Updated Cross Tabs from the edited snapshot: TASK-2026-06-12-002 moved from P2 to P1, TASK-2026-06-09-001 moved from P2 to P0, and the string-only design subtask under TASK-2026-05-20-003 was completed 2026-06-15.
+
+Added completed AI Summarisation task TASK-2026-06-15-001 for the OE Summary confirmation flow after modifying bucketing after summary generation.
+
+Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-06-16.
+
+---
+
+## [2026-06-17] process | June 16 tasks and Persona Bots notes
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-16.md`, `raw/work/processed/Notes - 2026-06-16.md`, `raw/work/processed/Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording.md`, and `raw/work/processed/Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording.md`.
+
+Cross Tabs:
+- Updated TASK-2026-05-18-002 priority from P2 to P0 and added the filter reset/details pattern subtask.
+- Updated TASK-2026-06-09-001 priority from P0 to P2.
+- Added three subtasks under TASK-2026-06-12-002 for variable code display, footer/scroll pattern exploration with Nima, and Figma design QA sections.
+
+AI Summarisation:
+- Added TASK-2026-06-16-001 for experimenting on AI summary UX improvements with seven source subtasks.
+
+AI / Persona Bots:
+- Created [[Persona Bots Overview]] and [[Persona Bots Interaction Model]].
+- Added task follow-ups for mock-up options, Tish prioritization, and a UX board ticket.
+
+Updated product task pages and indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-06-17.
+
+---
+
+## [2026-06-17] update | AI Summarisation task completed
+
+Marked TASK-2026-06-08-002 complete based on the user's screenshot that the Discussion, Conversation, and OE Summary design task was completed yesterday, 2026-06-16.
+
+Updated `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Task History.md`, and the current pending-task snapshot.

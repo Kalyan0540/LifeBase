@@ -10,11 +10,11 @@ Each sub-product folder contains Index, Tasks, Concepts/, and Decisions/. Patter
 
 | Parent | Sub-Product | Status | Last Updated | Open Tasks |
 |---|---|---|---:|---:|
-| [[Enlyta - Index\|Enlyta]] | [[Cross Tabs - Index\|Cross Tabs]] | active | 2026-06-11 | 4 |
+| [[Enlyta - Index\|Enlyta]] | [[Cross Tabs - Index\|Cross Tabs]] | active | 2026-06-17 | 5 |
 | [[Enlyta - Index\|Enlyta]] | [[Design System - Index\|Design System]] | active | 2026-06-11 | 1 |
-| [[Catalyst - Index\|Catalyst]] | [[AI Summarisation - Index\|AI Summarisation]] | active | 2026-06-11 | 2 |
+| [[Catalyst - Index\|Catalyst]] | [[AI Summarisation - Index\|AI Summarisation]] | active | 2026-06-17 | 2 |
 | [[Catalyst - Index\|Catalyst]] | [[Activity Feed - Index\|Activity Feed]] | active | 2026-05-27 | 0 |
-| — | [[AI - Index\|AI]] | active | 2026-06-11 | 2 |
+| — | [[AI - Index\|AI]] | active | 2026-06-17 | 2 |
 
 ---
 

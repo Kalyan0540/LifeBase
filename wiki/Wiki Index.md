@@ -33,6 +33,7 @@ Content catalog for the durable knowledge wiki.
 - [[Airplane and Rocket Analogy]] - Mental model: incremental improvement within a paradigm has a ceiling; reaching beyond it needs a different vehicle, not a better airplane
 - [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] - Business/agency application of the LLM Wiki pattern: raw inputs, structured wiki/JSON, schema, skills, and per-agent memory
 - [[How I Vibe Coded a Recipe App using Claude Code]] - AI-assisted mobile app build workflow using design generation, Expo React Native, OpenAI API, Supabase, RevenueCat, and short-form marketing
+- [[App Store Approval Checklist]] - Checklist for AI-built iOS app review readiness: secrets, dynamic code execution, stability, AI consent/privacy, payments, SDK compliance, and reviewer notes
 - [[Why Do Competitors Open Their Stores Next to One Another]] - Hotelling's Model and Nash Equilibrium: why competing businesses cluster
 - [[You're Exercising Wrong]] - Longevity exercise model built around strength, low-intensity cardio, high-intensity cardio, mobility, and balance
 
@@ -53,6 +54,7 @@ Content catalog for the durable knowledge wiki.
 - [[Dark Mode Design]] - Shade inversion method for deriving dark mode from light mode primitives
 - [[AI-First Business Systems]] - Agents, skills, structured memory, and integrations arranged as a repeatable operating system for business workflows
 - [[AI-Assisted App Building]] - Staged workflow for building apps with AI: reference research, feature spec, design generation, implementation, backend, testing, launch readiness
+- [[App Store Review Readiness for AI-Built Apps]] - Launch-readiness checklist for AI-built iOS apps: secrets, dynamic code execution, stability, AI privacy, payments, SDKs, and reviewer support
 - [[Deploying AI-Generated Websites]] - Pipeline for shipping an AI-built site: Claude → GitHub → Hostinger → Supabase, with continuous deployment
 - [[Delta 4 Framework]] - Efficiency-delta scoring: when delta >= 4, products create irreversible behaviour, high tolerance, and Unique Brag-worthy Proposition
 - [[Diabetes and Metabolic Health]] - Blood glucose regulation, insulin resistance, diabetes complications, and lifestyle-supported remission

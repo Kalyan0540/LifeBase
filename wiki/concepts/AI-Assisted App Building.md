@@ -2,8 +2,9 @@
 type: concept
 sources:
   - "[[How I Vibe Coded a Recipe App using Claude Code]]"
+  - "[[App Store Approval Checklist]]"
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-16
 ---
 
 # AI-Assisted App Building
@@ -20,12 +21,15 @@ The strongest version is not "ask AI to build an app" in one step. It is a stage
 6. Test on a real device.
 7. Prepare for app store and marketing.
 
+For iOS apps, app-store preparation includes [[App Store Review Readiness for AI-Built Apps]]: secrets should stay off the client, AI data sharing needs clear consent and privacy disclosure, native payment rules need to be followed, and reviewers need enough credentials/context to test the product.
+
 ## Practical Principles
 
 - Plan features before generating UI.
 - Use visual references when asking for design.
 - Keep API keys off the client app.
 - Test primary workflows on a real device.
+- Treat App Store review as part of product readiness, especially for AI features, privacy, payments, and failure states.
 - Treat marketing and distribution as part of the product workflow, not a later afterthought.
 
 ## Common Stack
