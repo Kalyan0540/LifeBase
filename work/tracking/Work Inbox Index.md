@@ -37,6 +37,8 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 | `raw/work/processed/Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording.md` | 2026-06-17 | [[AI - Index]] | [[Persona Bots Overview]] (concept), [[Persona Bots Interaction Model]] (concept), [[AI - Tasks]] (task context updated) |
 | `raw/work/processed/Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording.md` | 2026-06-17 | [[AI - Index]] | [[Persona Bots Overview]] (concept update), [[Persona Bots Interaction Model]] (concept update), [[AI - Tasks]] (3 subtasks added) |
 | `raw/work/processed/Meeting Notes - 2026-06-15.md` | 2026-06-15 | none | No output; empty meeting-note capture. |
+| `raw/work/processed/Pending Tasks - 2026-06-17.md` | 2026-06-18 | [[Cross Tabs - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (1 completion, 2 subtasks added), [[AI - Tasks]] (priority update and 1 completed subtask), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/UX UI Pattern & Decision.md` | 2026-06-18 | [[Cross Tabs - Index]], [[Patterns Index]] | [[Filter Actions Disabled Instead of Hidden]] (decision), [[Saved Filter View and Edit Mode Controls]] (decision), [[patterns/Action Visibility by Workflow Relevance|Action Visibility by Workflow Relevance]] (pattern) |
 
 ---
 
@@ -44,8 +46,8 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 
 | Raw File | Added | Type | Product Guess | Status | Notes |
 |---|---:|---|---|---|---|
-| `raw/work/inbox/Pending Tasks - 2026-06-17.md` | 2026-06-17 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
-| `raw/work/inbox/Meeting Notes - 2026-06-17.md` | 2026-06-17 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
+| `raw/work/inbox/Pending Tasks - 2026-06-18.md` | 2026-06-18 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
+| `raw/work/inbox/Meeting Notes - 2026-06-18.md` | 2026-06-18 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
 
 ---
 

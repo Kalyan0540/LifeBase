@@ -7,14 +7,14 @@ type: tasks
 ## Open
 
 - [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
-- [/] Persona Bot's UX/UI design. `TASK-2026-06-09-004`
+- [/] Persona Bot's UX/UI design. `P0` `TASK-2026-06-09-004`
   - [/] Research & Documentation
   - [ ] Ideation
     - [ ] Create two substantively different first-page/core app mock-up options.
   - [ ] First Draft + Review
   - [ ] Final Draft + Review
   - [ ] Dev Handoff
-  - [ ] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work.
+  - [x] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work. `completed 2026-06-17`
   - [ ] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking.
 
 ## Blocked

@@ -115,3 +115,11 @@ Processed `raw/knowledge/inbox/App Store Approval Checklist.md` and moved it int
 Created source page [[App Store Approval Checklist]] as an exact-format copy of the source content, without adding frontmatter or changing the body. Linked it from [[Wiki Index]], [[overview]], and [[AI-Assisted App Building]].
 
 Follow-up mapping: created concept page [[App Store Review Readiness for AI-Built Apps]] and connected it to [[AI-Assisted App Building]], [[Wiki Index]], and [[overview]].
+
+---
+
+## [2026-06-18] ingest | Hidden vs. Disabled In UX
+
+Processed `raw/knowledge/inbox/Hidden vs. Disabled In UX.md` and moved it to `raw/knowledge/product-and-design/design/Hidden vs. Disabled In UX.md`.
+
+Created source page [[Hidden vs. Disabled In UX]] and concept page [[Action Visibility in UX]]. Updated [[Wiki Index]] and [[overview]] to include the new UX design source and concept.

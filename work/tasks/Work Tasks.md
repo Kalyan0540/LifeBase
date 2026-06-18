@@ -10,13 +10,13 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
-- [ ] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002`
-  - [ ] Recheck the filter reset and filter details patterns.
 - [ ] Update Run Button functionality in final UJ's page in Figma. `P1` `TASK-2026-06-12-001`
 - [ ] Work on the crosstabs new comments by Pradnya. `P1` `TASK-2026-06-12-002`
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
   - [ ] Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
   - [ ] Create sections in Figma for the crosstabs design QA testing file.
+  - [ ] Create total column for nesting table.
+  - [ ] Remove old Figma designs from the Final UJ's.
 - [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
   - [x] Update all designs to use only one string output type. `completed 2026-06-15`
   - [ ] Table output flows designs. *(Review against string-only scope.)*
@@ -53,14 +53,14 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### [[AI - Index|AI]]
 
 - [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
-- [/] Persona Bot's UX/UI design. `TASK-2026-06-09-004`
+- [/] Persona Bot's UX/UI design. `P0` `TASK-2026-06-09-004`
   - [/] Research & Documentation
   - [ ] Ideation
     - [ ] Create two substantively different first-page/core app mock-up options.
   - [ ] First Draft + Review
   - [ ] Final Draft + Review
   - [ ] Dev Handoff
-  - [ ] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work.
+  - [x] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work. `completed 2026-06-17`
   - [ ] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking.
 
 ### Standalone
@@ -93,6 +93,8 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002` `completed 2026-06-17`
+  - [x] Recheck the filter reset and filter details patterns. `completed 2026-06-17`
 - [x] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003` `completed 2026-06-12`
   - [x] Draft 1 & Review. `completed 2026-06-10`
   - [x] Finalise & Handover. `completed 2026-06-12`

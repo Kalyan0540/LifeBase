@@ -6,7 +6,7 @@ updated: 2026-06-16
 
 # Overview
 
-This wiki currently covers seven interconnected domains sourced from 24 ingested documents.
+This wiki currently covers seven interconnected domains sourced from 25 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
@@ -47,6 +47,7 @@ Four interconnected frameworks:
 - **[[UX Design Maturity Model]]** (Spool): five organisational stages from Dark Ages to Infused UX. Maturity is set by the least mature influencer. Source: [[Jared Spool – Beyond The UX Tipping Point]].
 - **[[User Journey Mapping]]**: mapping all touchpoints on frustration-to-delight scale as the foundational tool for both frameworks above.
 - **[[MAYA Principle]]** (Raymond Loewy): Most Advanced Yet Acceptable — the design sweet spot balancing neophilia and neophobia. Applied via the iPod→iPhone progression, Star Wars structure, and the failure of Google Glass. Sources: [[The MAYA Principle]], [[The Science of Successful Things - Derek Thompson]].
+- **[[Action Visibility in UX]]**: choose hidden, disabled, read-only, or enabled states based on whether an action is temporarily unavailable, permanently irrelevant, permission-restricted, or useful for workflow learning. Source: [[Hidden vs. Disabled In UX]].
 - **Designing for AI**: [[Generative AI UX Design]] and the [[Human-AI Interaction Guidelines]] (18 research-validated guidelines across four interaction phases) cover how AI experiences should behave — focus frameworks (immersive/assistive/embedded), the human-in-control principle, avoiding anthropomorphization, and collaborative input/output design with *appropriate friction* as a deliberate counter to frictionless-design dogma. Sources: [[Creating a Dynamic UX - Guidance for Generative AI Applications]], [[Guidelines for Human-AI Interaction]].
 
 ## Domain 6 — First Principles & Mental Models

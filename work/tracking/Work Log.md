@@ -411,3 +411,21 @@ Updated product task pages and indexes, `Work Tasks.md`, `Work Index.md`, `Work 
 Marked TASK-2026-06-08-002 complete based on the user's screenshot that the Discussion, Conversation, and OE Summary design task was completed yesterday, 2026-06-16.
 
 Updated `AI Summarisation - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Task History.md`, and the current pending-task snapshot.
+
+---
+
+## [2026-06-18] process | June 17 tasks and Crosstabs action visibility decisions
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-17.md` and `raw/work/processed/UX UI Pattern & Decision.md`.
+
+Cross Tabs:
+- Completed TASK-2026-05-18-002 and its filter reset/details pattern subtask.
+- Added two subtasks under TASK-2026-06-12-002 for the nesting total column and removing old Figma designs from the Final UJ's.
+- Captured [[Filter Actions Disabled Instead of Hidden]] and [[Saved Filter View and Edit Mode Controls]].
+- Added work-level pattern [[patterns/Action Visibility by Workflow Relevance|Action Visibility by Workflow Relevance]].
+
+AI / Persona Bots:
+- Updated TASK-2026-06-09-004 to P0.
+- Marked the Tish prioritization follow-up complete.
+
+Updated product task pages and indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, `Work Task History.md`, and `Patterns Index.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-06-18.

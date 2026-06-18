@@ -29,13 +29,16 @@ Sub-product of [[Enlyta - Index|Enlyta]]. A crosstab analysis tool. Current focu
 - [[Custom Variable Output as Column Name]] — Custom variable outputs are column labels in Cross Tabs; numeric output does not imply calculations
 - [[Custom Variable Edit Synchronisation]] — Custom variable edits sync automatically instead of preserving a previous-state duplicate
 - [[String-Only Custom Variable Output]] — Custom variable creation uses one string output type for the current scope
+- [[Filter Actions Disabled Instead of Hidden]] — Keep clear/detail filter actions visible but disabled when temporarily inactive
+- [[Saved Filter View and Edit Mode Controls]] — Hide row edit controls in view mode and hide owner-only actions for non-creators
 
 ## Patterns
 
-This sub-product follows two work-level patterns — see [[Patterns Index]] for detail:
+This sub-product follows work-level patterns — see [[Patterns Index]] for detail:
 
 - [[patterns/Session-Based Destructive Confirmation|Session-Based Destructive Confirmation]]
 - [[patterns/Trigger Warnings on Intent, Not Possibility|Trigger Warnings on Intent, Not Possibility]]
+- [[patterns/Action Visibility by Workflow Relevance|Action Visibility by Workflow Relevance]]
 
 ## Source Notes
 
@@ -45,4 +48,4 @@ This sub-product follows two work-level patterns — see [[Patterns Index]] for 
 
 ---
 
-*Updated: 2026-06-17*
+*Updated: 2026-06-18*

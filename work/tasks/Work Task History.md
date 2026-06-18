@@ -438,3 +438,24 @@ Updated AI Summarisation from the user completion note and screenshot.
 - TASK-2026-06-08-002 (Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst): completed 2026-06-16.
   - Update Discussion Summarisation Flows: completed 2026-06-16.
   - Update Conversation Summarisation Flows: completed 2026-06-16.
+
+## 2026-06-18
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-17.md` and `raw/work/processed/UX UI Pattern & Decision.md`.
+
+**Cross Tabs — completed:**
+- TASK-2026-05-18-002 (Update filter journeys for the confirmation dialogue): completed 2026-06-17.
+  - Recheck the filter reset and filter details patterns: completed 2026-06-17.
+
+**Cross Tabs — subtasks added:**
+- TASK-2026-06-12-002: Create total column for nesting table.
+- TASK-2026-06-12-002: Remove old Figma designs from the Final UJ's.
+
+**Cross Tabs — decisions captured:**
+- Created [[Filter Actions Disabled Instead of Hidden]].
+- Created [[Saved Filter View and Edit Mode Controls]].
+- Created work-level pattern [[patterns/Action Visibility by Workflow Relevance|Action Visibility by Workflow Relevance]].
+
+**AI — Persona Bots updates:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): priority set to P0.
+- Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work: completed 2026-06-17.

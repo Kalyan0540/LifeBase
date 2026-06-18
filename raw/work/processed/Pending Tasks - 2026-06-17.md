@@ -2,8 +2,8 @@
 
 ## Cross Tabs
 
-- [ ] Update filter journeys for the confirmation dialogue. `P0`
-  - [ ] Recheck the filter reset and filter details patterns.
+- [x] Update filter journeys for the confirmation dialogue. `P0`
+  - [x] Recheck the filter reset and filter details patterns.
 - [/] Update variable creation flows in UI per string-only output decision. `P0`
   - [ ] Table output flows designs.
 - [ ] Update Run Button functionality in final UJ's page in Figma. `P1`
@@ -11,6 +11,8 @@
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
   - [ ] Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
   - [ ] Create sections in Figma for the crosstabs design QA testing file.
+  - [ ] Create total column for nesting table
+  - [ ] Remove old figma designs from the Final Uj's
 - [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2`
 
 ## Design System

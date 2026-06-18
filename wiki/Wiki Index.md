@@ -36,6 +36,7 @@ Content catalog for the durable knowledge wiki.
 - [[App Store Approval Checklist]] - Checklist for AI-built iOS app review readiness: secrets, dynamic code execution, stability, AI consent/privacy, payments, SDK compliance, and reviewer notes
 - [[Why Do Competitors Open Their Stores Next to One Another]] - Hotelling's Model and Nash Equilibrium: why competing businesses cluster
 - [[You're Exercising Wrong]] - Longevity exercise model built around strength, low-intensity cardio, high-intensity cardio, mobility, and balance
+- [[Hidden vs. Disabled In UX]] - Smashing Magazine article on choosing hidden, disabled, read-only, or enabled states for unavailable UI actions
 
 ---
 
@@ -54,6 +55,7 @@ Content catalog for the durable knowledge wiki.
 - [[Dark Mode Design]] - Shade inversion method for deriving dark mode from light mode primitives
 - [[AI-First Business Systems]] - Agents, skills, structured memory, and integrations arranged as a repeatable operating system for business workflows
 - [[AI-Assisted App Building]] - Staged workflow for building apps with AI: reference research, feature spec, design generation, implementation, backend, testing, launch readiness
+- [[Action Visibility in UX]] - Choosing when to show, disable, hide, or make controls read-only based on workflow relevance, permissions, and state
 - [[App Store Review Readiness for AI-Built Apps]] - Launch-readiness checklist for AI-built iOS apps: secrets, dynamic code execution, stability, AI privacy, payments, SDKs, and reviewer support
 - [[Deploying AI-Generated Websites]] - Pipeline for shipping an AI-built site: Claude → GitHub → Hostinger → Supabase, with continuous deployment
 - [[Delta 4 Framework]] - Efficiency-delta scoring: when delta >= 4, products create irreversible behaviour, high tolerance, and Unique Brag-worthy Proposition

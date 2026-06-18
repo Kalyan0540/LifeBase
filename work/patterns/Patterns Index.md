@@ -10,6 +10,7 @@ Patterns live in `work/patterns/`. Decisions that originated a pattern live at t
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------- | --- |
 | [[patterns/Session-Based Destructive Confirmation\|Session-Based Destructive Confirmation]]      | Show a confirmation dialog on the first destructive action in a session, then suppress for subsequent similar actions.                       | AI Summarisation | Cross Tabs | —   |
 | [[patterns/Trigger Warnings on Intent, Not Possibility\|Trigger Warnings on Intent, Not Possibility]] | Show warnings only when the user performs a destructive action — not when they enter an editable state where destruction is merely possible. | AI Summarisation | Cross Tabs | —   |
+| [[patterns/Action Visibility by Workflow Relevance\|Action Visibility by Workflow Relevance]] | Keep persistent workflow actions visible when temporarily unavailable; hide mode-specific, permission-restricted, irrelevant, or objectless actions. | — | Cross Tabs | — |
 
 ---
 

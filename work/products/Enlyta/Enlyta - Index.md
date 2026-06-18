@@ -13,7 +13,7 @@ Parent product. Sub-products live under `work/products/Enlyta/`.
 
 ## Patterns
 
-No Enlyta-specific patterns yet. Cross Tabs currently follows two patterns — see [[Patterns Index]].
+Cross Tabs currently follows work-level patterns — see [[Patterns Index]].
 
 ## Quick Links
 
