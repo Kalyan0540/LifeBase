@@ -1,7 +1,7 @@
 ---
 type: entity
 sources:
-  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
+  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
   - "[[Jared Spool – Beyond The UX Tipping Point]]"
 created: 2026-05-09
 updated: 2026-05-09
@@ -23,5 +23,5 @@ The move from "not frustrating" to "delightful" requires fundamentally different
 
 ## Sources
 
-- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — Kano Model talk at USI Events
+- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — Kano Model talk at USI Events
 - [[Jared Spool – Beyond The UX Tipping Point]] — maturity model keynote at From Business to Buttons, Stockholm 2018

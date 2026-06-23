@@ -63,5 +63,5 @@ Counterintuitively, a team's design maturity is set by its *least mature influen
 - [[Jared Spool]] — speaker
 - [[UX Design Maturity Model]] — the five-stage maturity model detailed here
 - [[User Journey Mapping]] — the tool used to map touch-points from frustration to delight
-- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — companion Kano Model talk by the same speaker
+- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — companion Kano Model talk by the same speaker
 - [[Kano Model]] — related framework for understanding frustration vs delight

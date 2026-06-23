@@ -1,8 +1,8 @@
 ---
 type: entity
 sources:
-  - "[[Growth Without Ads - Kunal Shah, Founder CRED]]"
-  - "[[Kunal Shah at Tech Sparks 2016]]"
+  - "[[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]]"
+  - "[[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -21,5 +21,5 @@ Humans are uniquely and continuously efficiency-seeking — the entire product e
 
 ## Sources
 
-- [[Growth Without Ads - Kunal Shah, Founder CRED]] — English-language talk on Delta 4 in the context of CRED
-- [[Kunal Shah at Tech Sparks 2016]] — earlier Hindi/English articulation of the same framework (YourStory, 2016, when at Freecharge)
+- [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]] — English-language talk on Delta 4 in the context of CRED
+- [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] — earlier Hindi/English articulation of the same framework (YourStory, 2016, when at Freecharge)

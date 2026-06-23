@@ -12,31 +12,45 @@ Content catalog for the durable knowledge wiki.
 
 ## Sources
 
-- [[Figma Design System 2025 - Colour Tokens Ep 1]] - YouTube walkthrough of building colour primitives and usage tokens in Figma, including dark mode and variable scoping
-- [[LLM Wiki — Karpathy]] - Andrej Karpathy's pattern for building a persistent, LLM-maintained knowledge base; the blueprint for this wiki
-- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool]] - Jared Spool on the Kano Model: frustration vs delight, basic expectations, excitement generators, and experience rot
-- [[Creating a Dynamic UX - Guidance for Generative AI Applications]] - Microsoft's UX guidance for generative AI: immersive/assistive/embedded frameworks, three copilot principles, and collaborative input/output design
+### Technology / AI
+
+- [[llm-wiki|LLM Wiki — Karpathy]] - Andrej Karpathy's pattern for building a persistent, LLM-maintained knowledge base; the blueprint for this wiki
+- [[The RIGHT Way to Deploy A Claude AI Website + FREE Database (Nobody Explains This)|The RIGHT Way to Deploy a Claude AI Website + Free Database]] - End-to-end pipeline for deploying an AI-built Next.js site: Claude → GitHub → Hostinger → Supabase
+- [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] - Business/agency application of the LLM Wiki pattern: raw inputs, structured wiki/JSON, schema, skills, and per-agent memory
+- [[How I Vibe Coded a Recipe App using Claude Code (Full Build + Marketing)|How I Vibe Coded a Recipe App using Claude Code]] - AI-assisted mobile app build workflow using design generation, Expo React Native, OpenAI API, Supabase, RevenueCat, and short-form marketing
+- [[App Store Approval Checklist]] - Checklist for AI-built iOS app review readiness: secrets, dynamic code execution, stability, AI consent/privacy, payments, SDK compliance, and reviewer notes
+
+### Product And Design / Design
+
+- [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]] - YouTube walkthrough of building colour primitives and usage tokens in Figma, including dark mode and variable scoping
+- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] - Jared Spool on the Kano Model: frustration vs delight, basic expectations, excitement generators, and experience rot
+- [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]] - Microsoft's UX guidance for generative AI: immersive/assistive/embedded frameworks, three copilot principles, and collaborative input/output design
 - [[Guidelines for Human-AI Interaction]] - Microsoft Research's 18 research-validated guidelines for AI behaviour across four interaction phases
-- [[Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]] - Eric Jorgenson on positive feedback loops as a meta-competitive advantage; Amazon, Uber, Atlassian case studies
-- [[Growth Without Ads - Kunal Shah, Founder CRED]] - Kunal Shah's Delta 4 Framework: efficiency delta scoring, UBP, and why some products grow without ads
-- [[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] - Full workshop version of Nir Eyal's Hook Model: trigger, action, variable reward, investment
-- [[How to Build Habit-Forming Products - Nir Eyal (Short)]] - 20-minute conference version of the Hook Model with five diagnostic questions
-- [[How to Use First Principles Thinking for Business]] - Three-step first principles framework with Musk/SpaceX/Tesla examples and business case studies
 - [[Jared Spool – Beyond The UX Tipping Point]] - Spool's UX Design Maturity Model, the UX tipping point, Disney Magic Band case study, and three maturity plays
-- [[Kunal Shah at Tech Sparks 2016]] - Earlier Hindi/English articulation of the Delta 4 Framework (YourStory, 2016)
+- [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] - Raymond Loewy's Most Advanced Yet Acceptable design philosophy; iPod to iPhone progression
+- [[Hidden vs. Disabled In UX]] - Smashing Magazine article on choosing hidden, disabled, read-only, or enabled states for unavailable UI actions
+
+### Product And Design / Product Growth
+
+- [[Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage|Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]] - Eric Jorgenson on positive feedback loops as a meta-competitive advantage; Amazon, Uber, Atlassian case studies
+- [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]] - Kunal Shah's Delta 4 Framework: efficiency delta scoring, UBP, and why some products grow without ads
+- [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] - Full workshop version of Nir Eyal's Hook Model: trigger, action, variable reward, investment
+- [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] - 20-minute conference version of the Hook Model with five diagnostic questions
+- [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] - Earlier Hindi/English articulation of the Delta 4 Framework (YourStory, 2016)
+- [[Why do competitors open their stores next to one another? - Jac de Haan|Why Do Competitors Open Their Stores Next to One Another]] - Hotelling's Model and Nash Equilibrium: why competing businesses cluster
+
+### Mental Models
+
+- [[How to Use First Principles Thinking for Business]] - Three-step first principles framework with Musk/SpaceX/Tesla examples and business case studies
 - [[PDC 1996 Keynote with Douglas Adams]] - Douglas Adams on mental models, perception, and the biscuit story; philosophy of how humans model reality
-- [[The MAYA Principle]] - Raymond Loewy's Most Advanced Yet Acceptable design philosophy; iPod to iPhone progression
-- [[The RIGHT Way to Deploy a Claude AI Website + Free Database]] - End-to-end pipeline for deploying an AI-built Next.js site: Claude → GitHub → Hostinger → Supabase
+- [[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]] - Derek Thompson on MAYA applied to Star Wars, iPhone, and Google Glass's failure
+- [[Airplane and Rocket Analogy]] - Mental model: incremental improvement within a paradigm has a ceiling; reaching beyond it needs a different vehicle, not a better airplane
+
+### Health And Wellness
+
 - [[The REAL Reason Diabetes Is So Dangerous]] - Anatomy and physiology explainer on blood glucose, insulin, insulin resistance, diabetes complications, and remission
 - [[What Vitamin D REALLY Does to the Body]] - Institute of Human Anatomy explainer on vitamin D3 synthesis, liver/kidney activation, calcium absorption, deficiency, and supplementation
-- [[The Science of Successful Things - Derek Thompson]] - Derek Thompson on MAYA applied to Star Wars, iPhone, and Google Glass's failure
-- [[Airplane and Rocket Analogy]] - Mental model: incremental improvement within a paradigm has a ceiling; reaching beyond it needs a different vehicle, not a better airplane
-- [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] - Business/agency application of the LLM Wiki pattern: raw inputs, structured wiki/JSON, schema, skills, and per-agent memory
-- [[How I Vibe Coded a Recipe App using Claude Code]] - AI-assisted mobile app build workflow using design generation, Expo React Native, OpenAI API, Supabase, RevenueCat, and short-form marketing
-- [[App Store Approval Checklist]] - Checklist for AI-built iOS app review readiness: secrets, dynamic code execution, stability, AI consent/privacy, payments, SDK compliance, and reviewer notes
-- [[Why Do Competitors Open Their Stores Next to One Another]] - Hotelling's Model and Nash Equilibrium: why competing businesses cluster
 - [[You're Exercising Wrong]] - Longevity exercise model built around strength, low-intensity cardio, high-intensity cardio, mobility, and balance
-- [[Hidden vs. Disabled In UX]] - Smashing Magazine article on choosing hidden, disabled, read-only, or enabled states for unavailable UI actions
 
 ---
 

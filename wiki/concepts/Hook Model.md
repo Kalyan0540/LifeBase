@@ -1,8 +1,8 @@
 ---
 type: concept
 sources:
-  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
-  - "[[How to Build Habit-Forming Products - Nir Eyal (Short)]]"
+  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
+  - "[[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -61,6 +61,6 @@ The Hook Model is a tool for changing behaviour. Eyal distinguishes between usin
 
 - [[Nir Eyal]] — creator
 - [[Variable Rewards]] — Step 3 in detail
-- [[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — full workshop version
-- [[How to Build Habit-Forming Products - Nir Eyal (Short)]] — short conference version
+- [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — full workshop version
+- [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] — short conference version
 - [[Delta 4 Framework]] — related: Delta 4 products also create irreversible behaviour through a different mechanism

@@ -1,8 +1,8 @@
 ---
 type: concept
 sources:
-  - "[[Growth Without Ads - Kunal Shah, Founder CRED]]"
-  - "[[Kunal Shah at Tech Sparks 2016]]"
+  - "[[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]]"
+  - "[[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -42,12 +42,12 @@ If a company requires massive ad spend or cashbacks to grow, it almost always si
 
 - **[[Hook Model]]**: both create irreversible behaviour, but through different mechanisms. Delta 4 is about the efficiency gain being so large the old behaviour becomes unthinkable. Hook Model is about emotional associations that fire automatically.
 - **[[Flywheel Effect]]**: Delta 4 products exhibit flywheel dynamics — the UBP spreads users → more users → more data → better product → stronger UBP.
-- **[[The MAYA Principle]]**: Delta 4 measures the efficiency jump; MAYA measures the acceptability ceiling. A product could be Delta 6 in raw efficiency terms but still fail if the new behaviour is too unfamiliar (above the MAYA threshold).
+- **[[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]]**: Delta 4 measures the efficiency jump; MAYA measures the acceptability ceiling. A product could be Delta 6 in raw efficiency terms but still fail if the new behaviour is too unfamiliar (above the MAYA threshold).
 
 ## Links
 
 - [[Kunal Shah]] — creator
-- [[Growth Without Ads - Kunal Shah, Founder CRED]] — primary English-language source
-- [[Kunal Shah at Tech Sparks 2016]] — earlier articulation (Hindi/English)
+- [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]] — primary English-language source
+- [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] — earlier articulation (Hindi/English)
 - [[Hook Model]] — related irreversibility mechanism
 - [[Flywheel Effect]] — related compounding dynamic

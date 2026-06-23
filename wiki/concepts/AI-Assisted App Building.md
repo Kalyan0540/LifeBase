@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[How I Vibe Coded a Recipe App using Claude Code]]"
+  - "[[How I Vibe Coded a Recipe App using Claude Code (Full Build + Marketing)|How I Vibe Coded a Recipe App using Claude Code]]"
   - "[[App Store Approval Checklist]]"
 created: 2026-06-01
 updated: 2026-06-16

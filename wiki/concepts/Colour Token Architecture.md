@@ -7,7 +7,7 @@ updated: 2026-05-07
 
 # Colour Token Architecture
 
-A two-tier system for organising colour in a design system: **primitives** and **usage tokens**. Described in [[Figma Design System 2025 - Colour Tokens Ep 1]].
+A two-tier system for organising colour in a design system: **primitives** and **usage tokens**. Described in [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]].
 
 ## Tier 1 â€” Colour Primitives
 
@@ -48,6 +48,6 @@ Always include `white` and `black` variables that do not change between modes â€
 
 ## Related pages
 
-- [[Figma Design System 2025 - Colour Tokens Ep 1]]
+- [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]]
 - [[Figma Variables]]
 - [[Dark Mode Design]]

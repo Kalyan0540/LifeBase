@@ -49,4 +49,4 @@ Investment is what creates switching costs not from explicit lock-in but from st
 - [[Nir Eyal]] — speaker
 - [[Hook Model]] — the full framework
 - [[Variable Rewards]] — deep dive on Step 3
-- [[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — extended version of the same talk
+- [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — extended version of the same talk

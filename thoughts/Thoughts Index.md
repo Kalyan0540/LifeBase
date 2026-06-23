@@ -6,7 +6,7 @@ Operational index for personal thoughts and loose ideas.
 
 ## Topics
 
-- [[thoughts/topics/App Ideas]] — Lightweight backlog of app concepts: one-tap expense tracking, WhatsApp learning archive, and Tany implementation idea
+- [[thoughts/topics/App Ideas]] — Lightweight backlog of app concepts: expense tracking/splitting, WhatsApp learning archive, Tany implementation, and temple marketplace
 
 ---
 

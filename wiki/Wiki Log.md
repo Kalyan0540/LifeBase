@@ -123,3 +123,19 @@ Follow-up mapping: created concept page [[App Store Review Readiness for AI-Buil
 Processed `raw/knowledge/inbox/Hidden vs. Disabled In UX.md` and moved it to `raw/knowledge/product-and-design/design/Hidden vs. Disabled In UX.md`.
 
 Created source page [[Hidden vs. Disabled In UX]] and concept page [[Action Visibility in UX]]. Updated [[Wiki Index]] and [[overview]] to include the new UX design source and concept.
+
+---
+
+## [2026-06-18] structure | Mirror raw knowledge paths under wiki sources
+
+Updated `rules/Wiki.md` so generated source pages under `wiki/sources/` mirror the full path of their corresponding raw source under `raw/knowledge/`, including filename. Clarified that this is a path rule, not a content rule: raw files stay captured source material, while wiki source pages remain processed durable pages.
+
+Moved all existing generated source pages into mirrored source folders:
+
+- `wiki/sources/technology/ai/`
+- `wiki/sources/product-and-design/design/`
+- `wiki/sources/product-and-design/product-growth/`
+- `wiki/sources/mental-models/`
+- `wiki/sources/health-and-wellness/`
+
+Added normal source frontmatter to [[App Store Approval Checklist]] so raw-path audits can include it. Reorganised the Sources section of [[Wiki Index]] by the same broad taxonomy.

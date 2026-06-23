@@ -38,4 +38,4 @@ MAYA is closely related to [[First Principles Thinking]] in reverse: first princ
 
 - [[First Principles Thinking]] — MAYA sets the acceptance ceiling for what first-principles innovation can deliver to users
 - [[Kano Model]] — excitement generators must hit the MAYA sweet spot to land as delight rather than alienation
-- [[The Science of Successful Things - Derek Thompson]] — a companion source exploring the same MAYA concept through Star Wars, Steve Jobs, and Google Glass
+- [[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]] — a companion source exploring the same MAYA concept through Star Wars, Steve Jobs, and Google Glass

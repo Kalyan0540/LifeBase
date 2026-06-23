@@ -1,9 +1,9 @@
 ---
 type: concept
 sources:
-  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
-  - "[[The MAYA Principle]]"
-  - "[[The Science of Successful Things - Derek Thompson]]"
+  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
+  - "[[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]]"
+  - "[[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -32,7 +32,7 @@ Low investment, disproportionately high delight. The source of competitive diffe
 
 ## Connection to MAYA
 
-The [[The MAYA Principle]] provides a constraint on excitement generators: they must sit within the user's acceptance range. An excitement generator that is *too* unfamiliar becomes alienating rather than delightful.
+The [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] provides a constraint on excitement generators: they must sit within the user's acceptance range. An excitement generator that is *too* unfamiliar becomes alienating rather than delightful.
 
 ## User journey mapping tool
 
@@ -41,7 +41,7 @@ Used alongside [[User Journey Mapping]] — mapping all customer touchpoints on 
 ## Links
 
 - [[Jared Spool]] — key proponent
-- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — primary source
+- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — primary source
 - [[User Journey Mapping]] — complementary tool
 - [[UX Design Maturity Model]] — related Spool framework on organisational maturity
-- [[The MAYA Principle]] — sets the acceptance ceiling for excitement generators
+- [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] — sets the acceptance ceiling for excitement generators

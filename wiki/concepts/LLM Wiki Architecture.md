@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[LLM Wiki — Karpathy]]"
+  - "[[llm-wiki|LLM Wiki — Karpathy]]"
   - "[[Karpathy's LLM Wiki Goes Further Than Everyone Realised]]"
 created: 2026-05-07
 updated: 2026-06-01
@@ -9,7 +9,7 @@ updated: 2026-06-01
 
 # LLM Wiki Architecture
 
-The three-layer architecture behind the [[Persistent Knowledge Base]] pattern described in [[LLM Wiki — Karpathy]]. This wiki is an implementation of it.
+The three-layer architecture behind the [[Persistent Knowledge Base]] pattern described in [[llm-wiki|LLM Wiki — Karpathy]]. This wiki is an implementation of it.
 
 The same architecture can also be used as an operating layer for business workflows and agents: raw work inputs, structured wiki/JSON memory, and schema/skill files that tell agents exactly where to retrieve context. See [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] and [[AI-First Business Systems]].
 
@@ -43,6 +43,6 @@ A config document (here: `AGENTS.md`) that tells the LLM how the wiki is structu
 
 ## Related pages
 
-- [[LLM Wiki — Karpathy]]
+- [[llm-wiki|LLM Wiki — Karpathy]]
 - [[Persistent Knowledge Base]]
 - [[Obsidian]]

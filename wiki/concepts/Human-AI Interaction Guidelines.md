@@ -2,7 +2,7 @@
 type: concept
 sources:
   - "[[Guidelines for Human-AI Interaction]]"
-  - "[[Creating a Dynamic UX - Guidance for Generative AI Applications]]"
+  - "[[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]]"
 created: 2026-05-28
 updated: 2026-05-28
 ---
@@ -43,10 +43,10 @@ A set of 18 research-validated design guidelines (Microsoft / Aether, CHI 2019) 
 
 ## Why it matters
 
-The guidelines give a shared, phase-based checklist for evaluating and brainstorming AI experiences. The applied generative-AI article [[Creating a Dynamic UX - Guidance for Generative AI Applications]] maps its lifecycle advice (first run, during interaction, when wrong, over time) directly onto these four phases.
+The guidelines give a shared, phase-based checklist for evaluating and brainstorming AI experiences. The applied generative-AI article [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]] maps its lifecycle advice (first run, during interaction, when wrong, over time) directly onto these four phases.
 
 ## Related pages
 
 - [[Generative AI UX Design]]
 - [[Guidelines for Human-AI Interaction]]
-- [[Creating a Dynamic UX - Guidance for Generative AI Applications]]
+- [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]]

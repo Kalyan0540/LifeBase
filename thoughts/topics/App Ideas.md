@@ -44,7 +44,15 @@ The strongest positioning may be as a knowledge extraction and organisation laye
 
 There are already designs for Tany. The next step is to use an LLM/code agent to implement the designs and build a testable version of the app.
 
+## Simple Splitwise Alternative
+
+Build a simpler Splitwise-like app that keeps expense splitting easy and lightweight.
+
+## Temple Marketplace
+
+Create a marketplace for temples, similar in spirit to Swiggy or District, where people can discover and access temple-related offerings.
+
 ---
 
-*Sources: [[App idea - Simple expense tracker]] · [[App Idea - Learning Archive for WhatsApp Communities]] · [[App Idea - Tany]]*
-*Updated: 2026-06-01*
+*Sources: [[App idea - Simple expense tracker]] · [[App Idea - Learning Archive for WhatsApp Communities]] · [[App Idea - Tany]] · [[App Ideas - 2026-06-17]]*
+*Updated: 2026-06-22*

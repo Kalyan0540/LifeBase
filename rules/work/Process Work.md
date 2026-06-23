@@ -46,11 +46,16 @@ Decisions are explicit product/design decisions: "we chose X over Y, and here is
 
 ## Patterns
 
-Patterns are recurring behaviours emerging across repeated decisions or concepts.
+Patterns are reusable behaviours or principles across product work.
 
-- Do not force a pattern from a single example.
-- If new evidence contradicts an existing pattern, note the conflict on the pattern page.
 - Check `work/patterns/Patterns Index.md` before creating a new pattern.
+- Create or update a pattern when the source explicitly frames something as a pattern, guideline, principle, or future rule.
+- Keep the product-specific choice in `Decisions/`; put the reusable behaviour in `work/patterns/`.
+- Link originating decisions from the pattern page.
+- If the source does not frame it as reusable, wait for repeated examples before creating a pattern.
+- If new evidence contradicts an existing pattern, add a short conflict note to the pattern page and call it out in the response.
+- If the conflict is unresolved or needs a decision, also add it to `work/tracking/Work Needs Triage.md`.
+- If the source resolves the conflict, record the resolution in `work/tracking/Work Log.md` instead of adding triage.
 
 ## Tasks
 

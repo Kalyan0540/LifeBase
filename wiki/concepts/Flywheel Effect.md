@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]]"
+  - "[[Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage|Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -51,7 +51,7 @@ Network effects are the most powerful source of Flywheel momentum because past a
 
 ## Links
 
-- [[Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]] — primary source
+- [[Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage|Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]] — primary source
 - [[Delta 4 Framework]] — related compounding dynamics
 - [[Hook Model]] — micro-level flywheel
 - [[Persistent Knowledge Base]] — the wiki as a flywheel

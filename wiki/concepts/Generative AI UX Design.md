@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[Creating a Dynamic UX - Guidance for Generative AI Applications]]"
+  - "[[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]]"
 created: 2026-05-28
 updated: 2026-05-28
 ---
@@ -41,4 +41,4 @@ The core defence against fabrication is a tight feedback loop letting users stee
 ## Related pages
 
 - [[Human-AI Interaction Guidelines]] — the research foundation; its four phases map onto this model's lifecycle advice
-- [[Creating a Dynamic UX - Guidance for Generative AI Applications]]
+- [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]]

@@ -53,8 +53,8 @@
 ### P0
 
 - [/] Persona Bot's UX/UI design.
-  - [/] Research & Documentation.
-  - [ ] Ideation - Create two substantively different first-page/core app mock-up options.
+  - [x] Research & Documentation.
+  - [/] Ideation - Create two substantively different first-page/core app mock-up options.
   - [ ] First Draft + Review.
   - [ ] Final Draft + Review.
   - [ ] Dev Handoff.
@@ -69,7 +69,7 @@
 ### P1
 
 - [ ] Research the design brief and provide templates and best practises to add it to the Jira board.
-- [/] User Groups Enhancement - Historical Change Visibility & Activity Indicators.
+- [x] User Groups Enhancement - Historical Change Visibility & Activity Indicators.
 
 ## Blocked
 
@@ -77,4 +77,4 @@
 
 #### P2
 
-- [ ] Crosstab prototype demo recording.
+- [ ] Crosstab prototype demo recording. - Move to Removed this task as it is not needed now and already done by Pradnya

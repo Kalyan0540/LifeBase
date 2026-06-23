@@ -1,3 +1,12 @@
+---
+type: source
+source_title: "App Store Approval Checklist"
+source_url: ""
+raw_path: "raw/knowledge/technology/ai/App Store Approval Checklist.md"
+created: 2026-06-16
+updated: 2026-06-18
+---
+
 <aside> 💡
 
 **How to use this template:**

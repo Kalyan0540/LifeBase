@@ -39,11 +39,11 @@ Companies that don't achieve Delta 4 need ads, discounts, and cashbacks to manuf
 
 ## Related context
 
-This is a shorter, English-language version of the [[Kunal Shah at Tech Sparks 2016]] talk, which covers the same Delta 4 framework in a bilingual (Hindi/English) format for a startup founder audience.
+This is a shorter, English-language version of the [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] talk, which covers the same Delta 4 framework in a bilingual (Hindi/English) format for a startup founder audience.
 
 ## Links
 
 - [[Kunal Shah]] — speaker
 - [[Delta 4 Framework]] — the core framework explained here
 - [[Flywheel Effect]] — related: delta-4 products exhibit flywheel-like compounding growth
-- [[Kunal Shah at Tech Sparks 2016]] — earlier talk covering the same framework
+- [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] — earlier talk covering the same framework

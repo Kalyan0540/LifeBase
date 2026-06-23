@@ -17,7 +17,7 @@ Derek Thompson, senior editor at *The Atlantic* and author of *Hit Makers: The S
 
 ## Core thesis
 
-The central question of the book: why do we like what we like? The most interesting answer is the [[The MAYA Principle|MAYA Principle]] — **Most Advanced Yet Acceptable**, Raymond Loewy's theory of design acceptance.
+The central question of the book: why do we like what we like? The most interesting answer is the [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|MAYA Principle]] — **Most Advanced Yet Acceptable**, Raymond Loewy's theory of design acceptance.
 
 > People are torn between neophilia (they like new things) and neophobia (they're afraid of things that are too new). The genius is combining familiarity and surprise.
 
@@ -41,10 +41,10 @@ Starting position matters: if you're building something familiar (a movie sequel
 
 ## Connection to other sources
 
-Thompson's analysis is a cultural-industry lens on the same MAYA concept explored in [[The MAYA Principle]] (the IxDF article). Together they make the case that the principle applies across industrial design, consumer electronics, film, and popular music.
+Thompson's analysis is a cultural-industry lens on the same MAYA concept explored in [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] (the IxDF article). Together they make the case that the principle applies across industrial design, consumer electronics, film, and popular music.
 
 ## Links
 
-- [[The MAYA Principle]] — the companion IxDF article on Loewy's MAYA principle
+- [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] — the companion IxDF article on Loewy's MAYA principle
 - [[First Principles Thinking]] — MAYA defines the acceptable upper bound for first-principles innovation
 - [[Kano Model]] — excitement generators must hit the MAYA sweet spot

@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[Why Do Competitors Open Their Stores Next to One Another]]"
+  - "[[Why do competitors open their stores next to one another? - Jac de Haan|Why Do Competitors Open Their Stores Next to One Another]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -35,4 +35,4 @@ Applied to politics: Hotelling's model predicts why two-party political systems 
 
 ## Links
 
-- [[Why Do Competitors Open Their Stores Next to One Another]] — primary source
+- [[Why do competitors open their stores next to one another? - Jac de Haan|Why Do Competitors Open Their Stores Next to One Another]] — primary source

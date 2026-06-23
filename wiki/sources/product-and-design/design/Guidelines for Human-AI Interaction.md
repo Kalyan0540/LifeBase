@@ -17,9 +17,9 @@ The page itself is brief (mostly a pointer to the summary poster and the CHI pap
 
 ## Connections
 
-This is the research foundation that the applied article [[Creating a Dynamic UX - Guidance for Generative AI Applications]] builds on — that article repeatedly references the HAX toolkit and the same four interaction phases.
+This is the research foundation that the applied article [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]] builds on — that article repeatedly references the HAX toolkit and the same four interaction phases.
 
 ## Links
 
 - [[Human-AI Interaction Guidelines]] — concept page enumerating the 18 guidelines
-- [[Creating a Dynamic UX - Guidance for Generative AI Applications]] — applied generative-AI UX guidance built on this research
+- [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]] — applied generative-AI UX guidance built on this research

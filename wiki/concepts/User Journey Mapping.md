@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
+  - "[[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]]"
   - "[[Jared Spool – Beyond The UX Tipping Point]]"
 created: 2026-05-09
 updated: 2026-05-09
@@ -40,5 +40,5 @@ The best journey maps are built from direct user observation. Spool's "immersive
 - [[Kano Model]] — analytical framework applied to journey map data
 - [[UX Design Maturity Model]] — journey mapping as a literacy-building tool
 - [[Jared Spool]] — key proponent
-- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — primary source
+- [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] — primary source
 - [[Jared Spool – Beyond The UX Tipping Point]] — extended treatment in the maturity context

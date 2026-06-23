@@ -12,13 +12,21 @@ raw/knowledge/assets/   images, PDFs extracts, and attachments for knowledge not
 raw/knowledge/<topic>/  processed raw knowledge sources, grouped by broad domain
 wiki/Wiki Index.md      knowledge catalog
 wiki/Wiki Log.md        knowledge operation log
-wiki/sources/           one processed source page per raw source
-wiki/concepts/          reusable ideas and themes
+wiki/sources/<topic>/   one processed source page per raw source, mirroring `raw/knowledge/<topic>/`
+wiki/concepts/          reusable ideas and themes, organised by concept taxonomy when useful
 wiki/entities/          people, products, companies, places, events
 wiki/overview.md        current synthesis of the knowledge wiki
 ```
 
 Keep `raw/knowledge/` top-level folders broad and few. Use subfolders only when a broad folder gets crowded.
+
+Generated source pages must mirror the full raw knowledge path after `raw/knowledge/`, including the filename.
+
+This is a path rule, not a content rule. Raw files remain captured source material. Wiki source pages are still processed pages with frontmatter, summaries, links, and useful structure.
+
+If a raw source filename is wrong or awkward, rename the raw file first. Do not invent a cleaner filename only for the generated source page.
+
+Generated concept pages do not need to mirror raw source folders exactly. Concepts can be organised under `wiki/concepts/` using the best conceptual taxonomy because one source can create multiple concepts, and one concept can synthesize sources from multiple raw folders.
 
 ## Reading Rules
 
@@ -71,7 +79,7 @@ When processing knowledge sources:
 2. Also check legacy unprocessed files by comparing raw files against `raw_path` in `wiki/sources/`.
 3. Move each inbox file to its final topic folder before generating pages.
 4. Read the source fully from its final location.
-5. Create or update one source page in `wiki/sources/`.
+5. Create or update one source page in the matching `wiki/sources/` mirror path.
 6. Create or update concept/entity pages only when there is enough content.
 7. Update `wiki/Wiki Index.md`, `wiki/overview.md`, and `wiki/Wiki Log.md`.
 
@@ -81,6 +89,7 @@ Do not leave a file merely moved into a topic folder without a corresponding wik
 
 - Use Obsidian links for wiki pages.
 - Page filenames must match visible link text.
+- Source links can use aliases when the visible source title should be cleaner than the mirrored filename.
 - Do not use slugified filenames for generated wiki pages.
 - Link pages only when they share a meaningful problem, workflow, concept, source lineage, or explicit contrast. A broad shared label such as "AI", "design", "health", "finance", or "product" is not enough.
 - Before adding a related link, check the whole page meaning, not just keywords. If the relationship cannot be explained in one concrete sentence, do not add the link.

@@ -1,14 +1,14 @@
 ---
 type: concept
 sources:
-  - "[[Figma Design System 2025 - Colour Tokens Ep 1]]"
+  - "[[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]]"
 created: 2026-05-07
 updated: 2026-05-07
 ---
 
 # Dark Mode Design
 
-Approach for implementing dark mode colour tokens in a design system. Source: [[Figma Design System 2025 - Colour Tokens Ep 1]].
+Approach for implementing dark mode colour tokens in a design system. Source: [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]].
 
 ## Shade inversion method
 
@@ -40,4 +40,4 @@ Check contrast ratios after applying dark mode. Figma's built-in contrast checke
 
 - [[Colour Token Architecture]]
 - [[Figma Variables]]
-- [[Figma Design System 2025 - Colour Tokens Ep 1]]
+- [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]]

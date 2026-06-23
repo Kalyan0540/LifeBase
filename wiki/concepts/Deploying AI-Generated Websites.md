@@ -1,7 +1,7 @@
 ---
 type: concept
 sources:
-  - "[[The RIGHT Way to Deploy a Claude AI Website + Free Database]]"
+  - "[[The RIGHT Way to Deploy A Claude AI Website + FREE Database (Nobody Explains This)|The RIGHT Way to Deploy a Claude AI Website + Free Database]]"
 created: 2026-05-28
 updated: 2026-06-01
 ---
@@ -38,4 +38,4 @@ If a Hostinger deployment fails, open it to read the error, paste the error back
 
 ## Related pages
 
-- [[The RIGHT Way to Deploy a Claude AI Website + Free Database]]
+- [[The RIGHT Way to Deploy A Claude AI Website + FREE Database (Nobody Explains This)|The RIGHT Way to Deploy a Claude AI Website + Free Database]]

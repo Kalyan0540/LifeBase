@@ -14,9 +14,11 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 - [ ] Work on the crosstabs new comments by Pradnya. `P1` `TASK-2026-06-12-002`
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
   - [ ] Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
-  - [ ] Create sections in Figma for the crosstabs design QA testing file.
+  - [x] Create sections in Figma for the crosstabs design QA testing file. `completed 2026-06-22`
   - [ ] Create total column for nesting table.
   - [ ] Remove old Figma designs from the Final UJ's.
+  - [x] Ideate on the saving flow for filters (remove the bottom rename and make it same like new variable flow). `completed 2026-06-22`
+  - [ ] Update the saving flow for filters in Final UJ's.
 - [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
   - [x] Update all designs to use only one string output type. `completed 2026-06-15`
   - [ ] Table output flows designs. *(Review against string-only scope.)*
@@ -54,9 +56,9 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 - [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
 - [/] Persona Bot's UX/UI design. `P0` `TASK-2026-06-09-004`
-  - [/] Research & Documentation
-  - [ ] Ideation
-    - [ ] Create two substantively different first-page/core app mock-up options.
+  - [x] Research & Documentation `completed 2026-06-18`
+  - [x] Ideation `completed 2026-06-22`
+    - [x] Create two substantively different first-page/core app mock-up options. `completed 2026-06-22`
   - [ ] First Draft + Review
   - [ ] Final Draft + Review
   - [ ] Dev Handoff
@@ -66,15 +68,12 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 ### Standalone
 
 - [ ] Research the design brief and provide templates and best practises to add it to the Jira board. `P1` `TASK-2026-06-08-001`
-- [/] User Groups Enhancement - Historical Change Visibility & Activity Indicators. `P1` `TASK-2026-06-12-003`
 
 ---
 
 ## Blocked
 
-### [[Cross Tabs - Index|Cross Tabs]]
-
-- [ ] Crosstab prototype demo recording. `P2` `TASK-2026-05-18-003` *(On Hold)*
+No blocked tasks.
 
 ---
 
@@ -93,6 +92,7 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] Crosstab prototype demo recording. `P2` `TASK-2026-05-18-003` `completed 2026-06-18` *(Handled by Pradnya; removed from active work.)*
 - [x] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002` `completed 2026-06-17`
   - [x] Recheck the filter reset and filter details patterns. `completed 2026-06-17`
 - [x] Mobile view for crosstabs. `P1` `TASK-2026-06-09-003` `completed 2026-06-12`
@@ -130,3 +130,7 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 ### [[Activity Feed - Index|Activity Feed]]
 
 - [x] Peer review new activity feed in Catalyst for both member side and facilitator side. `P0` `TASK-2026-05-26-002` `completed 2026-05-25`
+
+### Standalone
+
+- [x] User Groups Enhancement - Historical Change Visibility & Activity Indicators. `P1` `TASK-2026-06-12-003` `completed 2026-06-18`

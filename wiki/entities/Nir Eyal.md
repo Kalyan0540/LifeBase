@@ -1,8 +1,8 @@
 ---
 type: entity
 sources:
-  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
-  - "[[How to Build Habit-Forming Products - Nir Eyal (Short)]]"
+  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
+  - "[[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -26,5 +26,5 @@ The one reason anyone uses any product: to modulate mood. Internal triggers (neg
 
 ## Sources
 
-- [[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — full workshop version, Salt Lake City 2019
-- [[How to Build Habit-Forming Products - Nir Eyal (Short)]] — 20-minute conference version
+- [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — full workshop version, Salt Lake City 2019
+- [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] — 20-minute conference version

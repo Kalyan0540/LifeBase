@@ -17,7 +17,7 @@ updated: 2026-05-27
 
 ## Content
 
-Covers the same core Delta 4 framework as the later [[Growth Without Ads - Kunal Shah, Founder CRED]] talk:
+Covers the same core Delta 4 framework as the later [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]] talk:
 
 - Human beings are unique in constantly seeking efficiency — the entire product economy flows from this
 - When the delta between old and new behavioural states is ≥ 4 (on a 10-point scale), three things happen: irreversible behaviour, high tolerance, and Unique Brag-worthy Proposition (UBP)
@@ -36,4 +36,4 @@ This is an earlier articulation of the Delta 4 model — Shah was still at Freec
 
 - [[Kunal Shah]] — speaker
 - [[Delta 4 Framework]] — the core framework
-- [[Growth Without Ads - Kunal Shah, Founder CRED]] — later English version of the same talk
+- [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]] — later English version of the same talk

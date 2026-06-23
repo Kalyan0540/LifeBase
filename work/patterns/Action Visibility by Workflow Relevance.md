@@ -11,6 +11,11 @@ Keep persistent workflow actions visible when they are temporarily unavailable. 
 
 - [[Cross Tabs - Index|Cross Tabs]] — filter actions and saved-filter view/edit controls.
 
+## Originating Decisions
+
+- [[Filter Actions Disabled Instead of Hidden]]
+- [[Saved Filter View and Edit Mode Controls]]
+
 ## Pattern
 
 Use disabled state for actions that teach the workflow and can become available later in the same context.

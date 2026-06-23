@@ -459,3 +459,30 @@ Processed `raw/work/processed/Pending Tasks - 2026-06-17.md` and `raw/work/proce
 **AI — Persona Bots updates:**
 - TASK-2026-06-09-004 (Persona Bot's UX/UI design): priority set to P0.
 - Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work: completed 2026-06-17.
+
+## 2026-06-22
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-18.md`.
+
+**Cross Tabs — completed/removed from active work:**
+- TASK-2026-05-18-003 (Crosstab prototype demo recording): completed 2026-06-18 because Pradnya already handled it; removed from blocked work.
+
+**AI — Persona Bots progress:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): Research & Documentation completed 2026-06-18.
+- Ideation and the two-option first-page/core app mock-up subtask moved to in progress.
+
+**Standalone — completed task:**
+- TASK-2026-06-12-003 (User Groups Enhancement - Historical Change Visibility & Activity Indicators): completed 2026-06-18.
+
+## 2026-06-23
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-22.md`.
+
+**Cross Tabs — progress and new subtask:**
+- TASK-2026-06-12-002 (Work on the crosstabs new comments by Pradnya): Create sections in Figma for the crosstabs design QA testing file completed 2026-06-22.
+- TASK-2026-06-12-002: Ideate on the saving flow for filters completed 2026-06-22.
+- TASK-2026-06-12-002: Added open subtask to update the saving flow for filters in Final UJ's.
+
+**AI — Persona Bots progress:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): Ideation completed 2026-06-22.
+- TASK-2026-06-09-004: Two substantively different first-page/core app mock-up options completed 2026-06-22.

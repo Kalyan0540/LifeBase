@@ -1,8 +1,8 @@
 ---
 type: concept
 sources:
-  - "[[The MAYA Principle]]"
-  - "[[The Science of Successful Things - Derek Thompson]]"
+  - "[[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]]"
+  - "[[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -48,8 +48,8 @@ Loewy's designs endure because he consistently hit the MAYA zone across wildly d
 
 ## Links
 
-- [[The MAYA Principle]] — IxDF article, primary source
-- [[The Science of Successful Things - Derek Thompson]] — cultural applications (Star Wars, iPhone, Google Glass)
+- [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] — IxDF article, primary source
+- [[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]] — cultural applications (Star Wars, iPhone, Google Glass)
 - [[Kano Model]] — excitement generators must hit the MAYA zone
 - [[First Principles Thinking]] — MAYA defines the acceptance ceiling for first-principles innovation
 - [[Delta 4 Framework]] — MAYA can override efficiency gains if the new behaviour is too unfamiliar

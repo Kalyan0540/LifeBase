@@ -1,14 +1,14 @@
 ---
 type: concept
 sources:
-  - "[[LLM Wiki — Karpathy]]"
+  - "[[llm-wiki|LLM Wiki — Karpathy]]"
 created: 2026-05-07
 updated: 2026-05-27
 ---
 
 # Obsidian
 
-A local-first markdown note-taking app used as the interface for browsing this wiki. In the [[LLM Wiki — Karpathy]] pattern, Obsidian is the IDE — the LLM edits files, the human browses results in real time.
+A local-first markdown note-taking app used as the interface for browsing this wiki. In the [[llm-wiki|LLM Wiki — Karpathy]] pattern, Obsidian is the IDE — the LLM edits files, the human browses results in real time.
 
 ## Relevant features
 
@@ -23,4 +23,4 @@ A local-first markdown note-taking app used as the interface for browsing this w
 
 - [[LLM Wiki Architecture]]
 - [[Persistent Knowledge Base]]
-- [[LLM Wiki — Karpathy]]
+- [[llm-wiki|LLM Wiki — Karpathy]]

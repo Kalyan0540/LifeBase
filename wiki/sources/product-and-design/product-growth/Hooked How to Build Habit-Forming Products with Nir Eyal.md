@@ -54,4 +54,4 @@ Eyal distinguishes between using the Hook Model to help users improve their live
 - [[Nir Eyal]] — speaker
 - [[Hook Model]] — the full framework
 - [[Variable Rewards]] — Step 3 detailed concept
-- [[How to Build Habit-Forming Products - Nir Eyal (Short)]] — the short version of the same talk
+- [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] — the short version of the same talk

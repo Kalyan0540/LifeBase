@@ -1,8 +1,8 @@
 ---
 type: concept
 sources:
-  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
-  - "[[How to Build Habit-Forming Products - Nir Eyal (Short)]]"
+  - "[[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]]"
+  - "[[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
@@ -38,5 +38,5 @@ Not enough to satisfy — the reward must leave users wanting more. The best hab
 
 - [[Hook Model]] — the four-step framework this is step 3 of
 - [[Nir Eyal]] — developer
-- [[Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — primary source
-- [[How to Build Habit-Forming Products - Nir Eyal (Short)]] — short version
+- [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] — primary source
+- [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] — short version
