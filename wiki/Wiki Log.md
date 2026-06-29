@@ -139,3 +139,19 @@ Moved all existing generated source pages into mirrored source folders:
 - `wiki/sources/health-and-wellness/`
 
 Added normal source frontmatter to [[App Store Approval Checklist]] so raw-path audits can include it. Reorganised the Sources section of [[Wiki Index]] by the same broad taxonomy.
+
+---
+
+## [2026-06-25] ingest | Spaced repetition notes
+
+Processed `raw/knowledge/inbox/spaced-repetition-notes.md` and moved it to `raw/knowledge/learning-and-memory/spaced-repetition-notes.md`.
+
+Created source page [[spaced-repetition-notes|How To Remember Anything Forever-ish — Notes]] and concept page [[Spaced Repetition]]. Updated [[Wiki Index]] and [[overview]] with a new Learning & Memory domain.
+
+---
+
+## [2026-06-29] ingest | App Store Optimization playbook
+
+Processed `raw/knowledge/inbox/My App Makes $50KMonth This Is My ASO Playbook.md`, renamed it for readability, and moved it to `raw/knowledge/product-and-design/product-growth/My App Makes $50K per Month - This Is My ASO Playbook.md`.
+
+Created source page [[My App Makes $50K per Month - This Is My ASO Playbook]] and concept page [[App Store Optimization]]. Updated [[Wiki Index]] and [[overview]] to add the source, concept, and ASO synthesis to Product Strategy & Growth.

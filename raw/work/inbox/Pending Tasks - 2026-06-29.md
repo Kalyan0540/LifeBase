@@ -1,21 +1,21 @@
-# Pending Tasks - 2026-06-23
+# Pending Tasks - 2026-06-29
 
 ## Cross Tabs
 
 ### P0
 
+- [/] Sprint Grooming Comments.
+  - [ ] Check what's best design solution for - At-least 1 table option should be selected to view data.
 - [/] Update variable creation flows in UI per string-only output decision.
   - [ ] Table output flows designs.
 
 ### P1
 
 - [ ] Update Run Button functionality in final UJ's page in Figma.
-- [ ] Work on the crosstabs new comments by Pradnya.
+- [/] Work on the crosstabs new comments by Pradnya.
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
   - [ ] Explore footer interaction and scroll-pattern best practices for crosstabs; check with Nima.
-  - [ ] Create total column for nesting table.
   - [ ] Remove old Figma designs from the Final UJ's.
-  - [ ] Update the saving flow for filters in Final UJ's.
 
 ### P2
 
@@ -26,7 +26,6 @@
 ### P2
 
 - [/] Design system colour tokens.
-  - [ ] Review the draft & work on the feedback.
   - [ ] Map and test with few components to check the structure and mapping hierarchy.
   - [ ] Create styles and tokens in Figma.
   - [ ] Create dev handoff for the latest tokens.

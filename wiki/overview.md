@@ -1,12 +1,12 @@
 ---
 type: overview
 created: 2026-05-07
-updated: 2026-06-16
+updated: 2026-06-29
 ---
 
 # Overview
 
-This wiki currently covers seven interconnected domains sourced from 25 ingested documents.
+This wiki currently covers eight interconnected domains sourced from 27 ingested documents.
 
 ## Domain 1 — LLM-Powered Knowledge Management
 
@@ -27,11 +27,12 @@ Episode 1 of a practical series on building a design system in Figma. Covers the
 
 ## Domain 3 — Product Strategy & Growth
 
-Three frameworks for understanding how products spread and compound value:
+Four areas for understanding how products spread, convert demand, and compound value:
 
 - **[[Delta 4 Framework]]** ([[Kunal Shah]]): when a product's efficiency delta is ≥ 4, users won't go back, will tolerate glitches, and will spontaneously tell others (UBP). Products below Delta 4 require ads and discounts. Sources: [[Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah, Founder Cred|Growth Without Ads - Kunal Shah, Founder CRED]], [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]].
 - **[[Flywheel Effect]]**: positive feedback loops as a meta-competitive advantage. Not a source of competitive advantage itself — a force-multiplier on existing advantages. Source: [[Flywheel Effect Why Positive Feedback Loops are a Meta-Competitive Advantage|Flywheel Effect - Why Positive Feedback Loops are a Meta-Competitive Advantage]].
 - **[[Hotelling's Model]]**: competing businesses cluster rather than distribute because Nash Equilibrium drives both toward the median customer, even when social optimum requires distribution. Source: [[Why do competitors open their stores next to one another? - Jac de Haan|Why Do Competitors Open Their Stores Next to One Another]].
+- **[[App Store Optimization]]**: a two-part discovery and conversion system built on keyword placement, screenshot testing, and ratings/reviews. It requires iterative measurement and can take months or years to compound. Source: [[My App Makes $50K per Month - This Is My ASO Playbook]].
 
 ## Domain 4 — Behavioural Psychology & Habit Design
 
@@ -60,9 +61,13 @@ Four interconnected frameworks:
 - **[[Longevity Exercise Pillars]]**: a balanced training model across strength, low-intensity cardio, high-intensity cardio, mobility, and balance. Source: [[You're Exercising Wrong]].
 - **[[Vitamin D and Bone Health]]**: vitamin D3 synthesis through UVB exposure, liver and kidney activation, calcium absorption, deficiency risks, bone consequences, and supplementation/testing tradeoffs. Source: [[What Vitamin D REALLY Does to the Body]].
 
+## Domain 8 — Learning & Memory
+
+- **[[Spaced Repetition]]**: active recall distributed across expanding review intervals. The practical method is to review near the “almost forgotten” point, make cards small, connected, and meaningful, and tie memory work to real activity. Source: [[spaced-repetition-notes|How To Remember Anything Forever-ish — Notes]].
+
 ## Cross-domain connections
 
-All seven domains share a deeper pattern: **compounding systems beat re-derivation**. The LLM wiki compounds knowledge. Delta 4 products compound growth via UBP. The Flywheel compounds competitive advantages. The Hook Model compounds habit strength through investment. UX maturity compounds organisational design capability. First principles unlock step-changes that analogy-based thinking cannot reach.
+All eight domains share a deeper pattern: **compounding systems beat re-derivation**. The LLM wiki compounds knowledge. Spaced repetition compounds recall through successful retrieval at increasing intervals. Delta 4 products compound growth via UBP. The Flywheel compounds competitive advantages. ASO compounds search visibility, conversion, and review credibility. The Hook Model compounds habit strength through investment. UX maturity compounds organisational design capability. First principles unlock step-changes that analogy-based thinking cannot reach.
 
 The MAYA Principle sits as a constraint across domains: it sets the acceptance ceiling for how quickly any of these compounding systems can advance user expectations in a single step.
 

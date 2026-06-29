@@ -41,6 +41,11 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 | `raw/work/processed/UX UI Pattern & Decision.md` | 2026-06-18 | [[Cross Tabs - Index]], [[Patterns Index]] | [[Filter Actions Disabled Instead of Hidden]] (decision), [[Saved Filter View and Edit Mode Controls]] (decision), [[patterns/Action Visibility by Workflow Relevance|Action Visibility by Workflow Relevance]] (pattern) |
 | `raw/work/processed/Pending Tasks - 2026-06-18.md` | 2026-06-22 | [[Cross Tabs - Index]], [[AI - Index]], standalone | [[Cross Tabs - Tasks]] (1 completion/removed from blocked), [[AI - Tasks]] (Persona Bots progress), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
 | `raw/work/processed/Pending Tasks - 2026-06-22.md` | 2026-06-23 | [[Cross Tabs - Index]], [[AI - Index]] | [[Cross Tabs - Tasks]] (2 subtask completions, 1 new subtask), [[AI - Tasks]] (Persona Bots ideation completion), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Pending Tasks - 2026-06-23.md` | 2026-06-24 | [[Cross Tabs - Index]], [[Design System - Index]] | [[Cross Tabs - Tasks]] (filters saving-flow subtask completed), [[Design System - Tasks]] (draft review/feedback subtask completed), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Pending Tasks - 2026-06-24.md` | 2026-06-25 | [[Cross Tabs - Index]], [[Activity Feed - Index]] | [[Cross Tabs - Tasks]] (2 new P0 tasks, 3 subtasks), [[Activity Feed - Tasks]] (1 new completed P0 task), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Meeting Notes - 2026-06-24.md` | 2026-06-25 | none | No output; empty meeting-note capture. |
+| `raw/work/processed/Pending Tasks - 2026-06-25.md` | 2026-06-29 | [[Cross Tabs - Index]] | [[Cross Tabs - Tasks]] (1 task and 3 subtasks completed), [[Work Tasks]] (dashboard updated), [[Work Task History]] (entry appended) |
+| `raw/work/processed/Meeting Notes - 2026-06-25.md` | 2026-06-29 | none | No output; empty meeting-note capture. |
 
 ---
 
@@ -48,8 +53,8 @@ When processing a raw note, output may land in any combination of `Concepts/`, `
 
 | Raw File | Added | Type | Product Guess | Status | Notes |
 |---|---:|---|---|---|---|
-| `raw/work/inbox/Pending Tasks - 2026-06-23.md` | 2026-06-23 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
-| `raw/work/inbox/Meeting Notes - 2026-06-23.md` | 2026-06-23 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
+| `raw/work/inbox/Pending Tasks - 2026-06-29.md` | 2026-06-29 | task snapshot | multiple | unprocessed | Daily pending-task capture; contains priorities but no task IDs. |
+| `raw/work/inbox/Meeting Notes - 2026-06-29.md` | 2026-06-29 | meeting notes | unknown | unprocessed | Empty capture ready for meeting notes. |
 
 ---
 

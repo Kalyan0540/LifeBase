@@ -13,7 +13,7 @@ Sub-product of [[Enlyta - Index|Enlyta]].
   - [x] Analyse and setup framework for migrating to new scalable system.
   - [x] Create color primitives and map existing colors to the color scale. `completed 2026-06-03`
   - [x] Derive semantics tokens from created primitives. `completed 2026-06-04`
-  - [ ] Review the draft & work on the feedback.
+  - [x] Review the draft & work on the feedback. `completed 2026-06-23`
   - [ ] Map and test with few components to check the structure and mapping hierarchy.
   - [ ] Create styles and tokens in Figma.
   - [ ] Create dev handoff for the latest tokens.

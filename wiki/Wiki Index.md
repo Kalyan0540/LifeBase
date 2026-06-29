@@ -6,7 +6,7 @@ Content catalog for the durable knowledge wiki.
 
 ## Overview
 
-- [[overview]] - High-level synthesis across all current domains: LLM knowledge management, Figma design systems, product strategy, UX design, behavioural psychology, and health/wellness
+- [[overview]] - High-level synthesis across all current domains: LLM knowledge management, Figma design systems, product strategy, UX design, behavioural psychology, health/wellness, and learning/memory
 
 ---
 
@@ -37,6 +37,7 @@ Content catalog for the durable knowledge wiki.
 - [[Hooked How to Build Habit-Forming Products with Nir Eyal|Hooked How to Build Habit-Forming Products with Nir Eyal (Long)]] - Full workshop version of Nir Eyal's Hook Model: trigger, action, variable reward, investment
 - [[How to Build Habit-Forming Products - Nir Eyal|How to Build Habit-Forming Products - Nir Eyal (Short)]] - 20-minute conference version of the Hook Model with five diagnostic questions
 - [[Kunal Shah, Founder & CEO, Freecharge talks at Tech Sparks 2016  From the Vault|Kunal Shah at Tech Sparks 2016]] - Earlier Hindi/English articulation of the Delta 4 Framework (YourStory, 2016)
+- [[My App Makes $50K per Month - This Is My ASO Playbook]] - Sebastian Röhl's three-part App Store Optimization system: keywords, screenshot conversion, and ratings/reviews
 - [[Why do competitors open their stores next to one another? - Jac de Haan|Why Do Competitors Open Their Stores Next to One Another]] - Hotelling's Model and Nash Equilibrium: why competing businesses cluster
 
 ### Mental Models
@@ -51,6 +52,10 @@ Content catalog for the durable knowledge wiki.
 - [[The REAL Reason Diabetes Is So Dangerous]] - Anatomy and physiology explainer on blood glucose, insulin, insulin resistance, diabetes complications, and remission
 - [[What Vitamin D REALLY Does to the Body]] - Institute of Human Anatomy explainer on vitamin D3 synthesis, liver/kidney activation, calcium absorption, deficiency, and supplementation
 - [[You're Exercising Wrong]] - Longevity exercise model built around strength, low-intensity cardio, high-intensity cardio, mobility, and balance
+
+### Learning And Memory
+
+- [[spaced-repetition-notes|How To Remember Anything Forever-ish — Notes]] - Nicky Case's practical introduction to active recall, expanding review intervals, Leitner boxes, and small, connected, meaningful flashcards
 
 ---
 
@@ -70,6 +75,7 @@ Content catalog for the durable knowledge wiki.
 - [[AI-First Business Systems]] - Agents, skills, structured memory, and integrations arranged as a repeatable operating system for business workflows
 - [[AI-Assisted App Building]] - Staged workflow for building apps with AI: reference research, feature spec, design generation, implementation, backend, testing, launch readiness
 - [[Action Visibility in UX]] - Choosing when to show, disable, hide, or make controls read-only based on workflow relevance, permissions, and state
+- [[App Store Optimization]] - Improving app-store search visibility and listing conversion through keywords, screenshots, and ratings/reviews
 - [[App Store Review Readiness for AI-Built Apps]] - Launch-readiness checklist for AI-built iOS apps: secrets, dynamic code execution, stability, AI privacy, payments, SDKs, and reviewer support
 - [[Deploying AI-Generated Websites]] - Pipeline for shipping an AI-built site: Claude → GitHub → Hostinger → Supabase, with continuous deployment
 - [[Delta 4 Framework]] - Efficiency-delta scoring: when delta >= 4, products create irreversible behaviour, high tolerance, and Unique Brag-worthy Proposition
@@ -88,6 +94,7 @@ Content catalog for the durable knowledge wiki.
 - [[MAYA Principle]] - Most Advanced Yet Acceptable; the design sweet spot between too familiar and too alien
 - [[Obsidian]] - Markdown app used as wiki browser; relevant features: graph view, web clipper, Dataview, Marp
 - [[Persistent Knowledge Base]] - Core concept: LLM-maintained wiki that compounds over time vs. RAG re-derivation on every query
+- [[Spaced Repetition]] - Active recall at expanding intervals, supported by focused and meaningful flashcards
 - [[UX Design Maturity Model]] - Five organisational stages: Dark Ages -> Spot UX -> UX as a Service -> Embedded UX -> Infused UX
 - [[User Journey Mapping]] - Mapping all customer touchpoints on a frustration-to-delight scale to prioritise design investment
 - [[Variable Rewards]] - Skinner's variable reinforcement schedule applied to product design; three types: tribe, hunt, self
