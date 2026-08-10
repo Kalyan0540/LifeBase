@@ -8,7 +8,6 @@ Sub-product of [[Catalyst - Index|Catalyst]].
 
 ## Open
 
-- [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
 - [ ] Experiment on UX improvements for AI summaries. `P3` `TASK-2026-06-16-001`
   - [ ] Loading indication and generated indication at tab level.
   - [ ] Collapsible or see-more option for header metadata.
@@ -20,10 +19,11 @@ Sub-product of [[Catalyst - Index|Catalyst]].
 
 ## Blocked
 
-No blocked tasks.
+- [ ] Summarisation backend flag turn on/off for member side. `TASK-2026-05-18-005` *(On hold: not a priority.)*
 
 ## Completed
 
+- [x] Communication of the 0 or no responses in bucketing handling - [[Decisions/Zero-Contributor Values in Bucketing and Custom Logic|Zero-Contributor Values in Bucketing and Custom Logic]]. `P0` `TASK-2026-07-13-002` `completed 2026-07-13`
 - [x] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002` `completed 2026-06-16`
   - [x] Update OE Summarisation Flows. `completed 2026-06-10`
   - [x] Update Discussion Summarisation Flows. `completed 2026-06-16`

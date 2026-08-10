@@ -531,3 +531,131 @@ Processed `raw/work/processed/Pending Tasks - 2026-06-25.md` and the empty `raw/
 - TASK-2026-06-24-002 (Sprint Grooming Comments): Add warning banners while editing public filters completed 2026-06-25.
 - TASK-2026-06-24-002: Add the edit flow for saved private filters without a banner completed 2026-06-25.
 - TASK-2026-06-12-002 (Work on the crosstabs new comments by Pradnya): Create total column for nesting table completed 2026-06-25.
+
+## 2026-07-06
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-29.md`.
+
+**Cross Tabs — completed task:**
+- TASK-2026-06-24-002 (Sprint Grooming Comments): completed 2026-06-29.
+  - Choose the best design solution for requiring at least one table option to view data: completed 2026-06-29.
+
+**AI — Persona Bots progress:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): First Draft + Review completed by the 2026-06-29 snapshot; the source says it was done the prior week but does not provide an exact date.
+
+## 2026-07-14
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-13.md` and `raw/work/processed/Catalyst AI Summary - No responses bucketing handling.md`.
+
+**Cross Tabs — new open task:**
+- Add designs for filters with different variable types and operator combinations.
+  - ID: TASK-2026-07-13-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+  - Subtasks: String; Numeric; Predefined/multi-select etc.
+
+**AI Summarisation — completed task:**
+- Communication of the 0 or no responses in bucketing handling.
+  - ID: TASK-2026-07-13-002
+  - Priority: P0
+  - Product: [[AI Summarisation - Index]]
+  - Completed: 2026-07-13
+
+**AI Summarisation — decision captured:**
+- Created [[Decisions/Zero-Contributor Values in Bucketing and Custom Logic|Zero-Contributor Values in Bucketing and Custom Logic]].
+
+## 2026-07-17
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-14.md` and `raw/work/processed/Meeting Notes - 2026-07-14.md`.
+
+The pending-task capture was titled 2026-07-15 inside the note while the file name remained 2026-07-14.
+
+**Cross Tabs — completed task:**
+- TASK-2026-07-13-001 (Add designs for filters with different variable types and operator combinations): completed 2026-07-15.
+  - String: completed 2026-07-15.
+  - Numeric: completed 2026-07-15.
+  - Predefined/multi-select etc.: completed 2026-07-15.
+
+**Cross Tabs — priority change:**
+- TASK-2026-06-09-001 (Design QA: Crosstabs table layouts testing without data): P2 -> P0.
+
+**AI — Persona Bots progress and new tasks:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): added Design System creation subtasks; Tokens completed 2026-07-15, Components and Flows remain open.
+- Added TASK-2026-07-17-001, P0: Sync with Subair and the team on Persona Bot data needs and required user/persona details.
+- Added TASK-2026-07-17-002, P0: Document all UX/UI feedback and points discussed in the Bank of America call for widget and desktop views.
+- Added TASK-2026-07-17-003, P0: Create separate Persona Bot mockups for Bank of America and a generic persona, covering widget and web views.
+
+## 2026-07-20
+
+Updated Cross Tabs from the user completion screenshot.
+
+**Cross Tabs — completed task:**
+- TASK-2026-06-09-001 (Design QA: Crosstabs table layouts testing without data): completed 2026-07-20.
+
+**Generated pending snapshot correction:**
+- Removed the completed ED-860 Design QA task from `raw/work/inbox/Pending Tasks - 2026-07-20.md` so it no longer appears in today's pending list.
+
+## 2026-07-28
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-27.md`.
+
+**Cross Tabs - new open task:**
+- Update crosstabs designs to be consistent with Enlyta design system (due 15 Aug).
+  - ID: TASK-2026-07-27-001
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+  - Subtasks: connect with Nima & Pradnya for current issues document; update all user journeys; update all areas in different files.
+
+**Design System - task changes:**
+- TASK-2026-05-18-004 (Design system colour tokens): completed 2026-07-27, including component mapping test, Figma styles/tokens, and latest token dev handoff.
+- Added TASK-2026-07-27-002, P0: Design System Rebuild in Figma (due Aug End), with the completed colour-token work preserved as a completed subtask.
+
+**AI - completed task:**
+- TASK-2026-07-17-001 (Sync with Suveer and the team on Persona Bot data needs and required user/persona details): completed 2026-07-27. The earlier canonical wording used Subair; the latest pending snapshot uses Suveer.
+
+## 2026-08-05
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-28.md`.
+
+**Cross Tabs — completed tasks and progress:**
+- TASK-2026-07-28-001 (Need Tooltip design for Jira ticket ED-1221): completed 2026-07-28.
+- TASK-2026-07-28-003 (Work on the custom variable pending states and feedback from Pradnya): completed 2026-07-28.
+- TASK-2026-07-27-001 (Update crosstabs designs to be consistent with Enlyta design system): Connect with Nima & Pradnya for getting current issues document completed 2026-07-28.
+
+**Cross Tabs — new open task:**
+- Dive into the confirmation UI best practises and update the crosstabs confirmations.
+  - ID: TASK-2026-07-28-002
+  - Priority: P0
+  - Product: [[Cross Tabs - Index]]
+
+**AI — Persona Bots progress and new task:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): Final Draft + Review, Design System creation, Components, Flows, and Dev Handoff completed 2026-07-28.
+- Added TASK-2026-07-28-004, P0: Work on widget views for handoff.
+
+## 2026-08-06
+
+Processed `raw/work/processed/Pending Tasks - 2026-08-05.md` and `raw/work/processed/Meeting Notes - 2026-08-05.md`.
+
+**Cross Tabs — priority and progress changes:**
+- TASK-2026-05-20-003 (Update variable creation flows in UI): P0 → P2.
+- TASK-2026-07-27-001 (Update crosstabs designs to be consistent with Enlyta design system): marked in progress.
+
+**AI Summarisation — moved to on hold:**
+- TASK-2026-05-18-005 (Summarisation backend flag turn on/off for member side): moved to Blocked/On Hold and its P2 priority was removed because it is not a priority.
+
+**AI — Persona Bots completions and new task:**
+- TASK-2026-06-09-004 (Persona Bot's UX/UI design): Coordinate with Suveer to create a UX board ticket for Persona Bots tracking completed 2026-08-05.
+- TASK-2026-07-17-002 (Document Bank of America UX/UI feedback for widget and desktop views): completed 2026-08-05.
+- TASK-2026-07-28-004 (Work on widget views for handoff): completed 2026-08-05.
+- Added TASK-2026-08-05-001, P0: Work on the changes and feedback discussed by the team in the call, with timeline, Figma-comment, and Suveer Teams-feedback subtasks.
+
+**AI — UX/UI Agent task:**
+- Added TASK-2026-08-05-002 with no inferred priority: Set up the design system rules for the UX/UI Agent, covering the instruction file, MVP design-system and component guidance, atomic-theory component guidance, UX principles, UX copy, and later conflict-management guidance.
+
+## 2026-08-06 — AI product structure correction
+
+The user clarified that AI now has two sub-products: [[Persona Bot - Index|Persona Bot]] and [[UX Agent Design System - Index|UX Agent Design System]].
+
+- Moved all existing Persona Bot concepts, open tasks, and completed tasks into the Persona Bot sub-product.
+- Reassigned TASK-2026-08-05-002 to UX Agent Design System and changed its priority from unprioritized to P0. All seven source subtasks remain open under the parent task.
+- Moved TASK-2026-05-18-006 (Claude skills quick demo recording) to Standalone because it does not belong to either specified AI sub-product.

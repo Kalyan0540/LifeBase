@@ -27,4 +27,4 @@ No patterns yet. See [[Patterns Index]] for work-level patterns.
 
 ---
 
-*Updated: 2026-06-24*
+*Updated: 2026-07-28*

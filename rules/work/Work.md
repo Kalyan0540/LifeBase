@@ -30,7 +30,9 @@ Catalyst/
 ├── AI Summarisation/
 └── Activity Feed/
 
-AI/         (flat: no sub-products yet)
+AI/
+├── Persona Bot/
+└── UX Agent Design System/
 ```
 
 ## Retrieval Rules

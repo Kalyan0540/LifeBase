@@ -155,3 +155,93 @@ Created source page [[spaced-repetition-notes|How To Remember Anything Forever-i
 Processed `raw/knowledge/inbox/My App Makes $50KMonth This Is My ASO Playbook.md`, renamed it for readability, and moved it to `raw/knowledge/product-and-design/product-growth/My App Makes $50K per Month - This Is My ASO Playbook.md`.
 
 Created source page [[My App Makes $50K per Month - This Is My ASO Playbook]] and concept page [[App Store Optimization]]. Updated [[Wiki Index]] and [[overview]] to add the source, concept, and ASO synthesis to Product Strategy & Growth.
+
+---
+
+## [2026-07-06] ingest | Tendon load management and rehabilitation
+
+Processed `raw/knowledge/inbox/Why Your Tendons Never Heal (And How To Fix Them).md` and moved it intact to `raw/knowledge/health-and-wellness/Why Your Tendons Never Heal (And How To Fix Them).md`.
+
+Created source page [[Why Your Tendons Never Heal (And How To Fix Them)]] and concept page [[Tendon Load Management and Rehabilitation]]. Updated [[Wiki Index]] and [[overview]] with the new health and wellness material.
+
+---
+
+## [2026-07-13] ingest | UX psychology, Figma typography tokens, and conflict frame control
+
+Processed three files from `raw/knowledge/inbox/`.
+
+Moved `The UX Psychology Behind Apps People Can’t Stop Using.md` and `Going Unitless in Figma - Text Line-heights & letter-spacing.md` to `raw/knowledge/product-and-design/design/`.
+
+Moved `The Cheat Code for Controlling Conflict.md` to `raw/knowledge/mental-models/` and moved its image attachment to `raw/knowledge/assets/`.
+
+Created source pages [[The UX Psychology Behind Apps People Can’t Stop Using]], [[Going Unitless in Figma - Text Line-heights & letter-spacing]], and [[The Cheat Code for Controlling Conflict]].
+
+Created concept pages [[UX Psychology]], [[Unitless Typography Tokens in Figma]], and [[Conflict De-escalation and Frame Control]]. Updated [[Figma Variables]], [[Wiki Index]], and [[overview]].
+
+---
+
+## [2026-07-14] ingest | Claude Code capability extension stack
+
+Processed `raw/knowledge/inbox/5 Open Source Repos That Fix 95% of Claude Code's Problems.md` and moved it to `raw/knowledge/technology/ai/5 Open Source Repos That Fix 95% of Claude Code's Problems.md`.
+
+Created source page [[5 Open Source Repos That Fix 95% of Claude Code's Problems]] and concept page [[Claude Code Capability Extensions]].
+
+Updated [[Wiki Index]] and [[overview]] with the new technology/AI source and concept.
+
+---
+
+## [2026-07-17] ingest | System design, Figma shadows, and tendon rehab
+
+Processed three files from `raw/knowledge/inbox/`.
+
+Moved `900+ hours of Learning System Design in 9 Minutes.md` to `raw/knowledge/technology/software-engineering/`.
+Moved `Your Figma Drop Shadows Look Cheap (Fix This in 2 Minutes).md` to `raw/knowledge/product-and-design/design/`.
+Moved `How To Rehab Tendon Injuries & Pain (Exercises & Education for Tendinitis, Tendinosis, Tendinopathy).md` to `raw/knowledge/health-and-wellness/`.
+
+Created source pages [[900+ hours of Learning System Design in 9 Minutes]], [[Your Figma Drop Shadows Look Cheap (Fix This in 2 Minutes)]], and [[How To Rehab Tendon Injuries & Pain (Exercises & Education for Tendinitis, Tendinosis, Tendinopathy)]].
+
+Created concept pages [[System Design Fundamentals]] and [[Subtle UI Shadows]]. Updated [[Tendon Load Management and Rehabilitation]] with the more detailed E3 Rehab framework.
+
+Updated [[Wiki Index]] and [[overview]] with the new sources, concepts, and Software Engineering & Architecture domain.
+
+---
+
+## [2026-07-20] ingest | Bone remodeling and mechanical loading
+
+Processed `raw/knowledge/inbox/(13) How Bones Get Stronger With Exercise.md`, renamed it for readability, and moved it to `raw/knowledge/health-and-wellness/How Bones Get Stronger With Exercise.md`.
+
+Created source page [[How Bones Get Stronger With Exercise]] and concept page [[Bone Remodeling and Mechanical Loading]].
+
+Updated [[Longevity Exercise Pillars]], [[Wiki Index]], and [[overview]] with the new health/wellness source and concept.
+
+---
+
+## [2026-07-28] ingest | Scaling laws and lifetime heartbeats
+
+Processed `raw/knowledge/inbox/Why does every mammal get 1 billion heartbeats in their life?.md` and moved it to `raw/knowledge/health-and-wellness/Why does every mammal get 1 billion heartbeats in their life?.md`.
+
+Created source page [[Why does every mammal get 1 billion heartbeats in their life?]] and concept page [[Scaling Laws]].
+
+Updated [[Wiki Index]] and [[overview]] with biological scaling, WBE theory, lifetime heartbeats, and urban scaling.
+
+---
+
+## [2026-08-05] ingest | Metabolic cancer theory and GKI
+
+Processed `raw/knowledge/inbox/Leading Cancer Researcher They’re Ignoring My Research.md` and moved it to `raw/knowledge/health-and-wellness/Leading Cancer Researcher They’re Ignoring My Research.md`.
+
+Moved two embedded screenshots from `raw/knowledge/inbox/Attachments/` to `raw/knowledge/assets/`.
+
+Created source page [[Leading Cancer Researcher They’re Ignoring My Research]], concept pages [[Cancer as a Mitochondrial Metabolic Disease]] and [[Glucose Ketone Index]], and entity page [[Thomas Seyfried]].
+
+Updated [[Wiki Index]] and [[overview]] with the new health/wellness source. Added an explicit medical-context caveat because the source discusses high-stakes cancer treatment claims.
+
+---
+
+## [2026-08-10] ingest | AI writing signals
+
+Processed `raw/knowledge/inbox/(27) I found the easiest sign of AI writing!!.md`, renamed it for readability, and moved it to `raw/knowledge/technology/ai/I Found the Easiest Sign of AI Writing.md`.
+
+Created source page [[I Found the Easiest Sign of AI Writing]] and concept page [[AI Writing Signals]]. The concept treats the listed stylistic markers as revision cues rather than proof of AI authorship.
+
+Updated [[Wiki Index]] and [[overview]] with the new technology/AI source and concept.

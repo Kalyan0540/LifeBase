@@ -47,6 +47,10 @@ Guardrails are expected to be handled mostly by backend/code logic. If a user as
 
 The web app should use the available landscape screen space instead of copying the small chatbot widget form factor.
 
+Meeting notes from July 2026 add that widget view is also part of MVP scope. Current design work should account for both widget and web/desktop views.
+
+Bank of America needs a client-specific mockup path separate from the generic persona version. This implies that persona settings, displayed details, and feedback from the Bank of America call may need to be documented and reflected in the mockups.
+
 Open design questions include:
 
 - whether a top header, left rail, or both are needed
@@ -57,5 +61,5 @@ Open design questions include:
 
 ---
 
-*Sources: [[Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording]], [[Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording]]*
-*Updated: 2026-06-17*
+*Sources: [[Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording]], [[Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording]], [[Meeting Notes - 2026-07-14]]*
+*Updated: 2026-07-17*

@@ -53,8 +53,10 @@ Current scope:
 
 - standalone web app
 - desktop-first experience
+- widget view is also in MVP scope
 - predefined persona selection
 - one persona selected at a time
+- separate personal settings may be needed for Bank of America and other clients
 - temporary on-screen state only; caching/history is not a current focus
 - design can be different from existing chatbot or platform UI
 
@@ -68,5 +70,5 @@ Forward-looking scope:
 
 ---
 
-*Sources: [[Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording]], [[Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording]]*
-*Updated: 2026-06-17*
+*Sources: [[Persona Bots - Scoping Discussion-2026-06-08 -Meeting Recording]], [[Alignment On Persona Bots UIUX-2026-06-16-Meeting Recording]], [[Meeting Notes - 2026-07-14]]*
+*Updated: 2026-07-17*

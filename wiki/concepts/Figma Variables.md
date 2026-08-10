@@ -2,8 +2,9 @@
 type: concept
 sources:
   - "[[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]]"
+  - "[[Going Unitless in Figma - Text Line-heights & letter-spacing]]"
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-07-13
 ---
 
 # Figma Variables
@@ -26,6 +27,12 @@ Each variable can be scoped to specific property types — fill, stroke, text, e
 
 Name colour swatches as `hue/shade` (e.g. `purple/50`) before running a bulk-creation plugin. The `/` separator creates nested groups in the variable panel automatically.
 
+## Code Syntax for typography handoff
+
+[[Going Unitless in Figma - Text Line-heights & letter-spacing]] extends variables into typography handoff. Because Figma cannot store unitless line-height values directly in text-style variables, teams can store calculated pixel values and use the variable's Code Syntax field to show the implementation token developers should use.
+
+See [[Unitless Typography Tokens in Figma]].
+
 ## Modes and dark mode
 
 No current plugin handles multi-mode setup cleanly. The recommended workflow is: create light mode via plugin, then manually copy values into the dark mode column using the shade-inversion method. See [[Dark Mode Design]].
@@ -35,3 +42,4 @@ No current plugin handles multi-mode setup cleanly. The recommended workflow is:
 - [[Colour Token Architecture]]
 - [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]]
 - [[Dark Mode Design]]
+- [[Unitless Typography Tokens in Figma]]

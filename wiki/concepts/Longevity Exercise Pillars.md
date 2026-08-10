@@ -3,8 +3,9 @@ type: concept
 sources:
   - "[[You're Exercising Wrong]]"
   - "[[The REAL Reason Diabetes Is So Dangerous]]"
+  - "[[How Bones Get Stronger With Exercise]]"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-07-20
 ---
 
 # Longevity Exercise Pillars
@@ -15,7 +16,7 @@ A balanced longevity exercise program trains multiple body systems rather than o
 
 ### Strength
 
-Strength training builds and preserves muscle, which supports independence, joint stability, bone density, insulin sensitivity, and metabolic resilience.
+Strength training builds and preserves muscle, which supports independence, joint stability, bone density, insulin sensitivity, and metabolic resilience. The bone-density benefit connects to [[Bone Remodeling and Mechanical Loading]]: repeated loading can gradually reinforce bone where stress is applied.
 
 Baseline pattern: three strength sessions per week, built around compound push, pull, and squat patterns, with progressive overload.
 
@@ -49,4 +50,4 @@ Exercise is not just calorie burn. Muscle contractions help clear glucose from t
 
 - [[You're Exercising Wrong]] — primary source
 - [[Diabetes and Metabolic Health]] — metabolic health concept
-
+- [[Bone Remodeling and Mechanical Loading]] — bone adaptation through repeated loading

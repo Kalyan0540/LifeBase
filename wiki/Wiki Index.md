@@ -19,16 +19,25 @@ Content catalog for the durable knowledge wiki.
 - [[Karpathy's LLM Wiki Goes Further Than Everyone Realised]] - Business/agency application of the LLM Wiki pattern: raw inputs, structured wiki/JSON, schema, skills, and per-agent memory
 - [[How I Vibe Coded a Recipe App using Claude Code (Full Build + Marketing)|How I Vibe Coded a Recipe App using Claude Code]] - AI-assisted mobile app build workflow using design generation, Expo React Native, OpenAI API, Supabase, RevenueCat, and short-form marketing
 - [[App Store Approval Checklist]] - Checklist for AI-built iOS app review readiness: secrets, dynamic code execution, stability, AI consent/privacy, payments, SDK compliance, and reviewer notes
+- [[5 Open Source Repos That Fix 95% of Claude Code's Problems]] - Claude Code extension stack for video, research, memory, frontend design, and token efficiency
+- [[I Found the Easiest Sign of AI Writing]] - Short-form guide to inflated language, vague authority, stock phrases, and other recurring AI-writing cues
+
+### Technology / Software Engineering
+
+- [[900+ hours of Learning System Design in 9 Minutes]] - Six system design fundamentals for reasoning about architecture: statelessness, caching, CAP tradeoffs, queues, database guarantees, and API contracts
 
 ### Product And Design / Design
 
 - [[Figma Design System 2025 - Colour Tokens  Ep 1  Figma Variables Colors|Figma Design System 2025 - Colour Tokens Ep 1]] - YouTube walkthrough of building colour primitives and usage tokens in Figma, including dark mode and variable scoping
+- [[Going Unitless in Figma - Text Line-heights & letter-spacing|Going Unitless in Figma]] - Workaround for Figma's lack of unitless typography variables: calculated pixel variables plus Code Syntax for developer-facing tokens
+- [[Your Figma Drop Shadows Look Cheap (Fix This in 2 Minutes)]] - Figma technique for softer UI shadows using negative spread values and lower-opacity repeated-card testing
 - [[Building a Winning UX Strategy Using the Kano Model - Jared Spool, at USI|Building a Winning UX Strategy Using the Kano Model - Jared Spool]] - Jared Spool on the Kano Model: frustration vs delight, basic expectations, excitement generators, and experience rot
 - [[Creating a dynamic UX guidance for generative AI applications|Creating a Dynamic UX - Guidance for Generative AI Applications]] - Microsoft's UX guidance for generative AI: immersive/assistive/embedded frameworks, three copilot principles, and collaborative input/output design
 - [[Guidelines for Human-AI Interaction]] - Microsoft Research's 18 research-validated guidelines for AI behaviour across four interaction phases
 - [[Jared Spool – Beyond The UX Tipping Point]] - Spool's UX Design Maturity Model, the UX tipping point, Disney Magic Band case study, and three maturity plays
 - [[The MAYA Principle Design for the Future, but Balance it with Your Users’ Present|The MAYA Principle]] - Raymond Loewy's Most Advanced Yet Acceptable design philosophy; iPod to iPhone progression
 - [[Hidden vs. Disabled In UX]] - Smashing Magazine article on choosing hidden, disabled, read-only, or enabled states for unavailable UI actions
+- [[The UX Psychology Behind Apps People Can’t Stop Using]] - UX psychology principles for forms, onboarding, signup, pricing, and conversion moments
 
 ### Product And Design / Product Growth
 
@@ -46,12 +55,18 @@ Content catalog for the durable knowledge wiki.
 - [[PDC 1996 Keynote with Douglas Adams]] - Douglas Adams on mental models, perception, and the biscuit story; philosophy of how humans model reality
 - [[The Science of Successful Things Star Wars, Steve Jobs, and Google’s Epic Fail  Derek Thompson|The Science of Successful Things - Derek Thompson]] - Derek Thompson on MAYA applied to Star Wars, iPhone, and Google Glass's failure
 - [[Airplane and Rocket Analogy]] - Mental model: incremental improvement within a paradigm has a ceiling; reaching beyond it needs a different vehicle, not a better airplane
+- [[The Cheat Code for Controlling Conflict]] - Ego-threat and frame-control model for conflict escalation and de-escalation
 
 ### Health And Wellness
 
+- [[How Bones Get Stronger With Exercise]] - Short anatomy explainer on Wolff's law, cortical bone, and how repeated mechanical loading gradually strengthens bone
+- [[Why does every mammal get 1 billion heartbeats in their life?]] - Veritasium explainer on biological scaling laws, Kleiber's Law, WBE theory, lifetime heartbeats, and urban scaling
 - [[The REAL Reason Diabetes Is So Dangerous]] - Anatomy and physiology explainer on blood glucose, insulin, insulin resistance, diabetes complications, and remission
 - [[What Vitamin D REALLY Does to the Body]] - Institute of Human Anatomy explainer on vitamin D3 synthesis, liver/kidney activation, calcium absorption, deficiency, and supplementation
 - [[You're Exercising Wrong]] - Longevity exercise model built around strength, low-intensity cardio, high-intensity cardio, mobility, and balance
+- [[Why Your Tendons Never Heal (And How To Fix Them)]] - Tendon load-management and isometric-exercise guidance for rebuilding capacity without complete rest
+- [[How To Rehab Tendon Injuries & Pain (Exercises & Education for Tendinitis, Tendinosis, Tendinopathy)]] - Detailed E3 Rehab framework for tendinopathy terminology, pain monitoring, load management, staged rehab, and adjunct treatment limits
+- [[Leading Cancer Researcher They’re Ignoring My Research]] - Thomas Seyfried's metabolic cancer theory: mitochondria, glucose/glutamine dependency, GKI, and press-pulse therapy claims
 
 ### Learning And Memory
 
@@ -65,15 +80,20 @@ Content catalog for the durable knowledge wiki.
 - [[Nir Eyal]] - Behavioural design author; creator of the Hook Model
 - [[Kunal Shah]] - Indian entrepreneur (FreeCharge, CRED); creator of the Delta 4 Framework
 - [[Douglas Adams]] - British author (*Hitchhiker's Guide*); philosopher of human mental models and perception
+- [[Thomas Seyfried]] - Biology professor and metabolic oncology researcher; argues for a mitochondrial metabolic theory of cancer
 
 ---
 
 ## Concepts
 
+- [[Bone Remodeling and Mechanical Loading]] - Bone adaptation through osteoclast/osteoblast remodeling and repeated mechanical loading over time
+- [[Cancer as a Mitochondrial Metabolic Disease]] - Seyfried's model that cancer starts from mitochondrial energy failure and glucose/glutamine fermentation dependency
 - [[Colour Token Architecture]] - Two-tier colour system: primitives (scoped out) and usage tokens (background, text, icon, border)
 - [[Dark Mode Design]] - Shade inversion method for deriving dark mode from light mode primitives
 - [[AI-First Business Systems]] - Agents, skills, structured memory, and integrations arranged as a repeatable operating system for business workflows
 - [[AI-Assisted App Building]] - Staged workflow for building apps with AI: reference research, feature spec, design generation, implementation, backend, testing, launch readiness
+- [[Claude Code Capability Extensions]] - Specialist tools that extend Claude Code for video, research, memory, design, and token-efficiency gaps
+- [[AI Writing Signals]] - Recurring inflated, generic, or unsupported language patterns to use as revision cues rather than proof of AI authorship
 - [[Action Visibility in UX]] - Choosing when to show, disable, hide, or make controls read-only based on workflow relevance, permissions, and state
 - [[App Store Optimization]] - Improving app-store search visibility and listing conversion through keywords, screenshots, and ratings/reviews
 - [[App Store Review Readiness for AI-Built Apps]] - Launch-readiness checklist for AI-built iOS apps: secrets, dynamic code execution, stability, AI privacy, payments, SDKs, and reviewer support
@@ -83,6 +103,7 @@ Content catalog for the durable knowledge wiki.
 - [[Figma Variables]] - Figma's native variable system: collections, modes, scoping, and bulk creation workflow
 - [[First Principles Thinking]] - Reasoning from fundamental truths rather than by analogy; three steps: identify assumptions, break to fundamentals, create new solutions
 - [[Generative AI UX Design]] - Designing copilot UX: focus frameworks, three principles (human in control, avoid anthropomorphizing, stakeholders), and collaborative input/output with appropriate friction
+- [[Glucose Ketone Index]] - Ratio of blood glucose to blood ketones used in Seyfried's metabolic-health and cancer-management framework
 - [[Flywheel Effect]] - Positive feedback loops that build momentum and increase payoff of incremental effort; meta-competitive advantage
 - [[Hook Model]] - Nir Eyal's four-step habit framework: trigger -> action -> variable reward -> investment
 - [[Hotelling's Model]] - Spatial competition model explaining why competitors cluster; Nash Equilibrium vs socially optimal arrangement
@@ -90,11 +111,18 @@ Content catalog for the durable knowledge wiki.
 - [[Kano Model]] - Three investment-to-satisfaction curves: basic expectations, performance payoff, and excitement generators
 - [[LLM Wiki Architecture]] - Three-layer architecture: raw sources, wiki, schema; plus wiki index/log navigation files
 - [[Longevity Exercise Pillars]] - Five-pillar exercise model for healthspan: strength, Zone 2, high intensity, mobility, balance
+- [[Conflict De-escalation and Frame Control]] - Diagnosing identity, control, and safety threats under conflict, then holding a useful frame
 - [[Vitamin D and Bone Health]] - Vitamin D3 synthesis and activation, calcium absorption, bone consequences of deficiency, testing, and supplementation stance
 - [[MAYA Principle]] - Most Advanced Yet Acceptable; the design sweet spot between too familiar and too alien
 - [[Obsidian]] - Markdown app used as wiki browser; relevant features: graph view, web clipper, Dataview, Marp
 - [[Persistent Knowledge Base]] - Core concept: LLM-maintained wiki that compounds over time vs. RAG re-derivation on every query
 - [[Spaced Repetition]] - Active recall at expanding intervals, supported by focused and meaningful flashcards
+- [[Scaling Laws]] - Power-law reasoning for systems where size changes produce nonlinear efficiency, intensity, or risk
+- [[System Design Fundamentals]] - Architecture tradeoff questions around state, caching, consistency, queues, database guarantees, and API contracts
+- [[Subtle UI Shadows]] - Using negative spread, opacity, and repeated-layout testing so shadows create hierarchy without visual heaviness
+- [[Tendon Load Management and Rehabilitation]] - Gradually matching tendon capacity to activity through controlled loading, movement-specific isometrics, and next-day symptom monitoring
+- [[Unitless Typography Tokens in Figma]] - Using calculated pixel variables and Code Syntax to hand off unitless line-height and letter-spacing tokens from Figma
+- [[UX Psychology]] - Behavioural design levers for defaults, progress, reciprocity, ownership, loss framing, and contrast
 - [[UX Design Maturity Model]] - Five organisational stages: Dark Ages -> Spot UX -> UX as a Service -> Embedded UX -> Infused UX
 - [[User Journey Mapping]] - Mapping all customer touchpoints on a frustration-to-delight scale to prioritise design investment
 - [[Variable Rewards]] - Skinner's variable reinforcement schedule applied to product design; three types: tribe, hunt, self

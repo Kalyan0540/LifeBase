@@ -10,10 +10,18 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
-- [ ] Sprint Grooming Comments. `P0` `TASK-2026-06-24-002`
-  - [ ] Check what's best design solution for - At-least 1 table option should be selected to view data.
-  - [x] Add warning banner all places while editing public filter in the UI. `completed 2026-06-25`
-  - [x] Add a flow for edit - saved private filter (without banner). `completed 2026-06-25`
+- [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P2` `TASK-2026-05-20-003`
+  - [x] Update all designs to use only one string output type. `completed 2026-06-15`
+  - [ ] Table output flows designs. *(Review against string-only scope.)*
+  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
+  - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
+  - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
+  - [x] Added view mode for custom variable. `completed 2026-06-02`
+- [/] Update crosstabs designs to be consistent with Enlyta design system (due 15 Aug). `P0` `TASK-2026-07-27-001`
+  - [x] Connect with Nima & Pradnya for getting current issues document. `completed 2026-07-28`
+  - [ ] Update all user journeys.
+  - [ ] Update in all areas in different files.
+- [ ] Dive into the confirmation UI best practises and update the crosstabs confirmations. `P0` `TASK-2026-07-28-002`
 - [ ] Update Run Button functionality in final UJ's page in Figma. `P1` `TASK-2026-06-12-001`
 - [ ] Work on the crosstabs new comments by Pradnya. `P1` `TASK-2026-06-12-002`
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
@@ -23,30 +31,17 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
   - [ ] Remove old Figma designs from the Final UJ's.
   - [x] Ideate on the saving flow for filters (remove the bottom rename and make it same like new variable flow). `completed 2026-06-22`
   - [x] Update the saving flow for filters in Final UJ's. `completed 2026-06-23`
-- [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
-  - [x] Update all designs to use only one string output type. `completed 2026-06-15`
-  - [ ] Table output flows designs. *(Review against string-only scope.)*
-  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
-  - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
-  - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
-  - [x] Added view mode for custom variable. `completed 2026-06-02`
-- [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2` `TASK-2026-06-09-001`
 
 ### [[Design System - Index|Design System]]
 
-- [ ] Design system colour tokens. `P2` `TASK-2026-05-18-004`
-  - [x] Research on the best practises for color system.
-  - [x] Analyse and setup framework for migrating to new scalable system.
-  - [x] Create color primitives and map existing colors to the color scale. `completed 2026-06-03`
-  - [x] Derive semantics tokens from created primitives. `completed 2026-06-04`
-  - [x] Review the draft & work on the feedback. `completed 2026-06-23`
-  - [ ] Map and test with few components to check the structure and mapping hierarchy.
-  - [ ] Create styles and tokens in Figma.
-  - [ ] Create dev handoff for the latest tokens.
+- [ ] Design System Rebuild in Figma (due Aug End). `P0` `TASK-2026-07-27-002`
+  - [x] Design system colour tokens. `completed 2026-07-27`
+    - [x] Map and test with few components to check the structure and mapping hierarchy. `completed 2026-07-27`
+    - [x] Create styles and tokens in Figma. `completed 2026-07-27`
+    - [x] Create dev handoff for the latest tokens. `completed 2026-07-27`
 
 ### [[AI Summarisation - Index|AI Summarisation]]
 
-- [ ] Summarisation backend flag turn on/off for member side. `P2` `TASK-2026-05-18-005`
 - [ ] Experiment on UX improvements for AI summaries. `P3` `TASK-2026-06-16-001`
   - [ ] Loading indication and generated indication at tab level.
   - [ ] Collapsible or see-more option for header metadata.
@@ -56,28 +51,50 @@ Only explicit tasks appear here. A note becomes a task only if the raw note uses
   - [ ] Show generated summary progressively like a typewriter instead of populating it all at once.
   - [ ] Explore moving away from dialog view to page view.
 
-### [[AI - Index|AI]]
+### [[Persona Bot - Index|Persona Bot]]
 
-- [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
 - [/] Persona Bot's UX/UI design. `P0` `TASK-2026-06-09-004`
   - [x] Research & Documentation `completed 2026-06-18`
   - [x] Ideation `completed 2026-06-22`
     - [x] Create two substantively different first-page/core app mock-up options. `completed 2026-06-22`
-  - [ ] First Draft + Review
-  - [ ] Final Draft + Review
-  - [ ] Dev Handoff
+  - [x] First Draft + Review `completed 2026-06-29`
+  - [x] Final Draft + Review `completed 2026-07-28`
+  - [x] Design System creation `completed 2026-07-28`
+    - [x] Tokens `completed 2026-07-15`
+    - [x] Components `completed 2026-07-28`
+    - [x] Flows `completed 2026-07-28`
+  - [x] Dev Handoff `completed 2026-07-28`
   - [x] Check with Tish on prioritization so Persona Bots can move in parallel with Enlyta work. `completed 2026-06-17`
-  - [ ] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking.
+  - [x] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking. `completed 2026-08-05`
+- [ ] Create separate Persona Bot mockups for Bank of America and a generic persona, covering widget and web views. `P0` `TASK-2026-07-17-003`
+- [ ] Work on the changes and feedback discussed by the team in the call today. `P0` `TASK-2026-08-05-001`
+  - [ ] Provide a timeline for the discussed changes.
+  - [ ] Address the Figma comments.
+  - [ ] Address the feedback Suveer shared in the Teams message.
+
+### [[UX Agent Design System - Index|UX Agent Design System]]
+
+- [ ] Set up the design system rules for the UX/UI Agent. `P0` `TASK-2026-08-05-002`
+  - [ ] Create the instruction file.
+  - [ ] Create the design system usage guideline for MVP.
+  - [ ] Create the component usage guideline for MVP.
+  - [ ] Create the new component guideline using atomic theory for MVP.
+  - [ ] Create the UX principles for MVP.
+  - [ ] Create the UX copy guidelines, covering cases and basics, for MVP.
+  - [ ] Create the conflict management instruction after the approach is decided.
 
 ### Standalone
 
 - [ ] Research the design brief and provide templates and best practises to add it to the Jira board. `P1` `TASK-2026-06-08-001`
+- [ ] Claude skills quick demo recording. `P3` `TASK-2026-05-18-006`
 
 ---
 
 ## Blocked
 
-No blocked tasks.
+### [[AI Summarisation - Index|AI Summarisation]]
+
+- [ ] Summarisation backend flag turn on/off for member side. `TASK-2026-05-18-005` *(On hold: not a priority.)*
 
 ---
 
@@ -96,6 +113,17 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ### [[Cross Tabs - Index|Cross Tabs]]
 
+- [x] Work on the custom variable pending states and feedback from Pradnya. `P0` `TASK-2026-07-28-003` `completed 2026-07-28`
+- [x] Need Tooltip design for Jira ticket ED-1221. `P0` `TASK-2026-07-28-001` `completed 2026-07-28`
+- [x] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P0` `TASK-2026-06-09-001` `completed 2026-07-20`
+- [x] Add designs for filters with different variable types and operator combinations. `P0` `TASK-2026-07-13-001` `completed 2026-07-15`
+  - [x] String `completed 2026-07-15`
+  - [x] Numeric `completed 2026-07-15`
+  - [x] Predefined/multi-select etc. `completed 2026-07-15`
+- [x] Sprint Grooming Comments. `P0` `TASK-2026-06-24-002` `completed 2026-06-29`
+  - [x] Check what's best design solution for - At-least 1 table option should be selected to view data. `completed 2026-06-29`
+  - [x] Add warning banner all places while editing public filter in the UI. `completed 2026-06-25`
+  - [x] Add a flow for edit - saved private filter (without banner). `completed 2026-06-25`
 - [x] Recheck and resolve the issues of the initial Design QA bugs. `P0` `TASK-2026-06-24-001` `completed 2026-06-25`
 - [x] Crosstab prototype demo recording. `P2` `TASK-2026-05-18-003` `completed 2026-06-18` *(Handled by Pradnya; removed from active work.)*
 - [x] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002` `completed 2026-06-17`
@@ -118,8 +146,21 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 - [x] Add validation that bucket names should not be the same. `P0` `TASK-2026-05-20-008` `completed 2026-05-21`
 - [x] Update table designs: update all screenshots and check links in Jira. `P0` `TASK-2026-05-21-001` `completed 2026-05-25`
 
+### [[Design System - Index|Design System]]
+
+- [x] Design system colour tokens. `P2` `TASK-2026-05-18-004` `completed 2026-07-27`
+  - [x] Research on the best practises for color system.
+  - [x] Analyse and setup framework for migrating to new scalable system.
+  - [x] Create color primitives and map existing colors to the color scale. `completed 2026-06-03`
+  - [x] Derive semantics tokens from created primitives. `completed 2026-06-04`
+  - [x] Review the draft & work on the feedback. `completed 2026-06-23`
+  - [x] Map and test with few components to check the structure and mapping hierarchy. `completed 2026-07-27`
+  - [x] Create styles and tokens in Figma. `completed 2026-07-27`
+  - [x] Create dev handoff for the latest tokens. `completed 2026-07-27`
+
 ### [[AI Summarisation - Index|AI Summarisation]]
 
+- [x] Communication of the 0 or no responses in bucketing handling - [[Decisions/Zero-Contributor Values in Bucketing and Custom Logic|Zero-Contributor Values in Bucketing and Custom Logic]]. `P0` `TASK-2026-07-13-002` `completed 2026-07-13`
 - [x] Update the Discussion, Conversation & OE Summary designs with latest design options in Catalyst. `P1` `TASK-2026-06-08-002` `completed 2026-06-16`
   - [x] Update OE Summarisation Flows. `completed 2026-06-10`
   - [x] Update Discussion Summarisation Flows. `completed 2026-06-16`
@@ -131,6 +172,12 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 - [x] Confirm with Pradnya on bucketing flow difference between Catalyst and Enlyta (Catalyst carries only bucketed data, not values data). `P0` `TASK-2026-05-20-010` `completed 2026-05-21`
 - [x] Add validation that bucket names should not be the same. `P0` `TASK-2026-05-20-011` `completed 2026-05-21`
 - [x] Create loading state for N size in bucketing. `P0` `TASK-2026-05-20-012` `completed 2026-05-21`
+
+### [[Persona Bot - Index|Persona Bot]]
+
+- [x] Work on widget views for handoff. `P0` `TASK-2026-07-28-004` `completed 2026-08-05`
+- [x] Document all UX/UI feedback and points discussed in the Bank of America call for widget and desktop views. `P0` `TASK-2026-07-17-002` `completed 2026-08-05`
+- [x] Sync with Suveer and the team on Persona Bot data needs and required user/persona details. `P0` `TASK-2026-07-17-001` `completed 2026-07-27`
 
 ### [[Activity Feed - Index|Activity Feed]]
 

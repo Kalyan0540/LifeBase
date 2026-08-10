@@ -504,3 +504,166 @@ Cross Tabs:
 - Completed the nesting-table total-column subtask under TASK-2026-06-12-002.
 
 Updated `Cross Tabs - Tasks.md`, `Cross Tabs - Index.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-06-29.
+
+---
+
+## [2026-07-06] process | June 29 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-06-29.md`.
+
+Cross Tabs:
+- Completed TASK-2026-06-24-002 for Sprint Grooming Comments and its remaining table-option design subtask, recorded on 2026-06-29.
+
+AI / Persona Bots:
+- Marked First Draft + Review complete under TASK-2026-06-09-004. The source says it was completed the prior week but does not provide an exact date, so the dated snapshot is used for task metadata.
+
+Updated `Cross Tabs - Tasks.md`, `Cross Tabs - Index.md`, `AI - Tasks.md`, `AI - Index.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Removed the stale tracker row for the absent 2026-06-29 meeting-note capture. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-06.
+
+---
+
+## [2026-07-13] process | July 6 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-06.md`.
+
+The snapshot matched the current open task dashboard, so no task status, priority, or subtask changes were needed.
+
+Removed the stale tracker row for the absent 2026-07-06 meeting-note capture. Updated `Work Inbox Index.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-13.
+
+---
+
+## [2026-07-14] process | July 13 pending tasks and Catalyst bucketing decision
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-13.md` and `raw/work/processed/Catalyst AI Summary - No responses bucketing handling.md`.
+
+Cross Tabs:
+- Added TASK-2026-07-13-001 for filter designs across string, numeric, and predefined/multi-select variable/operator combinations.
+
+AI Summarisation:
+- Added completed TASK-2026-07-13-002 for communicating 0/no-response bucketing handling.
+- Captured [[Decisions/Zero-Contributor Values in Bucketing and Custom Logic|Zero-Contributor Values in Bucketing and Custom Logic]].
+- Moved the referenced screenshots from `raw/work/inbox/Attachments/` to `raw/work/assets/`.
+
+Updated `Cross Tabs - Tasks.md`, `AI Summarisation - Tasks.md`, `AI Summarisation - Index.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Removed the stale tracker row for the absent 2026-07-13 meeting-note capture. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-14.
+
+---
+
+## [2026-07-17] process | July 15 task snapshot and Persona Bot notes
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-14.md` and `raw/work/processed/Meeting Notes - 2026-07-14.md`.
+
+Cross Tabs:
+- Completed TASK-2026-07-13-001 and all three variable/operator combination subtasks from the 2026-07-15 snapshot.
+- Updated TASK-2026-06-09-001 priority from P2 to P0.
+
+AI / Persona Bots:
+- Added Design System creation subtasks under TASK-2026-06-09-004 and marked Tokens complete.
+- Added three P0 follow-ups for data/user-detail sync, Bank of America UX/UI feedback documentation, and separate Bank of America/generic persona mockups across widget and web views.
+- Updated [[Persona Bots Overview]] and [[Persona Bots Interaction Model]] with widget MVP scope and client-specific Bank of America context.
+
+Updated `Cross Tabs - Tasks.md`, `AI - Tasks.md`, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, `Work Task History.md`, Persona Bot concept pages, and product indexes. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-17.
+
+---
+
+## [2026-07-20] process | July 17 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-17.md`.
+
+The snapshot matched the current open task dashboard, so no task status, priority, or subtask changes were needed.
+
+Removed the stale tracker row for the absent 2026-07-17 empty meeting-note capture. Updated `Work Inbox Index.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-20.
+
+---
+
+## [2026-07-20] correction | Completed Cross Tabs ED-860 task
+
+Updated TASK-2026-06-09-001 (Design QA: Crosstabs table layouts testing without data / ED-860) to completed 2026-07-20 based on the user's completion screenshot.
+
+Moved the task from Open to Completed in `Cross Tabs - Tasks.md` and `Work Tasks.md`, reduced Cross Tabs open tasks from 4 to 3 in `Work Index.md`, updated `Cross Tabs - Index.md`, and removed the completed task from `raw/work/inbox/Pending Tasks - 2026-07-20.md`.
+
+---
+
+## [2026-07-27] process | July 20 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-20.md`.
+
+The snapshot matched the current open task dashboard, so no task status, priority, or subtask changes were needed.
+
+Removed the stale tracker row for the absent 2026-07-20 empty meeting-note capture. Updated `Work Inbox Index.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-27.
+
+---
+
+## [2026-07-28] process | July 27 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-27.md`.
+
+Cross Tabs:
+- Added TASK-2026-07-27-001, P0: update crosstabs designs to be consistent with Enlyta design system, due 15 Aug, with Nima/Pradnya current-issues, all user journeys, and all-file update subtasks.
+
+Design System:
+- Completed TASK-2026-05-18-004 for Design system colour tokens, including component mapping test, Figma styles/tokens, and dev handoff.
+- Added TASK-2026-07-27-002, P0: Design System Rebuild in Figma, due Aug End.
+
+AI / Persona Bots:
+- Completed TASK-2026-07-17-001 for Persona Bot data/user-details sync. The latest snapshot used Suveer, replacing the earlier Subair wording for the completed task.
+
+Updated `Cross Tabs - Tasks.md`, `Design System - Tasks.md`, `AI - Tasks.md`, product indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Removed the stale tracker row for the absent 2026-07-27 empty meeting-note capture. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-07-28.
+
+---
+
+## [2026-08-05] process | July 28 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-07-28.md`.
+
+Cross Tabs:
+- Completed TASK-2026-07-28-001 for the ED-1221 tooltip design.
+- Completed TASK-2026-07-28-003 for custom variable pending states and Pradnya feedback.
+- Completed the Nima/Pradnya current-issues subtask under TASK-2026-07-27-001.
+- Added TASK-2026-07-28-002, P0: dive into confirmation UI best practises and update crosstabs confirmations.
+
+AI / Persona Bots:
+- Marked Final Draft + Review, Design System creation, Components, Flows, and Dev Handoff complete under TASK-2026-06-09-004.
+- Added TASK-2026-07-28-004, P0: work on widget views for handoff.
+
+Updated `Cross Tabs - Tasks.md`, `AI - Tasks.md`, product indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Removed the stale tracker row for the absent 2026-07-28 empty meeting-note capture. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-08-05.
+
+---
+
+## [2026-08-06] process | August 5 tasks and notes
+
+Processed `raw/work/processed/Pending Tasks - 2026-08-05.md` and `raw/work/processed/Meeting Notes - 2026-08-05.md`.
+
+Cross Tabs:
+- Changed TASK-2026-05-20-003 from P0 to P2.
+- Marked TASK-2026-07-27-001 in progress.
+
+AI Summarisation:
+- Moved TASK-2026-05-18-005 to Blocked/On Hold and removed its priority because the note says it is not a priority.
+
+AI:
+- Completed the UX-board-ticket subtask under TASK-2026-06-09-004 on 2026-08-05.
+- Completed TASK-2026-07-17-002 and TASK-2026-07-28-004 on 2026-08-05.
+- Added TASK-2026-08-05-001, P0, for the team-call feedback changes and its three subtasks.
+- Added unprioritized TASK-2026-08-05-002 for the UX/UI Agent design-system rule files and seven stated subtasks. No priority was inferred from the note.
+
+Updated affected product task pages and indexes, `Work Tasks.md`, `Work Index.md`, `Work Inbox Index.md`, and `Work Task History.md`. Created the next pending-task snapshot and empty notes capture dated 2026-08-06.
+
+---
+
+## [2026-08-06] correction | AI split into two sub-products
+
+Restructured `work/products/AI/` from one flat product into the parent [[AI - Index|AI]] with two sub-products:
+
+- [[Persona Bot - Index|Persona Bot]] — received the existing Persona Bot concepts, tasks, and history.
+- [[UX Agent Design System - Index|UX Agent Design System]] — received TASK-2026-08-05-002 and its seven subtasks; priority changed from unprioritized to P0 per user clarification.
+
+Moved TASK-2026-05-18-006 (Claude skills quick demo recording) to Standalone so the AI parent contains exactly the two specified products. Updated `rules/work/Work.md`, `Work Index.md`, `Work Tasks.md`, `Work Inbox Index.md`, `Work Task History.md`, and the 2026-08-06 pending snapshot.
+
+---
+
+## [2026-08-10] process | August 6 pending tasks
+
+Processed `raw/work/processed/Pending Tasks - 2026-08-06.md`.
+
+The snapshot matched the current open and on-hold task dashboard, so no task status, priority, or subtask changes were needed.
+
+Removed the stale tracker row for the absent 2026-08-06 empty meeting-note capture. Updated `Work Inbox Index.md`. Created the next pending-task snapshot and empty meeting-note inbox file dated 2026-08-10.

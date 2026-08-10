@@ -1,30 +1,21 @@
 ---
-type: work-product
+type: work-parent
 ---
 
 # AI
 
-AI product work. Includes Claude skills, AI-related features, and demos. Treated as a single product folder until distinct sub-products emerge — at which point this will become a parent index and sub-products will live in their own folders.
+Parent product. Sub-products live under `work/products/AI/`.
 
-## Folders
+## Sub-Products
 
-- `Concepts/` — Product/UX understanding (features, workflows, behaviours)
-- `Decisions/` — Explicit product/design decisions
-- `AI - Tasks` — Open, blocked, and completed tasks
-
-## Concepts
-
-- [[Persona Bots Overview]] — Product purpose, data model, scope, and platform shape
-- [[Persona Bots Interaction Model]] — Persona selection, conversation behavior, and design constraints
-
-## Decisions
-
-No explicit decisions captured yet.
+- [[Persona Bot - Index|Persona Bot]] — Synthetic-persona web app across widget and web views
+- [[UX Agent Design System - Index|UX Agent Design System]] — Design-system rules and usage guidance for the UX Agent
 
 ## Patterns
 
-No patterns yet. See [[Patterns Index]] for work-level patterns.
+No AI-specific cross-product patterns captured yet. See [[Patterns Index]].
 
----
+## Quick Links
 
-*Updated: 2026-06-23*
+- [[Work Tasks]] — All open tasks across products
+- [[Patterns Index]] — All patterns across products

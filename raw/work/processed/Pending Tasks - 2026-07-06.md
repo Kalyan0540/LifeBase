@@ -1,11 +1,9 @@
-# Pending Tasks - 2026-06-29
+# Pending Tasks - 2026-07-06
 
 ## Cross Tabs
 
 ### P0
 
-- [/] Sprint Grooming Comments.
-  - [ ] Check what's best design solution for - At-least 1 table option should be selected to view data.
 - [/] Update variable creation flows in UI per string-only output decision.
   - [ ] Table output flows designs.
 
@@ -51,8 +49,7 @@
 
 ### P0
 
-- [/] Persona Bot's UX/UI design.
-  - [ ] First Draft + Review.
+- [/] Persona Bot's UX/UI design - `P0`
   - [ ] Final Draft + Review.
   - [ ] Dev Handoff.
   - [ ] Coordinate with Suveer to create a UX board ticket for Persona Bots tracking.

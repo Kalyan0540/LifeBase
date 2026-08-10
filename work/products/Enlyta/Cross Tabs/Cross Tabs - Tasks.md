@@ -8,10 +8,18 @@ Sub-product of [[Enlyta - Index|Enlyta]].
 
 ## Open
 
-- [ ] Sprint Grooming Comments. `P0` `TASK-2026-06-24-002`
-  - [ ] Check what's best design solution for - At-least 1 table option should be selected to view data.
-  - [x] Add warning banner all places while editing public filter in the UI. `completed 2026-06-25`
-  - [x] Add a flow for edit - saved private filter (without banner). `completed 2026-06-25`
+- [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P2` `TASK-2026-05-20-003`
+  - [x] Update all designs to use only one string output type. `completed 2026-06-15`
+  - [ ] Table output flows designs. *(Review against string-only scope.)*
+  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
+  - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
+  - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
+  - [x] Added view mode for custom variable. `completed 2026-06-02`
+- [/] Update crosstabs designs to be consistent with Enlyta design system (due 15 Aug). `P0` `TASK-2026-07-27-001`
+  - [x] Connect with Nima & Pradnya for getting current issues document. `completed 2026-07-28`
+  - [ ] Update all user journeys.
+  - [ ] Update in all areas in different files.
+- [ ] Dive into the confirmation UI best practises and update the crosstabs confirmations. `P0` `TASK-2026-07-28-002`
 - [ ] Update Run Button functionality in final UJ's page in Figma. `P1` `TASK-2026-06-12-001`
 - [ ] Work on the crosstabs new comments by Pradnya. `P1` `TASK-2026-06-12-002`
   - [ ] Display the variable code in Figma designs everywhere, including column/row/nesting sections and table name brackets, and share images for ED-1098.
@@ -21,14 +29,6 @@ Sub-product of [[Enlyta - Index|Enlyta]].
   - [ ] Remove old Figma designs from the Final UJ's.
   - [x] Ideate on the saving flow for filters (remove the bottom rename and make it same like new variable flow). `completed 2026-06-22`
   - [x] Update the saving flow for filters in Final UJ's. `completed 2026-06-23`
-- [ ] Update variable creation flows in UI per string-only output decision ([[String-Only Custom Variable Output]]). `P0` `TASK-2026-05-20-003`
-  - [x] Update all designs to use only one string output type. `completed 2026-06-15`
-  - [ ] Table output flows designs. *(Review against string-only scope.)*
-  - [x] Update delete & Edit custom variable. `completed 2026-06-01`
-  - [x] Confirm on the functionality similar to filters for editing and others. `completed 2026-06-02`
-  - [x] Confirm if a custom variable can be further bucketed. `completed 2026-06-02`
-  - [x] Added view mode for custom variable. `completed 2026-06-02`
-- [ ] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P2` `TASK-2026-06-09-001`
 
 ## Blocked
 
@@ -44,6 +44,17 @@ Previous parent scope for `TASK-2026-05-20-003`: update variable creation flows 
 
 ## Completed
 
+- [x] Work on the custom variable pending states and feedback from Pradnya. `P0` `TASK-2026-07-28-003` `completed 2026-07-28`
+- [x] Need Tooltip design for Jira ticket ED-1221. `P0` `TASK-2026-07-28-001` `completed 2026-07-28`
+- [x] Design QA: Crosstabs table layouts testing without data (ED-860 Dev Ticket). `P0` `TASK-2026-06-09-001` `completed 2026-07-20`
+- [x] Add designs for filters with different variable types and operator combinations. `P0` `TASK-2026-07-13-001` `completed 2026-07-15`
+  - [x] String `completed 2026-07-15`
+  - [x] Numeric `completed 2026-07-15`
+  - [x] Predefined/multi-select etc. `completed 2026-07-15`
+- [x] Sprint Grooming Comments. `P0` `TASK-2026-06-24-002` `completed 2026-06-29`
+  - [x] Check what's best design solution for - At-least 1 table option should be selected to view data. `completed 2026-06-29`
+  - [x] Add warning banner all places while editing public filter in the UI. `completed 2026-06-25`
+  - [x] Add a flow for edit - saved private filter (without banner). `completed 2026-06-25`
 - [x] Recheck and resolve the issues of the initial Design QA bugs. `P0` `TASK-2026-06-24-001` `completed 2026-06-25`
 - [x] Crosstab prototype demo recording. `P2` `TASK-2026-05-18-003` `completed 2026-06-18` *(Handled by Pradnya; removed from active work.)*
 - [x] Update filter journeys for the confirmation dialogue. `P0` `TASK-2026-05-18-002` `completed 2026-06-17`
